@@ -1,0 +1,18 @@
+title,raw_path,folder_name,subsystem_folder,base_url,chunk_file
+API Portal,/../../../3 Mobius Guides Source/API Portal/API Portal.flprj,API Portal,API_Portal,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/API_Portal/,
+Accounts Suite,/../../../3 Mobius Guides Source/Accounts Suite/Accounts Suite.flprj,Accounts Suite,Accounts_Suite,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Accounts_Suite/,
+Commercial Vehicle,/../../../3 Mobius Guides Source/Commercial/Commercial.flprj,Commercial,Commercial,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+EDI Toolset,/../../../3 Mobius Guides Source/EDI Toolset/EDI Toolset.flprj,EDI Toolset,EDI_Toolset,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/EDI_Toolset/,
+Household,/../../../3 Mobius Guides Source/Household/Household.flprj,Household,Household,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Household/,
+Mobius Claims,/../../../3 Mobius Guides Source/Mobius Claims/Mobius Claims.flprj,Mobius Claims,Mobius_Claims,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+Mobius Dynamic Pricing,/../../../3 Mobius Guides Source/Mobius Dynamic Pricing/Mobius Dynamic Pricing.flprj,Mobius Dynamic Pricing,Mobius_Dynamic_Pricing,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Dynamic_Pricing/,
+Mobius User Interface,/../../../3 Mobius Guides Source/Mobius UI/Mobius UI.flprj,Mobius UI,Mobius_UI,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_UI/,
+Mobius Screens and Keywords,/../../../3 Mobius Guides Source/MobiusScreensandKeywords/MobiusScreensandKeywords.flprj,MobiusScreensandKeywords,MobiusScreensandKeywords,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/MobiusScreensandKeywords/,
+Motor,/../../../3 Mobius Guides Source/MotorV/MotorV.flprj,MotorV,MotorV,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/MotorV/,
+Motorcycle,/../../../3 Mobius Guides Source/Motorcycle/Motorcycle.flprj,Motorcycle,Motorcycle,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Motorcycle/,
+Obfuscation Manager,/../../../3 Mobius Guides Source/Obfuscation Manager/Obfuscation Manager.flprj,Obfuscation Manager,Obfuscation_Manager,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Obfuscation_Manager/,
+Policy Processing,/../../../3 Mobius Guides Source/Policy Processing/Policy Processing.flprj,Policy Processing,Policy_Processing,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Policy_Processing/,
+Relationship Manager,/../../../3 Mobius Guides Source/Relationship Manager/Relationship Manager.flprj,Relationship Manager,Relationship_Manager,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Relationship_Manager/,
+Report Scheduler,/../../../3 Mobius Guides Source/Report Scheduler/Report Scheduler.flprj,Report Scheduler,Report_Scheduler,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Report_Scheduler/,
+Standard Reports,/../../../3 Mobius Guides Source/Standard Reports/Standard Reports.flprj,Standard Reports,Standard_Reports,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Standard_Reports/,
+Tools Suite,/../../../3 Mobius Guides Source/Tools Suite/Tools Suite.flprj,Tools Suite,Tools_Suite,https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Tools_Suite/,
