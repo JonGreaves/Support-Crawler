@@ -1,0 +1,30 @@
+Subsystem: Commercial Vehicle
+TOC Title: Health Conditions
+Page Title: Health Conditions screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Health_Conditions.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Health Conditions screen
+The Health Conditions screen follows the Claims Summary screen in the initial data capture for a new prospect and enables you to add details of any relevant medical conditions.
+See
+Claims Summary screen
+for guidance on adding claims details.
+Use the
+button to add conditions.
+Use the
+and
+buttons to maintain existing conditions.
+Records of existing medical conditions are edited in the Medical Conditions screen. See
+Medical Conditions screen
+for more information on working in this screen.
+After you save the policy or prospect record, you can open the Health Conditions screen from the Summary Screen. See
+4: 4: Summary Screen
+for more guidance on working in this screen.
+Open GI

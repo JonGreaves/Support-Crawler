@@ -1,0 +1,77 @@
+Subsystem: Commercial Vehicle
+TOC Title: Motor Claim
+Page Title: Motor Claim screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Motor_Claim.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Motor Claim screen
+This screen is displayed when you click
+or
+in the Claims Summary screen. This screen is used to record the details of any previous claims (against previous policies) which may affect the premium quoted for the new policy.
+See
+Claims Summary screen
+for more details on working in this screen.
+You can supply details relating to any accidents or claims, with the relevant claims status, details and costs.
+Claim Reference
+Type a reference for the claim.
+Incident Date
+Type the incident date. You cannot enter a future date in this field.
+Format: DD/MM/YYYY
+Claim Type
+Select the claim type.
+If you select
+Theft
+from the drop-down list, the
+Theft From Home Address
+field is enabled.
+Values: ABI code List 22
+Theft From Home Address?
+Select the
+Yes
+or the
+No
+radio button.
+This field is only enabled when you select
+Theft
+from the
+Claim Type
+drop-down list.
+Details
+Select the claim details from the drop-down list.
+Values: TGSL defined
+Example: No TP Involved, From Home (recovered) - Repaired, From Home (recovered) - Total Loss, Away From Home (recovered) - Repaired, Away From Home (recovered) - Total Loss, Insured Hit TP, Insured Hit Multiple TP, Lost Control, TP Hit Insured, Insured Hit Person, Insured Hit
+Claim Status
+Select the claim status from the drop-down list.
+Values: TGSL defined
+Example: No Claim Made, Outstanding, Settled
+Description
+Type a short description of the claim incident.
+Amount
+Enter the claim amount.
+Insurer Claim Code/Number
+Type the claim Code or the Insurer Claim Number.
+ULR Ref. Number
+Type the ULR (Uninsured Loss Recovery) reference number.
+NCD Prejudiced?
+Tick if this claim is NCD (No Claims Discount) prejudiced, untick if not.
+At Fault?
+Tick if your client is at fault, untick if not.
+Bodily Injury?
+Tick if there is bodily injury, untick if not.
+Incurred On This Policy?
+Tick if bodily injury is incurred on this claim, untick if not.
+Incurred On
+Select the appropriate vehicle.
+Values: TGSL defined
+Example: Motorcycle, Private Car
+After you save the record as a policy, you can modify claim information from the Claims Summary screen. See
+Claims Summary screen
+for more information on this screen.
+Open GI

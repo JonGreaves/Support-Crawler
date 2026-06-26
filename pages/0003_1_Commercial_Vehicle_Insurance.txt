@@ -1,0 +1,47 @@
+Subsystem: Commercial Vehicle
+TOC Title: 1: Commercial Vehicle Insurance
+Page Title: 1: Commercial Vehicle Insurance
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Commercial_Vehicle_Insurance.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Last updated:
+27 March 2026
+:
+14:50:25
+1: Commercial Vehicle Insurance
+This section documents the data capture screens used in a standard Commercial Vehicle Insurance LOB (Line of Business).
+This line of business provides data capture and quotations for commercial vehicles and is based on Code 44C ABI Group Rating, which only holds details of commercial vehicles up 3.5 tonnes gross vehicle weight. This LOB also provides the option of multi-vehicle cover.
+This LOB will not provide quotations for risks that extend beyond these limitations. Customers that exceed these limitations may need a special, non-standard line of business.
+The data capture screens for the Private Car, Motorcycle and Household LOBs are documented separately.
+The screens illustrated are part of the standard implementation, users have the ability to customise the navigation and the environment to suit their business processes.
+The  Commercial Vehicle LOB screens follow on from the core screens and start with the Driver Options screen in which the drivers who should be covered can be selected.
+See
+2: Driver Options Screen
+for more information on this screen.
+Note:
+The data capture screens are displayed in sequence and this is controlled by
+and
+buttons. Information on screens is saved when the
+button is pressed. This means that you can navigate backwards and forwards through screens without having to re-enter information.
+Clicking the
+button at any stage will prompt you with the message "Do you wish to save a partial quote?".
+Selecting
+Yes
+will save all the data which has been input with the exception of any data on the current screen (as data is saved when the
+button is pressed). You are returned to the Client Search or Policy Select screen.
+Selecting
+No
+will return you to the Client Search or Policy Select screen and any information which has been entered (including anything saved by a
+button) is discarded.
+Selecting
+Cancel
+(in this prompt screen) returns you to the quotation process.
+Note: Some data capture fields refer to 'GBP' as the default currency is British Pound Sterling. However, the system can be configured to use other currencies.
+Open GI

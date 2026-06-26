@@ -1,0 +1,30 @@
+Subsystem: Commercial Vehicle
+TOC Title: Conviction Summary
+Page Title: Conviction Summary screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Conviction_Summary.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Conviction Summary screen
+This screen  enables you to add or maintain driver convictions.
+It follows the Driver screen in the initial data capture for a new prospect; see
+Driver  Information
+for more information on working within that screen.
+Use the
+button to add convictions.
+Use the
+and
+buttons to maintain existing convictions.
+Existing convictions are edited in the Conviction Details screen. See
+Conviction Details screen
+for guidance on working within this screen.
+After you save the policy or prospect record, you can open the Conviction Summary screen from the Summary Screen. See
+4: 4: Summary Screen
+for guidance on working in this screen.
+Open GI

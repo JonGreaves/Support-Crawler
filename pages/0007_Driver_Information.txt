@@ -1,0 +1,276 @@
+Subsystem: Commercial Vehicle
+TOC Title: Driver Information
+Page Title: Driver  Information
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Driver.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Driver  Information
+What's Covered in this topic?
+Driver  Information
+The Driver screen
+The Driver Screen - Driver pane fields
+The Driver Screen - Occupation pane fields
+The Driver Screen - Licence Details pane fields
+Driver Screen - Other Vehicles pane fields
+Driver screen - Company Car Experience pane fields
+Driver screen - Record pane fields
+Driver screen - Lifestyle pane fields
+The driver screen enables you to store information that specifically relates to the driver to be covered under the policy.
+The Driver screen
+The driver screen consists of a number of input panes.
+The Driver Screen - Driver pane fields
+Title
+Select the driver's title from the drop-down list.
+Values: ABI Code List 53
+If the
+Proposer
+field has been set to
+Yes
+in the
+Client Details
+, the fields
+Title
+,
+Forename
+,
+Surname
+and
+DOB
+will default to the client details.
+If the
+Title
+"Executors of..." has been selected in the
+Client Details
+, only the fields
+Title
+,
+Forename
+and
+Surname
+are enabled.  All other fields will be greyed out.
+Forename
+Type the driver's first name (up to a maximum of 50	characters).
+Example: Sally-Anne
+If the
+Proposer
+field has been set to
+Yes
+in the
+Client Details
+, the fields
+Title
+,
+Forename
+,
+Surname
+and
+DOB
+will default to the client details.
+If the
+Title
+"Executors of..." has been selected in the
+Client Details
+, only the fields
+Title
+,
+Forename
+and
+Surname
+are enabled.  All other fields will be greyed out.
+Other Initials
+Type the driver's middle initials (up to a maximum of 5 characters).
+Example: M. A.
+Surname
+Type the driver's last name	(up to a maximum of 50 characters).
+Example: Hythe-White
+If the
+Proposer
+field has been set to
+Yes
+in the
+Client Details
+, the fields
+Title
+,
+Forename
+,
+Surname
+and
+DOB
+will default to the client details.
+If the
+Title
+"Executors of..." has been selected in the
+Client Details
+, only the fields
+Title
+,
+Forename
+and
+Surname
+are enabled.  All other fields will be greyed out.
+Sex
+Select the radio button 	for
+Male
+or for
+Female
+.
+The default selection is based on the
+Title
+field.
+Date of Birth
+Type the driver's DOB.
+Date format DD/MM/YYYY
+Example: 31/12/1979
+Age
+This field is calculated from the DOB	and cannot be edited.
+Marital Status
+Select the driver's marital status from the drop-down list.
+Values: ABI Code List 06
+Relationship
+Select the driver's relationship to the proposer from the drop-down list.
+Values: ABI Code List 19
+Length of Residency
+Type the number of years the driver has lived in the UK.
+Example: 55
+Main Driver
+Tick the check box for
+Yes
+, untick the check box for
+No
+.
+You must select a
+Main Driver
+during the quote.
+How long at main address - years
+Type the number of full years the driver has lived at the main address (0-99).
+Example: 6
+How long at main address - months
+Type the number of months  the driver has lived at the main address (0-11).
+Example: 8
+Motoring Organisation
+Select any driver's motoring organisation from the drop-down list.
+Values: values are configurable
+Examples: AA, Europ Assist, Green Flag, National Breakdown, None, Other, RAC
+Vehicle Use
+Select the driver's vehicle use from the drop-down list.
+Values: ABI Code list 52
+Club Membership
+Select any driver's club membership from the drop-down list.	.
+Values: values are configurable
+Examples: 2 CV GB, MINI OWNERS CLUB
+Member since
+Type the club	membership start date with a maximum of 10 characters.
+Format: DD/MM/YYYY
+Example: 31/12/2012
+The Driver Screen - Occupation pane fields
+Use the
+button to add occupations.
+Use the
+and
+buttons to maintain existing occupations. Clicking the
+or
+button opens the Occupations screen in which you can enter details for the driver's occupation by selecting from the ABI code options available in the drop-down lists. See
+Occupation screen
+for more information.
+After you save the policy or prospect record, you can access driver details from the Summary Screen. See
+4: 4: Summary Screen
+for guidance on working in this screen.
+The Driver Screen - Licence Details pane fields
+Licence Number
+Type the driver's licence number using a maximum of 20 characters.
+Example: AM46-283DZK7322
+Licence Type
+Select the licence type.
+Values: ABI Code List 20
+Date Current Licence Obtained
+Type the date the driver's current licence was obtained.
+Format: DD/MM/YYYY
+Example: 31/12/1979
+(Held) Yrs
+This field is calculated from the
+Date Passed Test
+field and cannot be edited.
+(Held) Mths
+This field is calculated from the
+Date Passed Test
+and cannot be edited.
+Restrictions
+Select the licence restrictions from the drop-down list.
+Values: ABI Code List 96
+Driver Screen - Other Vehicles pane fields
+Access To Other Vehicles
+Tick the check box  if the driver has access to other vehicles, untick  if not.
+When you select
+Access To Other Vehicles
+, you must complete the fields
+No. Other Vehicles Driven
+and
+No. Other Vehicles Driven
+No Other Vehicles Owned
+Type the number of vehicles owned by the driver (0-99).
+This field is greyed out if you do not select the
+Access To Other Vehicles
+check box.
+No Other Vehicles Driven
+Type the number of vehicles driven by the driver (0 - 99).
+This field is greyed out if you do not select the
+Access To Other Vehicles
+check box.
+No of Vehicles available to Family
+Type the number of vehicles available to the driver's family (0 - 99).
+Prime Use Vehicle
+Tick the check box if the quote is for a prime use vehicle, untick if not.
+Make
+Type (part of the) make of the vehicle and click the search icon
+. See
+Vehicle Search Results screen
+for guidance on how to use this screen to select the appropriate vehicle.
+Values: see	ABI Code List 44(C)
+Example: Toyota
+Model
+Type the model for the vehicle make selected, using a maximum of 10 alphanumeric	characters.
+Example: Supra
+CC
+Type the number of CC for the vehicle, using a maximum of 5 digits.
+Example: 3000 (for vehicle with a 3 litre engine)
+Year
+Select the vehicle build year from the drop-down list. Alternatively type the year in the format YYYY.
+Driver screen - Company Car Experience pane fields
+Years NCD claimed for Company Car Usage
+Type the number of years No Claims Discount for the driver (0-99).
+Date Ceased Using Company Car
+Type the date	the driver stopped using their company car.
+Format: DD/MM/YYYY
+Example: 31/12/2014
+Type of Usage
+Select the type of vehicle usage from the drop-down list.
+Examples: Business and Private Use, Business Use Only, None
+Driver screen - Record pane fields
+County Court Judgements
+Tick the check box  if the driver has been subject to County Court Judgements (CCJs), untick if not.
+Criminal Offence
+Tick the check box  if the driver has been convicted of a criminal offence, untick if not.
+Ever been refused cover
+Tick the check box  if the driver has been refused cover in the past, untick if not.
+Ever had terms applied
+Tick the check box  if the driver has had terms applied in the past, untick if not.
+Driver screen - Lifestyle pane fields
+Credit Card Holder
+Tick the check box if the driver is a credit card holder, untick if not.
+Children under 18
+Tick the check box if the driver has children under the age of 18, untick if not.
+Smoker
+Tick the check box if the driver is a smoker, untick if not.
+Teetotal
+Tick the check box if the driver is a teetotaller, untick if not.
+Member of Owners Club
+Tick the check box if the driver is a member of a vehicle owners club, untick if not.
+Open GI

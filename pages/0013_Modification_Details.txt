@@ -1,0 +1,31 @@
+Subsystem: Commercial Vehicle
+TOC Title: Modification Details
+Page Title: Modification Details screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Modification_Details.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Modification Details screen
+The Modifications Details screen follows the Vehicle Details screen in the initial data capture for a new prospect and allows you to enter details of any vehicle modifications.
+This screen is displayed when you click the
+button in the Modifications screen. See
+Modifications screen
+for more details on working in that screen.
+Type
+Select the modification from the drop-down list.
+Values: ABI code list 86
+Details
+Type a short description of the modification details.
+Value
+Type the value of the modifications in GBP.
+For Medical Reasons
+Tick the check box if the modifications were made for medical reasons, untick if not.
+Insurer Notified
+Tick the check box if the insurer was notified, untick if not.
+Open GI

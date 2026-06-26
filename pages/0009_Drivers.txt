@@ -1,0 +1,36 @@
+Subsystem: Commercial Vehicle
+TOC Title: Drivers
+Page Title: Drivers screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Drivers.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Drivers screen
+This screen is not part of the initial data capture. However, once a quote has been prepared (or the Summary Screen has been displayed at the end of data capture just prior to the first quote being generated) this screen is shown if either the
+Named Drivers
+menu option or
+Drivers
+button is selected. See
+4: 4: Summary Screen
+for more information on working within the Summary Screen.
+The Drivers screen allows the relevant driver to be selected (if amendments are required) and also allows new drivers to be added or existing drivers to be removed.
+Use the
+button to add drivers. A new Driver screen will open allowing you to add the details of the additional driver. See
+Driver  Information
+for more information on working in this screen.
+Use the
+and
+buttons to maintain existing drivers.
+Existing drivers are edited in the Driver screen. See
+Driver  Information
+for more information on working in this screen.
+Note: You cannot remove the
+Proposer
+from a Policy, you can however edit the proposer's details.
+Open GI

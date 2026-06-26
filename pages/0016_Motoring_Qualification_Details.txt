@@ -1,0 +1,27 @@
+Subsystem: Commercial Vehicle
+TOC Title: Motoring Qualification Details
+Page Title: Motoring Qualification Details screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Motoring_Qualification_Details.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Motoring Qualification Details screen
+This screen is displayed when you click
+or
+in the Qualifications screen. See
+Qualifications screen
+for more information on working in that screen.
+You can add and edit details relating to any motoring qualifications that the driver has obtained.
+Description
+Select the description for the motoring qualification from the drop-down list.
+Values: ABI code list 38.
+Date Passed
+Type the date the driver passed their qualification. You cannot enter a future date in this field.
+Format: DD/MM/YYYY
+Open GI

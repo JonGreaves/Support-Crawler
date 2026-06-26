@@ -1,0 +1,37 @@
+Subsystem: Commercial Vehicle
+TOC Title: 2: Driver Options Screen
+Page Title: 2: Driver Options Screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Driver_Options.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+2: Driver Options Screen
+This screen enables you to select which drivers should be covered by this quote. Typical options are 'Insured only', 'Insured and Spouse' and 'Insured and Named Drivers'.
+When an option with a definite number of drivers is selected, then you will be presented with a series of data capture screens for one driver, which will then be repeated for the next driver until the number of drivers specified in this screen have been described. When an open ended number of drivers is specified (such as 'Insured and Named Drivers') then an additional screen will display at the end of each series of driver data capture screens in which you may choose to define another driver, or skip to the next stage of data capture (vehicle details).
+The
+Driver Option
+drop-down list uses ABI code List 13.
+Make a selection from the drop-down list then click
+Next
+to store your selection and proceed to the Driver Details screens. See
+Driver  Information
+for guidance on entering driver details.
+Alternatively, you can click
+Previous
+to go back one screen (to the core data capture screens) or click
+Cancel
+to abandon data capture for this quote.
+Note: You may skip backward (and then forward again) through the data capture screens at any stage of the data capture and any information entered will be retained. For example, after entering the details of one driver you could use the
+Previous
+button repeatedly to go back and change the Driver Option from 'Insured' to 'Insured and
+Named Driver
+'. You could then click forward using the
+Next
+button to return to the Driver Details screen which would retain any first driver details previously entered.
+Open GI

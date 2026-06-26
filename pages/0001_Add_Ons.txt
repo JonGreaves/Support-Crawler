@@ -1,0 +1,18 @@
+Subsystem: Commercial Vehicle
+TOC Title: Add Ons
+Page Title: Add Ons screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Add_Ons.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Add Ons screen
+You can use this screen to apply additional cover to the policy at the request of the Proposer. Add Ons may increase the premium as detailed in the product rules.
+Select the options that the client wants to add and then click
+.
+Open GI

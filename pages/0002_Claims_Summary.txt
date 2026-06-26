@@ -1,0 +1,34 @@
+Subsystem: Commercial Vehicle
+TOC Title: Claims Summary
+Page Title: Claims Summary screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Claims_Summary.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Claims Summary screen
+The
+Claims Summary
+screen enables you to add details of historic claims (against previous policies) which may affect the premium quoted for the new policy.
+It follows the Conviction Summary screen in the initial data capture for a new prospect. See
+Conviction Summary screen
+for guidance on that screen.
+Use the
+button to add claims.
+Use the
+and
+buttons to maintain existing claims.
+After you save the policy or prospect record, you can open the Claims Summary screen from the Summary Screen. See
+4: 4: Summary Screen
+for guidance on working in this screen.
+The Claims Suite allows new claims to be added and processed. This functionality can be accessed from the Policy Processing module but is separate to the recording of old claims for quotation purposes discussed here. New claims are added or maintained from the
+Claims
+button of the Policy Select screen. See the
+Policy Processing User Guide
+for more details.
+Open GI

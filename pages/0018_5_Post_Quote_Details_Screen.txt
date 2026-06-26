@@ -1,0 +1,27 @@
+Subsystem: Commercial Vehicle
+TOC Title: 5: Post Quote Details Screen
+Page Title: 5: Post Quote Details Screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Post_Quote_Details.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+5: Post Quote Details Screen
+This screen is displayed when you convert a prospect to a policy. Enter any details that are required for the policy documentation but do not impact on the quoted premium.
+Information entered here will be displayed in the Summary Screen or (one of the screens accessible from the Summary Screen) after the policy has been converted. See
+4: 4: Summary Screen
+for more details on accessing this information.
+As usual, any mandatory fields are highlighted in a different colour. Some fields may already be populated if the relevant questions were completed during data capture.
+When converting to policy, a number of further screens can be displayed. These can be customised to meet an individual company's requirements and so it is not possible to give a definitive list.  The screens which are displayed in these circumstances could be selected from a variety of different screen types (see over page):
+message boxes containing reminders of post quote activities
+checklists of required documents or activities
+questions about further sales
+questions about how renewals should be handled
+reminders about any required questions
+reminders about required forms of words (such as an FCA declaration or a sales status screen)
+Open GI

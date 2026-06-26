@@ -1,0 +1,29 @@
+Subsystem: Commercial Vehicle
+TOC Title: Modifications
+Page Title: Modifications screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Modifications.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Modifications screen
+The Modifications screen follows the Vehicle Details screen in the initial data capture for a new prospect and enables you to capture the details of any vehicle modifications.
+Use the
+button to add details of any modifications. A blank Modifications Details screen opens allowing you to enter the details. See
+Modification Details screen
+for details of working in that screen.
+Use the
+and
+buttons to maintain existing modifications.
+Existing modifications are edited in the Modification Details screen. See
+Modification Details screen
+for guidance on working in this screen.
+After you save the policy or prospect record, you can open the Modifications screen from the Summary Screen. See
+4: 4: Summary Screen
+for more information on working in this screen.
+Open GI

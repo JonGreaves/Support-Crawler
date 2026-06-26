@@ -1,0 +1,41 @@
+Subsystem: Commercial Vehicle
+TOC Title: Occupation
+Page Title: Occupation screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Occupation.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Occupation screen
+This screen is used to record the driver's occupation and is accessed from the
+Occupation
+pane of the Driver Screen. See
+Driver  Information
+for more information on entering driver information.
+Description
+Select the driver's occupation from the drop-down list.
+Values: ABI Code List 55
+The occupation selected sets a default value for the
+Employers Business
+where possible.
+When you select "Retired", the
+Employers Business
+field defaults to "Not in Employment".
+Employers Business
+Select the employer's business from the drop-down list.
+Values: ABI Code List 11
+Type
+Select the driver's employment type from the drop-down list.
+Values: ABI Code List 56
+Part time
+Tick the check box for
+Yes
+, untick the check box for
+No
+.
+Open GI

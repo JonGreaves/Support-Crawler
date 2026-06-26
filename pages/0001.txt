@@ -1,0 +1,33 @@
+Title: Online Guides - Home Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides
+
+Skip To Main Content
+All Files
+Submit Search
+Contents
+Mobius/V Online Guides
+Latest Updates To The Online Guides
+Mobius Video Demonstrations
+V Platform Video Demonstrations
+*** MOBIUS GUIDES ***
+Mobius Claims
+Mobius Dynamic Pricing
+Mobius Screens & Keywords
+Mobius UI
+*** V GUIDES ***
+Accounts Suite
+API Portal
+Commerial Vehicle
+EDI Toolset
+Household
+Motor
+Motorcycle
+Obfuscation Manager
+Policy Processing
+Relationship Manager
+Report Scheduler
+Standard Reports
+Tools Suite
+Index
+Glossary
+Filter:

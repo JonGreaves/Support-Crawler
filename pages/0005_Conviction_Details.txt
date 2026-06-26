@@ -1,0 +1,93 @@
+Subsystem: Commercial Vehicle
+TOC Title: Conviction Details
+Page Title: Conviction Details screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Conviction_Details.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Conviction Details screen
+This screen is accessed from the Conviction Summary screen. See
+Conviction Summary screen
+for guidance on working within that screen.
+This screen records motoring offences as well as related points, fines and disqualification periods.
+Date
+Type the conviction date. You cannot enter a future date in this field.
+Format: DD/MM/YYYY
+Offence Code
+Select the Offence Code from the drop-down list.
+Selecting an
+Offence Code
+will display the offence
+Description
+and vice versa.
+The fields
+Alcohol Level
+and
+Alcohol Test
+are only enabled when you select an offence code starting with
+DR
+.
+Values: ABI code list 23
+Offence description
+Select the offence description from the drop-down list.
+Selecting an offence
+Description
+will display the
+Offence Code
+and vice versa.
+The fields
+Alcohol Level
+and
+Alcohol Test
+are only enabled when you select an offence code starting with
+DR
+.
+Values: ABI code list 23
+Disqualified
+Tick the box if the driver was disqualified, untick if not.
+The fields
+Date Ban Started
+and
+Date Ban Ended
+are only enabled when you select
+Disqualified
+.
+Date Ban Started
+Type the date the driver ban started.
+Format: DD/MM/YYYY
+This field is enabled when you select
+Disqualified
+.
+Date Ban Ended
+Type the date the driver ban ended.
+Format: DD/MM/YYYY
+This field is enabled when you select
+Disqualified
+.
+Period (Months)
+This field is calculated from the ban start and end dates and cannot be edited.
+Retaken Test?
+Tick the box if the driver has retaken their driving test, untick if not.
+When
+Type the date the driver took their driving test again.
+Format: DD/MM/YYYY
+Points
+Type the number of penalty points given.
+Fine
+Type the fine given in GBP.
+Pending
+Tick the box if the conviction is pending, untick if not.
+Alcohol Level
+Type the alcohol level measured.
+This field is only enabled when you select an offence with a DR** offence code.
+Alcohol Test
+Select the alcohol test used.
+This field is only enabled when you select an offence with a DR** offence code.
+Values: ABI code list 39
+Open GI

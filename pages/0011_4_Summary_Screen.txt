@@ -1,0 +1,172 @@
+Subsystem: Commercial Vehicle
+TOC Title: 4: Summary Screen
+Page Title: 4: 4: Summary Screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Main_Summary.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+4: 4: Summary Screen
+What's Covered in this topic?
+4: 4: Summary Screen
+Menus
+Upper Section of the Summary Screen
+Policy Header Pane
+Client Details Pane
+Vehicle Details Pane
+Cover Details Pane
+Policy Details Pane
+Tools Pane
+View Pane
+This is the main screen for viewing and editing any data stored within Transactor.  During the quote process the screen is only displayed at the end of the data capture process, immediately before the system provides a quote. From here, you can access any of the screens viewed during the quote process. To do so, click the respective button or  menu.
+Menus
+The menus offer access to functions some of which can also be accessed using the buttons in the Summary Screen.
+Client
+You can access all client related data from this menu.
+Vehicle
+You can access vehicle related data from this menu.
+Cover
+You can access cover details from this menu.
+Drivers
+You can access all driver related data from this menu.
+Policy
+You can access all policy related data from this menu.
+Diary
+You can search and maintain the diary from this menu.
+Payment
+You can access all payment related data from this menu.
+Attachments
+You can access all saved attachments from this menu.
+User Screens
+You can access all user related data from this menu. In this example
+Risk Assessment
+.
+Upper Section of the Summary Screen
+Fields:
+Agent
+- the Agent name selected before running the quote
+Sub Agent
+- the Sub Agent name selected before running the quote
+Introducer
+- the Introducer name selected before running the quote
+Status
+- the status of the record, the status is updated automatically as the policy record progresses through its life cycle.
+Payment
+- the payment method used when converting the prospect to a policy
+Adjusted No
+- the number of adjustments on the policy once live
+Introducer
+- displays - displays Yes or No
+Number of Diary entries
+- indicated by the number in blue next to the Diary icon
+External ref
+- the reference given by the customer
+Years on Cover
+- the number of years that the object has been insured by your company
+Note:
+The 'Years on Cover' field may not be displayed in your environment. This field is governed by the 'YearsOnCover' parameter which is set in the Relationship Manager (RM).
+Refer to the Relationship Manager User Guide for details on this parameter and its use.
+Policy Header
+Pane
+An actual client reference is only displayed after the quote has been saved.
+Client Details
+Pane
+This pane contains the client's full name and contact details
+Vehicle Details
+Pane
+This pane contains the basic vehicle details
+Cover Details
+Pane
+This pane has information on who and what is covered. It also has NCD and claims information.
+Policy Details
+Pane
+Fields:
+Insurer Contract No.
+- the Insurer Policy Number. This is put in by the user where applicable.
+Product
+- the product for the policy being viewed (blank for a quote).
+Policy Number
+- the quote number (where status is quote or prospect) or the policy number where status is policy, MTA, cancelled etc.
+Premium
+- the calculated annual premium for a quote or policy.
+Created Date
+- the date that the original quote was entered. Defaults to the system date when the quote is first saved.
+Inception Date
+- the date that cover starts for this policy or prospect.
+Effective Date
+- the cover start date for the current record.  This differs from the
+Inception Date
+after an MTA to display the effective date of cover for this record.
+Expiry Date
+- the expiry date for the current insurance year.
+Stop Renewal
+- this check box enables you to place a manual stop on an annual policy.  If ticked,  the renewal audit report shows the policy as manually stopped.
+Buttons:
+Go Ahead
+- use this when the client calls back to take up the policy. This will take you through the data capture screens and then directly to the Cover Period screen.
+Breakdown
+- a complete premium breakdown detailing rating areas, gross premium, discounts and IPT.
+Endorsements
+- opens the Endorsements screen to add or remove endorsements.
+Quote
+- opens the Quote Details screen (although other screens may be displayed first, such as the Cover Details screen or the Manual Amendments screen).
+Product
+- opens the Product Details screen.
+Excesses
+- opens the Excess screen, enabling you to view or apply excesses on the policy.
+Transactions
+- opens the Accounts screen.
+Tools
+Pane
+Buttons:
+Documents
+-  opens the Document Printing  screen.
+Diary
+-  opens the Diary Entry screen allowing you to view or add diary entries for the policy.
+Notes
+- opens the Notes screen  to add 'free text' notes.
+View
+Pane
+Buttons:
+Vehicle
+- opens the Vehicle Details screen (after vehicle selection). See
+3: Vehicle Information Screen
+.
+Drivers
+- opens the Drivers Summary screen allowing you to select the relevant driver. See
+Drivers screen
+and
+Driver  Information
+.
+Cover
+- opens the Vehicle Cover screen. See
+Commercial Vehicle Cover screen
+.
+Claims
+- opens the Claims Summary screen (after driver selection). See
+Claims Summary screen
+.
+Convictions
+- opens the Conviction Summary screen (after driver selection). See
+Conviction Summary screen
+.
+Health
+- opens the Health Conditions screen  (after driver selection). See
+Health Conditions screen
+.
+Qualifications
+- opens  the Qualifications screen  (after driver selection). See
+Qualifications screen
+.
+Modifications
+- opens the Modifications screen  (after vehicle selection). See
+Modifications screen
+.
+Exit
+- returns you to the Client Select screen (for initial data capture) or to the Policy Select screen (when viewing an existing quote or policy).
+Open GI
