@@ -1,0 +1,536 @@
+Subsystem: Mobius Claims
+TOC Title: The Financials Tab
+Page Title: The Financials Tab
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Financials_Tab.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Financials Tab
+The
+FINANCIALS
+tab is part of the
+The
+Incident Actions
+pane
+on the
+Summary
+page. For details, see
+The Incident Actions Pane (middle)
+.
+For details on the Summary page,  see
+The Summary Page
+.
+For details on the
+FINANCIALS
+tab - see
+The FINANCIALS tab
+Note: To return to the summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+The FINANCIALS tab
+Using your internet browser, log in to
+Mobius Claims
+. The Dashboard page is displayed. For details on logging in, see
+Logging in to Mobius Claims
+.
+If you have already logged in, then use the direct link in the Top Navigation Bar by clicking the
+SEARCH
+item. For details on searching, see
+The Search Page
+.
+Click a given claim to obtain more information on that claim. This opens a details page.
+In the
+Incident Actions
+pane, click the
+FINANCIALS
+button to open the Financials details pane.
+Tabs
+Reserves
+- see
+Reserves Tab
+Payments
+- see
+Payments Tab
+Recovery Reserves
+- see
+Recovery Reserves Tab
+Recovery Payments
+- see
+Recovery Payments Tab
+Reserves Tab
+The Reserves tab enables you to Add and Edit reserved sums for various different sections. In the example used in this topic, this is the Accidental Damage section.
+Expected Recovery Column
+You can Add and Edit the expected recovery directly in the Expected Recovery column.
+To add expected recovery, see
+Expected Recovery (adding)
+To edit expected recovery, see
+Expected Recovery (Editing)
+Maintaining Reserves
+To add reserves manually, see
+Adding Reserves Manually
+.
+To add reserves automatically, see
+Adding Reserves Automatically
+To edit reserves, see
+Editing Reserves
+To mark reserves as 'pending confirmation', see
+Pending Confirmation
+Note: The right to set reserves and the reserve limits are configured in the Authority Reserve Group. See
+The Authority Reserve Groups Page
+Expected Recovery (adding)
+To add an expected recovery amount, click
+ADD
+in the
+Expected Recovery
+column. This opens the Recovery Reserve Detail pane.
+Fields
+Reserve Detail
+- select the Reserve Detail from the drop-down list if the one shown by default is incorrect
+Outstanding
+- enter the  amount. Alternatively, use the Arrow-Up
+and Arrow-Down
+buttons to adjust the amount in increments or decrements of Â£ 100.00
+Click the
+ADD
+button to save the new Outstanding amount. Alternatively, click the
+BACK
+button to discard any changes.
+Expected Recovery (Editing)
+If an expected recovery amount has been entered previously, an edit
+icon is displayed instead of the
+ADD
+button.
+Click the edit
+icon to open the
+Recovery Reserve Detail
+pane and the
+History
+pane.
+Edit the
+Outstanding
+amount. Alternatively, use the Arrow-Up
+and Arrow-Down
+buttons to adjust the amount in increments or decrements of Â£ 100.00.
+Click the
+SAVE
+button to secure any changes. Alternatively, click the
+BACK
+button to discard any changes. After saving, the
+History
+pane is added and updated below the
+Recovery Reserve Detail
+pane, and the changes are also reflected in the Notes pane on the left.
+Adding Reserves Manually
+To add reserves, click the
+ADD RESERVE
+button. This opens the
+Edit Reserve
+page.
+Fields
+Party
+- select the party making the claim from the drop-down list
+Section
+- select the section to which the claim applies
+Previous Outstanding
+- this is automatically updated when you save any changes
+Amount
+- enter the amount in the
+Amount
+field, or use the Arrow-Up
+and Arrow-Down
+buttons to adjust the same in increments or decrements of Â£ 1,000.00.
+Last Updated
+- this field is updated automatically on adding the reserve.
+Click the
+ADD RESERVE
+button to secure any changes. Alternatively, click the
+BACK
+button to discard any changes.
+Note: If you exceed your user account reserve limits , a Reserve Limit Exceeded message is displayed stating the limit for your account. You can still add the reserve, but it will need to be confirmed by a user with the rights necessary to approve the total reserve amount.
+Click
+CONFIRM
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes. You are returned to the previous page.
+Note the added
+CONFIRM
+button, enabling users with the appropriate privileges to confirm the new reserve.
+Adding Reserves Automatically
+To add reserves, click the
+ADD RESERVE
+button. This opens the
+Editing Reserves
+To edit details for a given reserve payment, click the
+EDIT
+button on the right for that reserve. This opens the
+Edit Reserve
+and the
+History
+pane.
+Fields
+(in the 'Edit Reserve' pane)
+Party (<Claimant_Type>)
+- this is a read-only field, where the <Claimant_Type> indicated in the field name is determined by the person selected in the Party field when initially adding reserve. See
+The Financials Tab
+Section
+- this is a read-only field
+Previous Outstanding
+- this is a read-only field
+Amount
+- enter the reserve, or use the Arrow-Up
+and Arrow-Down
+buttons to adjust the amount in increments or decrements of Â£ 1,000.00
+Last Updated
+- this is a read-only field which is updated automatically on saving the reserve
+Buttons
+(in the 'Edit Reserve' pane)
+Click the
+SAVE RESERVE
+button to secure any changes.
+Click the
+CLOSE RESERVE
+button to close the reserve and set
+Amount
+to nil (Â£0.00).
+Click the
+BACK
+button to discard any changes.
+You are returned to the previous page after any of the above actions, The History pane is updated after saving or closing the reserve. To verify this, click
+Edit
+again.
+Pending Confirmation
+A 'Pending Confirmation' reserve is a reserve which has been added with a higher amount then the user's reserve limit.
+If you confirm a reserve in excess of your limits
+the status of your entry will be marked 'Pending Confirmation', and  a
+CONFIRM
+button is added to your entry.
+To proceed, you have the following options:
+Ask a member of staff with the appropriate reserve limit
+and
+the "Confirm Reserve" permission to confirms the pending reserve. For details on Confirm Reserve permissions, see
+The Tasks Tab
+.
+Request to have your own reserve limit raised sufficiently
+For details on reserve limits, see
+The Authority Reserve Groups Page
+.
+Payments Tab
+The Payments tab enables you to manage any payments made related to the selected claim.
+To add payments, see
+Adding Payments
+To authorize payments, see
+Authorising Payments
+To remove payments, see
+Removing Payments
+To view payments, see
+Viewing Payments
+Note: The right to make payments and the payment limit are configured in the Authority Payment Group. See
+The Authority Payment Groups Page
+Adding Payments
+To add payments, click the
+ADD PAYMENT
+button. This opens the
+Payment Details
+page.
+Fields
+In the
+Payment Details
+pane, complete the following:
+Payee
+- Select Claimant or Supplier, and then select as relevant to the selected payee.
+Payment Method
+- Select the payment method from the drop-down list
+Payee Details
+- Enter the payee details relevant to the method of payment, these details may be prefilled from previous payments on this claim to the same claimant
+Payment Reason
+- Select the payment reason from the drop-down list
+Amount Gross (inc VAT if any)
+- This is a read-only field
+VAT Amount (Non-Recoverable)
+- Enter the amount or use the Arrow-Up
+and Arrow-Down
+buttons to adjust the same in increments or decrements of Â£ 100.00.
+Linked Documents
+- Select any linked documents from the drop-down list
+In the Reserves To Pay pane, complete the following:
+Reserve
+- Select the kind of reserve from the drop-down list
+Outstanding
+- This is a read-only field
+Paid to Date
+- This is a read-only field
+New Payment
+- Enter the amount or use the Arrow-Up
+and Arrow-Down
+buttons to adjust the same in increments or decrements of Â£ 1,000.00
+Tick the
+Close Reserve
+check box on the right to close the reserve after adding the payment.
+Click the
+ADD RESERVE TO PAYMENT
+button to make the new payment. The following pane is appended.
+You still have the option to
+EDIT
+or
+REMOVE
+the newly added payment.
+Click
+BACK
+to discard any changes
+Click
+SAVE FOR LATER
+to secure any changes but set the status to 'Pending'
+Click
+ADD PAYMENT
+to process the payment now
+If you have selected cheque payment, a
+Print
+button enables you to issue an authorized cheque. When clicked, a window opens to confirm that a correspondence has generated a document to send to the claimant. When that document is sent, a linked file is added to the payment, stating this is being generated (about half way down the page). To refresh the documents contents, close and re-open the payment. A cheque can only be printed once.
+Click the
+button to return to the initial summary view of the middle pane
+Authorising Payments
+Each level of authorisation needs a new user to authorise. This means that a given payment would be added by
+User X
+, pre-authorised by
+User Y
+, and authorised by
+User Z
+.
+To pre-authorise payments, click
+PRE-AUTH
+on the right.
+To authorise pre-authorised payments, click
+AUTH
+on the right.
+Note: You can only click
+CANCEL CHEQUE
+for cheque  payments that have been authorised
+and
+for which none of the payment has been recovered.
+Removing Payments
+Click the
+REMOVE
+button to remove Payments which have not been pre-authorised. This opens a
+Payment Confirmation
+window.
+Are you sure you wish to remove this payment?
+- select a reason from the 'Select Reason' drop-down list. This is mandatory. This list is configurable through the Configurable Lists page. See
+The Configurable Lists Page
+.
+Additional Notes
+- Add further details regarding the payment removal. This is mandatory if you have selected
+Other
+from the 'Select Reason' drop-down list above.
+Click
+YES
+to remove the payment. Alternatively, click
+NO
+to keep the payment in place.
+Note:
+Pre-authorised payments cannot be removed
+You may not have sufficient rights to (pre-)authorise any payments
+Removed payments are not actually removed from the Payments pane but the
+Status
+field is set to 'Removed' instead.
+Viewing Payments
+When an incident is
+not
+read-only, then payments which are
+cancelled
+,
+removed
+,
+rejected
+or
+authorised
+will be displayed with the
+View
+button.
+Click the
+VIEW
+button on the right for that payment. This opens the Payment Details pane and the History pane.
+Note:
+When an incident is closed (indicated by a Read Only Mode banner at the top), then payments will also be read-only, and only the
+View
+button is displayed
+When an incident is locked (indicated by a Read Only Mode banner at the top), then payments will also be read-only, and only the
+View
+button is displayed
+To view payment details for unauthorised payments, click
+PRE-AUTH
+on the right.
+To view payment details for pre-authorised payments, click
+AUTH
+on the right.
+Recovery Reserves Tab
+This tab enables you to add and edit recovery reserves.
+To add recovery reserves, see
+Adding Recovery Reserves
+To add recovery reserves, see
+Editing Recovery Reserves
+Note: The right to set reserves and the reserve limits are configured in the Authority Reserve Group. See
+The Authority Reserve Groups Page
+Adding Recovery Reserves
+This tab enables you to add and edit recovery reserves.
+Click the
+ADD RECOVERY RESERVE
+button to open the Recovery Reserve Details page.
+Fields
+Reserve Detail
+- select the Reserve Detail from the drop-down list
+Outstanding
+- enter the  amount. Alternatively, use the Arrow-Up
+and Arrow-Down
+buttons to adjust the amount in increments or decrements of Â£ 100.00
+Click
+ADD
+to secure any changes. Alternatively, click
+BACK
+to discard any changes. You are returned to
+Recovery Reserve Payments
+tab.
+Click the
+button to return to the initial summary view of the middle pane.
+Editing Recovery Reserves
+To edit details for a given reserve payment, select the
+Recovery Reserves
+tab.
+Click the
+EDIT
+button on the right for the reserve you want to amend. This opens the
+Recovery Reserve Detail
+pane and the
+History
+pane.
+In the Recovery Reserve Detail pane, enter the reserve in the
+Outstanding
+field. Alternatively, use the Arrow-Up
+and Arrow-Down
+buttons to adjust the amount in increments or decrements of Â£ 100.00.
+Click
+SAVE
+to secure any changes. Alternatively, click
+BACK
+to discard any changes. You are returned to
+Recovery Reserves
+tab.
+Click the
+button to return to the initial summary view of the middle pane.
+Recovery Payments Tab
+The Recovery Payments tab enables you to add, edit, view and remove recovery payments.
+To add payments, see
+Adding Recovery Payments
+To edit payments, see
+Editing Recovery Payments
+To mark payments as received, see
+Marking a Recovery Payment as Received
+To remove payments, see
+Removing Recovery Payments
+To viewing payments, see
+Viewing Recovery Payments
+Note: The right to make payments and the payment limits are configured in the Authority Payment Groups. See
+The Authority Payment Groups Page
+Adding Recovery Payments
+To add payments, click
+ADD RECOVERY PAYMENT
+. This opens the
+Recovery Details
+page.
+Fields
+Recoverer Details
+- click the
+SELECT EXISTING
+button to select an existing recoverer, the
++ CREATE NEW
+button is selected by default
+Click
+SELECT EXISTING
+to select a recoverer from the Existing Recoverers page: Click the
+SELECT
+button for the recoverer wanted. Alternatively, click
+CANCEL
+to return to the
+Recovery Details
+pane and create a new recoverer instead.
+Select
+CREATE NEW
+(selected by default) to enter new recoverer's details
+Payment Method
+- select a given method from the drop-down list
+Recovery Reason
+- select a given reason from the drop-down list
+Recovery Amount
+- this field cannot be edited directly
+Use the Arrow-Down
+button to expand any given item in the
+Reserve Detail
+pane
+Click the edit
+icon to access the amount in the To Recover column
+Enter the amount or use the Arrow-Up
+and Arrow-Down
+buttons to adjust the same in increments or decrements of Â£ 100.00
+Click the tick mark
+to confirm he amount entered. Alternatively, click the cross
+to revert to the original amount
+Accidental damage
+- use the Arrow-Down
+button to expand and select individual authorized payments against which this reserve can be recovered
+Click
+ADD RECOVERY
+to secure any changes. Alternatively, click
+BACK
+to discard any changes. You are returned to
+Recovery Payments
+tab.
+Click the
+button to return to the initial summary view of the middle pane.
+Editing Recovery Payments
+To edit details for a given recovery payment, click the
+EDIT
+button on the right for that reserve. This opens the
+Edit Reserve
+pane.
+Click
+ADD RECOVERY
+to save all changes. Alternatively, click
+BACK
+to discard any changes and return to the
+Recovery Payments
+tab.
+Marking a Recovery Payment as Received
+To mark a given recovery payment as 'received', click the
+RECEIVED
+button on the right for that payment. This opens the
+Recovery Payments
+pane.
+Click
+RECOVERY RECEIVED
+to save all changes. Alternatively, click
+BACK
+to discard any changes and return to the
+Recovery Payments
+tab.
+Removing Recovery Payments
+The recovery payment is deleted instantly. Deletion cannot be undone and any payment deleted in error must be re-added manually.
+To delete recovery payments, click the
+REMOVE
+button for the relevant payment.
+Viewing Recovery Payments
+To view recovery payments, click the
+VIEW
+button for the relevant payment. This opens the Recovery Details page. Use the Arrow-Down
+button on the right to expand individual Reserve Detail items.
+Click
+BACK
+to return to the
+Recovery Payments
+tab.
+Open GI

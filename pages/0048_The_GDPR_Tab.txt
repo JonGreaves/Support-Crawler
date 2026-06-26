@@ -1,0 +1,110 @@
+Subsystem: Mobius Claims
+TOC Title: The GDPR Tab
+Page Title: The GDPR Tab
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_GDPR_Tab.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The GDPR Tab
+The
+GDPR
+tab is part of the
+the
+Incident Actions
+pane
+on the
+Summary
+page. For details, see
+The Incident Actions Pane (middle)
+.
+For details on the Summary page,  see
+The Summary Page
+.
+For details on the
+GDPR
+tab - see
+The GDPR tab
+Note: To return to the Summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+The GDPR tab
+Using your internet browser, log in to
+Mobius Claims
+. The Dashboard page is displayed. For details on logging in, see
+Logging in to Mobius Claims
+.
+If you have already logged in, then use the direct link in the Top Navigation Bar by clicking the
+SEARCH
+item. For details on searching, see
+The Search Page
+.
+Click a given claim to obtain more information on that claim. This opens a details page.
+In the
+Incident Actions
+pane, click the
+GDPR
+button to open the details pane.
+The details pane lists all claimants that have personally identifiable information. This is configured in the schema .CSV files. If information for a claimant has been previously redacted, that claimant will not be listed. It is not possible to add or edit reserves for which the claimants have been redacted.
+You have the following options:
+MANAGE DATA
+- see
+Managing Data as per GDPR requirements
+MANAGE CONSENT
+- see
+The GDPR Tab
+Managing Data as per GDPR requirements
+Click the
+MANAGE DATA
+button to open the details page.
+All sub-panes are expanded by default. It may be easier to expand one at a time.
+The following panes can be expanded or collapsed:
+Fnol fields
+- see
+Fnol fields
+Correspondence
+- see
+Correspondence
+Payees
+- see
+Payees
+Recoverers
+- see
+Recoverers
+User Emails
+- see
+User Emails
+Notes
+- see
+Notes
+Note: The content in these panes cannot be changed when a claim is still open.
+Fnol fields
+Correspondence
+Payees
+Ticking the check box in the Redact column (on the left) enables you to redact the entire text in this section. Highlighted text indicates that this is redacted.
+If you do not want highlighted text to be redacted, then deselect the check box on the left for that text. This will grey out all highlights in this text.
+Recoverers
+Ticking the check box in the Redact column (on the left) enables you to redact the entire text in this section. Highlighted text indicates that this is redacted.
+If you do not want highlighted text to be redacted, then deselect the check box on the left for that text. This will grey out all highlights in this text.
+User Emails
+Notes
+Ticking the check box in the Redact column (on the left) enables you to select specific words to redact. Highlighted words indicate that these are redacted.
+If you do not want highlighted text to be redacted, deselect the check box on the left for that text. This will grey out all highlights in this text.
+Payees and Recoverers likewise have a 'Redact' column to select if the user wants to redact it. However they do not allow redaction of specific words, just everything or nothing.
+Below the last pane, there are the following buttons:
+EMAIL
+- see
+The GDPR Tab
+REDACT
+- redacted text is obscured for GDPR purposes this button is disabled when:
+the claim is still open
+the claim is locked by another user
+The user has not got the "Redact Claimant Data" permission.
+OK
+- closes this page to return to the previous one

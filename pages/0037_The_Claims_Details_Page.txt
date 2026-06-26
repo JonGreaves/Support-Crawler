@@ -1,0 +1,154 @@
+Subsystem: Mobius Claims
+TOC Title: The Claims Details Page
+Page Title: The Claims Details Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Claims_Details_page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Claims Details Page
+The Claims Details page enables you to enter all the details required to start the claims process. You can access the
+Claim Summary
+page in various ways:
+Click the
+LOAD CLAIM
+button on the
+Dashboard
+page
+See
+2: Using Mobius Claims
+Click the
+LOAD CLAIM
+button on the
+Diary
+page
+See
+The Diary Page
+Click the claim wanted from the
+Claim Search Results
+pane
+See
+The Search Page
+If the
+Claims Details
+page has already been completed, the Claims Summary page is loaded instead. See
+The Summary Page
+.
+The
+Claims Details
+page has the following panes:
+On the
+left
+:
+The
+LOB-specific Claims
+pane, see
+The Claims Details pane (LOB specific)
+The
+Notes
+pane, see
+The Notes pane
+In the
+middle
+:
+The Basic Info pane (by default), see
+The Basic Info pane (example only, scheme specific)
+Clicking
+NEXT
+at the bottom of this pane, takes you to the following pane.
+Alternatively, click a given link in the pane on the left to open a specific page. In the example used here, you could click
+Driver Details
+to open the 'Driver Details' page.
+On the
+right
+:
+The Claim Number details pane on the right, see
+The Claim Number pane
+The Script pane on the right, see
+The Script pane
+Note: To return to the summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+The Claims Details pane
+(LOB specific)
+Clicking
+NEXT
+at the bottom of this pane, takes you to the following pane.
+You can also navigate the different middle panes by using the shortcuts in the
+Motor Claims
+pane on the left. The pane used in this example is LOB dependent.
+Shortcuts that have a green background indicate that the pane has been completed.
+Shortcuts that have a red background indicate that the pane has not been completed.
+Hovering over any of the shortcuts will highlight the colour and display a white tick
+for completed or a white cross
+for not completed.
+The Notes pane
+This pane lists the latest added notes.
+The
+ADD
+button enables you to add a note to the Diary. The VIEW ALL button has the total number of notes in brackets Claim Number.
+The Basic Info pane
+(example only, scheme specific)
+Major Incident Protocol - No / Yes
+Reference Number (read-only)
+Claim Reference
+Date when incident occurred (date picker)
+Time when incident occurred (time picker)
+Date Incident Notified to Insurance section (date picker)
+Date Incident Notified to DM Management (time picker)
+Date Incident Added to The Claims Cloud (read-only)
+Authority Accounting Year *
+Underwriting Year
+Parties Involved * - select from the drop-down list
+Claim notified by * - select from the drop-down list
+Use the
+NEXT
+and
+PREVIOUS
+buttons to navigate between panes or use the shortcut in the pane on the left.
+Vehicle Details pane
+(example only, Scheme specific)
+Vehicle Registration No (VRN) * - enter the Registration mark
+Vehicle Reference No - enter the vehicle reference number
+Vehicle Make *
+Vehicle Model
+Vehicle Type * - select the type from the drop-down list
+Current Mileage - enter the current mileage
+High Value vehicle? - No / Yes
+Available for non-authority business use? - No / Yes
+CCTV - No / Yes / Unknown
+Data logger/telematics - No / Yes / Unknown
+Reversing camera - No / Yes / Unknown
+Parking aid - No / Yes / Unknown
+Automatic braking  - No / Yes / Unknown
+Damage to vehicle * - describe the damage to the vehicle
+Damage Diagram * - Select one of the given damage markers, and then click on the areas where the vehicle was damaged. Use the different colours to indicate different parties or causes. Use the crossed out marker to select and remove incorrect damage flags.
+Driver Details
+(example only, Scheme specific)
+Drivers Forename *
+Drivers Surname *
+Date licence issued - (date picker)
+Driver's date of birth - (date picker)
+Year licence issued (for vehicle driven)
+Date of last driving course (for vehicle involved) - (date picker)
+If date added what was the name of the course attended?
+Was an Alcohol breath test carried out on driver? - No / Yes
+Were passengers wearing their seatbelts? - No / Yes
+The Claim Number pane
+This pane shows the Claim Number, the status ('Open' for example), and who the claim is currently assigned to.
+The Script pane
+This pane displays instructions for the claims handler depending on the claims question you are completing.
+The text for the relevant scripts is defined in the Scheme.
+Buttons
+VIEW EXCLUSIONS
+- Click to display any applicable exclusions.
+Ã§
+TO SUMMARY
+- Click to return to the Summary page.
+Open GI

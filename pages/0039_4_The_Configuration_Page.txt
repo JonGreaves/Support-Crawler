@@ -1,0 +1,65 @@
+Subsystem: Mobius Claims
+TOC Title: 4: The Configuration Page
+Page Title: 4: The Configuration Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+4: The Configuration Page
+The Configuration Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the CONFIGURATION item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Dashboard page provides a snapshot of recent actions, events and notifications, a number of which can be accessed through direct links.
+The Configuration page has the following options (depending on your software version):
+SYSTEM STATUS
+- see
+The System Status Page
+CLASSES OF BUSINESS
+- see
+The Classes of Business Page
+AGENT MAINTENANCE
+- see
+The Agent Maintenance Page
+PERMISSION GROUPS
+- see
+The Permission Groups Page
+PARAMETERS
+- see
+The Parameters Page
+CONFIGURABLE LISTS
+- see
+The Configurable Lists Page
+DOCUMENTS
+- see
+The Documents Page
+AUTHORITY RESERVE GROUPS
+- see
+The Authority Reserve Groups Page
+AUTHORITY PAYMENT GROUPS
+- see
+The Authority Payment Groups Page
+PAYMENT AUTHORIZATION LEVELS
+- see
+The Payment Authorization Levels Page
+RECENT CLAIMS
+- see
+The Recent Claims Page
+MIAFTR CONFIGURATION
+- see
+The MIAFTR Configuration Page
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

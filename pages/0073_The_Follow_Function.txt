@@ -1,0 +1,96 @@
+Subsystem: Mobius Claims
+TOC Title: The Follow Function
+Page Title: The Follow Function
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_The_Follow_Function.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Follow Function
+This function enables you to follow the below claim events and to be to be notified of any changes by email.
+Diary
+- see
+Following Diaries
+Claim
+- see
+Following Claims
+Following Diaries
+You are notified by email when the given diary state is changed, which is when the diary becomes actioned or expired.
+For Diaries, the option is located on the Outstanding Diaries table on the Dashboard. See
+2: Using Mobius Claims
+. This applies to the following tabs:
+Personal
+- see
+The Personal Tab
+Workgroups
+- see
+The Workgroups Tab
+The Personal Tab
+Click the 'follow' button in the second column to toggle between 'Follow'
+and 'Unfollow'
+.
+The Workgroups Tab
+Click the 'follow' button to toggle between 'Follow'
+and 'Unfollow'
+.
+Following Claims
+For claims, you can follow individual, multiple or all workflow events. These events are what is shown in Administration / Workflow, including core events and custom actions.
+For Claims, the option is located  on the top right of the Incident Actions pane on the Summary page. See
+The Summary Page
+.
+Click the 'unfollow'
+button to follow the selected diary. This opens the below window.
+(If already selected, click the 'follow'
+button to unfollow the selected diary.)
+Every event group is displayed on a separate line, with a status indicator on the left.
+Event Groups
+Click any events group line to expand the events group. In this example, the
+FNOL
+events group. To collapse an expanded events group, click the same again.
+Click the individual status indicator for a given event to follow / unfollow that event.
+Click
+or
+.
+Statuses
+The status of event groups and events is displayed as follows:
+No events in events group selected for following (inside collapsed event groups)
+Single event deselected for following (inside expanded event groups)
+All events in events group selected for following (inside collapsed event groups)
+Single event selected for following (inside expanded event groups)
+Some events in events group selected for following (inside collapsed event groups)
+Buttons
+FOLLOW CLAIM
+- click to follow
+all events
+in
+all event groups
+for a selected claim.
+UNFOLLOW CLAIM
+- click to unfollow
+all events
+in
+all event groups
+for a selected claim.
+FOLLOW ALL
+- click to follow
+all events
+in
+a given event group
+for a selected claim.
+UNFOLLOW ALL
+- click to unfollow
+all events
+in
+a given event group
+for a selected claim.
+Click the
+CLOSE
+button to return to the
+Summary
+page.
+Open GI

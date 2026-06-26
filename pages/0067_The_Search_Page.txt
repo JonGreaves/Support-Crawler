@@ -1,0 +1,262 @@
+Subsystem: Mobius Claims
+TOC Title: The Search Page
+Page Title: The Search Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Search_Page_Policy.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Search Page
+What's Covered in this topic?
+The Search Page
+Introduction
+Basic Search
+No Matching Claims Found
+Matching Claims Found
+Policy Search Results
+Loss Ratio
+Claim Search Results
+Advanced Search
+Introduction
+The Policy Search enables you to enter search terms by which you expect to find the policy. It also searches for Claims created in
+Mobius Claims
+.
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+SEARCH
+drop-down list. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+Select on of the following options from the drop-down list:
+Basic Search
+- see
+Basic Search
+Advanced Search
+- see
+Advanced Search
+Saved Searches
+- see
+Saved Searches
+See also:
+Policy Search Results
+Basic Search
+Selecting
+Basic Search
+, opens the 'Policy Search' page.
+You  can for example search on one or more of the following:
+Policy Number
+,
+Claim Number
+,
+Third Party Driver Surname
+Drivers Surname
+The Claims Cloud searches as you type; you do not have to press
+Enter
+or click
+SEARCH
+.
+Only results matching the beginning of the search term are returned; entering 'trade' will return 'Tradesman' but not will
+not
+return matches for 'Motor Trade' or 'Motortrade'. Searches are
+not
+case sensitive.
+If the search criteria do not return any matches, the following messages are displayed:
+"No policy results match your search term <SEARCH_TERM>"
+"No claim results match your search term <SEARCH_TERM>"
+You may also find policies without claims.
+No Matching Claims Found
+If no claims are found for a policy, then you can add a claim by clicking the policy. This opens the Action page. See
+The Action Pane
+.
+Matching Claims Found
+If your search for policies with claims is successful, then one or more policies and claims may be listed .
+Policy Search Results
+Policy search results are shown on the
+Select Existing Claim
+page.
+Click
+ADD NEW CLAIM
+in the Navigation pane on the left to add another claim
+See
+The Action Pane
+.
+Click
+LOAD CLAIM
+to load an active claim
+Click
+RE-OPEN CLAIM
+to open a previously closed claim
+Loss Ratio
+The graphic on the right shows loss ratio percentage.
+Hovering the mouse cursor over the (far left of the) blue ring of Loss Ratio graphic shows the following fields:
+Policy Number
+Claim Value
+Claim Premium
+Loss Ratio
+See also:
+The Claims Details Page
+for extensive details.
+Clicking the Policy Number below the graphic toggles between disabling and enabling the blue ring.
+You also can configure the percentage of loss ratio is shown in RAG (Red-Amber-Green) Colours.
+Claim Search Results
+The
+Claim Number
+and
+Status
+columns in the Policy Search Results pane enable you to select and verify the appropriate claim, the
+Match
+column indicates which item matched the search criterion entered.
+Click a given claim in the results list claim to:
+open the 'Summary' page and access more details on that claim
+See
+The Summary Page
+for information.
+open the 'Claim Details' page on the Basic Info tab to complete the information
+See
+The Claims Details Page
+for information.
+Advanced Search
+Selecting
+Advanced Search
+, opens the
+Advanced Search
+page.
+In the
+Additional Search Terms
+field, enter any extra FNOL terms you want to search for.
+Because you have the option to add rules to the advanced search, you must click the
+SEARCH
+button to produce any results.
+Adding Rules to an Advanced Search
+Adding one or more rules to a search enables you to save complex searches.
+Click the
++ ADD RULE
+button to add a rule to the advanced search.
+Complete the following fields for every rule:
+Model Name
+- select the appropriate model name from the drop-down list.
+Claim Condition
+- select the appropriate claim condition from the drop-down list. Some rules add fields to enable you to add an 'and/or' condition.
+Operator
+- where applicable, select one of the following:
+=
+equals
+!=
+does not equal
+<
+is smaller than
+>
+is bigger than
+<=
+is smaller than or equals
+>=
+is bigger than or equals
+has changed
+-
+Enter or select the appropriate claim condition.
+Select
+and
+,
+or
+, leave blank.
+If you do not leave this field blank, enter or select another claim condition.
+Click the
+Tick
+button to add the condition to the search.
+Alternatively, click the
+Remove
+button to remove the condition from the search.
+Click the
++ ADD CONDITION
+button to add another rule to the search.
+Click
+SEARCH
+to run the search. The search result are shown below.
+Saving a Search
+Click
+SAVE SEARCH
+to store the search for future occasions. This opens the
+Save search
+window.
+Enter a meaningful name for the search.
+Optionally, tick the
+Shared
+tick box. This enables you to share advanced searches with other users.
+Click
+SAVE
+to store the new search. Alternatively, click away to abandon storing the search.
+Saved Searches
+To access saved searches:
+Click the
+SEARCH
+drop-down list from the Top Navigation Bar. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+Select
+Saved Searches
+. This opens a page with access to saved searches.
+Click
+My searches
+to expand a list of your own saved searches.
+Click
+Shared searches
+to expand a list of your own saved searches.
+You have the following options for each search:
+Run the advanced search. See
+Running a Saved Search
+Delete the advanced search. See
+Deleting a Saved Search
+Access details for the advanced search. See
+Editing a Saved Search
+Running a Saved Search
+Run the advanced search. This opens the Advanced Search and the Search Results pane.
+You now have the option to add Additional Search Terms above and
+add
+,
+edit
+, or
+delete
+rules below and to the updated rule after.
+Click the
+SEARCH
+button to (re-)run the search.
+Click the
+SAVE AS
+button to save any changes to a new advanced search.
+Click the
+SAVE SEARCH
+button to save any changes, overwriting the originally stored advanced search
+Deleting a Saved Search
+Click the Bin
+icon to delete the advanced search.
+Warning:
+You will
+not
+be asked to confirm deletion of a saved rule.
+You can delete
+any user's
+saved rule.
+Deleted rules
+cannot
+be retrieved.
+Editing a Saved Search
+To edit a saved search:
+Click the Expand
+icon to access details for the advanced search.
+Locate the rule(s) you want to change.
+You now have the following options for each of the rules:
+Edit the rule
+Delete the rule
+Click the
++ ADD ANOTHER RULE
+button to add a rule.
+Open GI

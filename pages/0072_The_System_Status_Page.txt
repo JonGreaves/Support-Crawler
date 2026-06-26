@@ -1,0 +1,98 @@
+Subsystem: Mobius Claims
+TOC Title: The System Status Page
+Page Title: The System Status Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_System_Status_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The System Status Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to view software configuration settings.
+Click
+SYSTEM STATUS
+to open the
+System Information
+page.
+This page has the following panes:
+System Information
+- see
+System Information
+Resources Information
+- see
+Service Queues
+Service Queues
+- see
+Transactor Integration
+Transactor
+Integration
+- see
+Transactor Integration
+The information in the panes on this page generally has a link to more information and a field on the right, which indicates the current status of the Service. This is normally set and changed as part of a release.
+System Information
+System Variant
+- this is likely to contain the name of your company.
+Root Path
+- the root path to the location of your  software.
+Version
+- the system variant. Location example:
+Example:
+https://insurco-theclaimscloud.opengihosting.com/ClaimsCloud.Web/
+Resources Information
+Resource Path
+- the path to the Resource location; this is the URL root location to  resources. For example:
+https://insurco-theclaimscloud.opengihosting.com/ClaimsCloud.Web.resources
+Core Resources
+-  the path to the Core Resource location; this is the URL root location to  resources.
+Client Resources
+-  the path to the Client Resource location; this is the URL root location to  resources.
+Service Queues
+Service Path
+- This is the path for each service. In this example, the path to the 'WorkflowEvent' service. Clicking the path opens a new tab taking you to the service test page which displays any error messages. Location example:
+https://insurco-theclaimscloud-uat.opengihosting.com/ClaimsCloud.Services.Queues/WorkflowEvent.svc
+Service Path
+- the path to the Attachment location; this is the URL root location to  attachments. Location example:
+https://insurco-theclaimscloud-uat.opengihosting.com/ClaimsCloud.Services.Queues/Attachment.svc
+Service Path
+- the path to the Export Claim location; this is the URL root location to  export claims. Location example:
+https://insurco-theclaimscloud-uat.opengihosting.com/ClaimsCloud.Services.Queues/ExportClaim.svc
+Service Path
+- the path to the Import Claim location; this is the URL root location to  import claims. Location example:
+https://insurco-theclaimscloud-uat.opengihosting.com/ClaimsCloud.Services.Queues/ImportClaim.svc
+Service Path
+- the path to the Generated Document location; this is the URL root location to generated documents. Location example:
+https://insurco-theclaimscloud-uat.opengihosting.com/ClaimsCloud.Services.Queues/GenerateDocument.svc
+Service Path
+- the path to the PII (Personally Identifiable Information Data) location; this is the URL root location to  Personally Identifiable Information. Location example:
+https://insurco-theclaimscloud-uat.opengihosting.com/ClaimsCloud.Services.Queues/SendPIIData.svc
+Service Path
+- the path to the Financials location; this is the URL root location to  financials. Location example:
+https://insurco-theclaimscloud-uat.opengihosting.com/ClaimsCloud.Services.Queues/Financials.svc
+Transactor
+Integration
+Services Path
+- the path to the Services location; this is the URL root location to the
+TCAS
+integration.
+Version
+- the
+TCAS
+services integration version.
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

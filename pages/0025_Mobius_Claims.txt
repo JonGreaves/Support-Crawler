@@ -1,0 +1,28 @@
+Subsystem: Mobius Claims
+TOC Title: Mobius Claims
+Page Title: Mobius Claims Contents
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Contents.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Last updated:
+27 March 2026
+:
+14:58:50
+Mobius Claims Contents
+Click on the chapter titles below to view them:
+1:
+Introduction and Getting Started
+2:
+Using Mobius Claims
+3:
+The Administration Page
+4:
+The Configuration Page
+Open GI

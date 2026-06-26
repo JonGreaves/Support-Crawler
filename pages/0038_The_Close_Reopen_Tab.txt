@@ -1,0 +1,78 @@
+Subsystem: Mobius Claims
+TOC Title: The Close / Reopen Tab
+Page Title: The Close / Reopen Tab
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Close_Tab.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Close / Reopen Tab
+The
+CLOSE
+/
+REOPEN
+tab is part of the
+the Incident Actions menu
+on the
+Summary
+page.
+Note: This tab is named
+REOPEN
+when the claim has been closed. Its function is to closing or reopening claims.
+For details on the
+REOPEN
+tab, see
+The REOPEN tab
+For details on the
+CLOSE
+tab, see
+The CLOSE tab
+For details on the
+Summary
+page,  see
+The Summary Page
+.
+Note: To return to the summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+The REOPEN tab
+Click the
+REOPEN
+tab to reopen the Claim, and then select a reason from the drop-down list .
+Reopened Reasons are is configurable. See
+The Configurable Lists Page
+.
+Click
+YES
+to reopen the claim. This will take you back to the Policy Search page. See
+The Search Page
+. The Claim Status is changed to 'Reopened'. You can verify this in the Most Recent Claims pane on the Dashboard page. See
+2: Using Mobius Claims
+.
+Click
+NO
+to leave the claim closed.
+The CLOSE tab
+Click the
+CLOSE
+tab to close the Claim, and then select a reason from the drop-down list.
+Close Claim Reasons are is configurable. See
+The Configurable Lists Page
+.
+Click
+YES
+to close the claim. This will take you back to the Policy Search page. See
+The Search Page
+. The Claim Status is changed to 'Closed'. You can verify this in the Most Recent Claims pane on the Dashboard page. See
+2: Using Mobius Claims
+.
+Click
+NO
+to leave the claim open.
+Open GI

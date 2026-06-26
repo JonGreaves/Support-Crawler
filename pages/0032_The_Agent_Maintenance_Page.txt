@@ -1,0 +1,230 @@
+Subsystem: Mobius Claims
+TOC Title: The Agent Maintenance Page
+Page Title: The Agent Maintenance Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Agent_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Agent Maintenance Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to access software configuration settings.
+Click
+AGENT MAINTENANCE
+to open the
+Agent Configuration
+page.
+Upper Section
+This section of the Agent Maintenance page lists all agents for your company in the order that they have been added.
+Columns
+Agent Name
+- the business name for the listed Agent
+Reference
+- the unique reference for the Agent
+Click
+EDIT
+to enter the new reference, and then click the save
+button to secure all changes, or click the delete
+button to discard any changes.
+Logo Name
+- select an Agent logo from the drop-down list of images
+The content of the drop-down list is determined by the images provided by the Agent. When logging in under a given
+Agent
+or
+Sub-Agent
+, the selected logo is displayed instead of the
+Mobius Claims
+logo.
+Banner Colour Scheme
+- see
+Setting a Banner Colour Scheme
+Buttons
+Each listed Agent has the following options:
+CREATE ADMINISTRATOR
+- see
+Creating an Administrator for an Agent
+SHOW EXISTING LOGINS
+- see
+Showing or Hiding existing Logins for an Agent
+TAKE OWNERSHIP
+R
+- see
+Taking Ownership of an Agent
+To add an Agent, click the
+ADD AGENT
+button, see
+Adding an Agent
+.
+Lower Section
+The Agents' logins are listed at the end of the comprehensive Agents rights list if
+SHOW EXISTING LOGINS
+has been selected.
+To rebuild the Agents list, click the
+REFRESH
+button.
+Setting a Banner Colour Scheme
+This option is only enabled if the parameter "Allow Override Banner Colour Scheme" has been set to "true" on the 'Parameters' page. See
+The Parameters Page
+.
+You can optionally configure the following colour setting using the options:
+Text Colour
+- the colour for standard (non-selected) text
+Text (Selected) Colour
+- the colour for selected text
+Background Colour
+- the background colour for standard (non-selected) text
+Background (Selected) Colour
+- the background colour for selected text
+Default colour: #
+999999
+Default colour: #
+ffffff
+Default colour: #
+333333
+Default colour: #
+080808
+To select a colour, click the relevant expand
+button. This opens a colour select pop up window.
+You have the following options to set a colour:
+Enter a hexadecimal colour code, in this example: '
+#080808
+', for details on colours and a list of colour codes, see
+https://msdn.microsoft.com/en-us/library/ms531197
+Use the colour slide to narrow down the colour palette, and then select the exact colour by clicking in the colour range above
+Click
+Apply
+to use the selected colour. Alternatively, click
+Cancel
+to discard any changes.
+Adding an Agent
+Click the
+ADD AGENT
+button to open the
+New Agent
+page.
+Fields
+Name
+- the Agent's business name
+Email
+- the Agent's business email address
+Reference
+- a unique reference for this Agent
+Click
+ADD
+to add the new Agent to the Agents list. Alternatively, click
+BACK
+to discard any changes.
+Note: Although Agent details can be edited, Agents cannot be removed.
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Creating an Administrator for an Agent
+Click
+CREATE ADMINISTRATOR
+to open the Create page.
+Fields
+User name
+- Enter the user's
+email address
+.
+Full name
+- Enter the first and last name of the new Agent Administrator.
+New password
+- Enter a password for the new Agent Administrator account.
+Confirm new password
+- If the new passwords are not identical the error 'Values must be equal' is displayed.
+Note:
+Roles
+define the user as an Administrator or an 'ordinary' User,
+Permission Groups
+define which rights apply for the selected Administrator and/or User.
+Confirm Permission Group(s)
+If you have added Permission Groups on the Permission Group Configuration page, then these groups also appear here. For details, see
+The Permission Groups Page
+. The following Permission Groups are the default ones. Tick one or more check boxes.
+Default Agent Administrator
+- All Agent Admin Tasks
+Default User
+- All User Tasks
+Being a member of this Permission Group allows selected users to carry out any claims related tasks with the exception of administration tasks. This field is only displayed if the
+User
+role has been selected.
+Fnol
+Clerk
+Being a member of this Permission Group allows selected users to carry out any task related to FNOL only. This field is only displayed if the
+User
+role has been selected.
+Authority Reserve Group(s)
+Select the reserve groups to which the Administrator belongs.
+See also
+The Authority Reserve Groups Page
+.
+Basic
+Claims Handler
+Manager
+UAT test group
+Authority Payment Group(s)
+Select the payment groups to which the Administrator belongs.
+See also
+The Authority Payment Groups Page
+.
+Claim Handler
+Manager
+Click the
+CREATE
+button to save the new Agent Administrator.
+If the new password does not meet the requirements set out under Parameters (see
+The Parameters Page
+), the error 'The new password does not meet the password requirements' is displayed.
+Click
+DISABLE
+button to disable access for the selected user. The selected user will no longer be able to log in.
+To re-enable selected user accounts:
+Click the
+Show Disabled
+button on the Registered Users page to include any disabled users in the user accounts list. See
+Hiding or Showing Disabled Accounts
+.
+Locate and click the appropriate account. This opens the accounts details pane.
+Click the
+ENABLE
+button to re-enable the user account.
+Showing or Hiding existing Logins for an Agent
+This button has a toggle function.
+Click
+SHOW EXISTING LOGINS
+to display a list of all logins for the relevant Agent
+Click
+HIDE EXISTING LOGINS
+to remove the list of all logins for the relevant Agent
+Note: Clicking the
+REFRESH
+button resets all Agents to
+hide
+existing logins.
+Taking Ownership of an Agent
+This button has a toggle function.
+Click
+TAKE OWNERSHIP
+R
+to relinquish control of the Agent account.
+Click
+TAKE OWNERSHIP
+Â£
+to take control of the Agent account.
+A tick mark is added to / removed from the checkbox when you take / remove ownership.
+Open GI

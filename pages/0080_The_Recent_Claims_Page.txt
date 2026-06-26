@@ -1,0 +1,76 @@
+Subsystem: Mobius Claims
+TOC Title: The Recent Claims Page
+Page Title: The Recent Claims Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TTC_-_Recent_Claims_Column_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Recent Claims Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to access software configuration settings.
+Click
+RECENT CLAIMS
+to open the
+Recent Claims Columns Configuration
+page.
+This page enables you to configure the recent claims columns. All enabled columns are displayed on the
+Most Recent Claims
+pane which is part of the Dashboard page (see
+2: Using Mobius Claims
+). You must minimally enable one column.
+If you want to configure additional FNOL columns to be displayed on the
+Most Recent Claims
+pane, then this can be done in the schema .CSV files.
+Columns
+The following columns are displayed:
+Order
+- use the Up-Arrow
+p
+and Down-Arrow
+q
+buttons to change the order in which the claims columns are displayed, from left to right, on the 'Most Recent Claims' pane
+Column Description
+- this field cannot be changed
+Display
+- all slide buttons have a toggle function, red indicates no display, green indicates that the column is displayed. The settings for all columns are '
+Green
+' by default.
+Header Text
+- You can change the header text as required, defaults values are:
+The claim number:
+Claim Number
+Date the claim was last accessed by any user:
+Last Accessed
+The date of the incident:
+Incident Date
+The class of business associated with the claim:
+Class of Business
+The status of the claim:
+Claim Status
+The assigned claim handler:
+Claim Handler
+The name of the agent that is handling the claim:
+Owner Agent Name
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click any menu option to discard any changes.
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

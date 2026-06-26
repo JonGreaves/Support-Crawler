@@ -1,0 +1,34 @@
+Subsystem: Mobius Claims
+TOC Title: 1: Introduction and Getting Started
+Page Title: 1: Introduction and Getting Started
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/Introduction.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Last updated:
+27 March 2026
+:
+14:58:52
+1: Introduction and Getting Started
+Introduction
+Mobius Claims
+is an advanced software solution which works alongside any insurance policy management system to support the entire claims-resolution life cycle from FNOL to settlement. The cross device / platform service is delivered through a browser, making it accessible anywhere, any time to any user logged in via secure OAUTH authentication
+Mobius Claims
+has a service layer built in C# (say: 'C sharp') using .NET, and a presentation layer built using a HTML5 /
+JavaScript SPA (Single Page App) framework, all being located on an SQL Server back-end. The
+Mobius Claims
+can be deployed as a self-hosted solution or a cloud based service. It is compatible with all leading insurance software Policy Administration Systems and is currently integrated with
+TCAS
+.
+Mobius Claims
+is compatible with the latest release of Microsoft Internet Explorer, Google Chrome and Mozilla Firefox.
+Compatibility with
+Microsoft Edge for
+Windows 10 has not been tested to date.
+Open GI

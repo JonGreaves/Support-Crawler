@@ -1,0 +1,103 @@
+Subsystem: Mobius Claims
+TOC Title: The Liability Tab
+Page Title: The Liability Tab
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Incident_Actions_-_Liability_Tab.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Liability Tab
+The
+LIABILITY
+tab is part of the
+the
+Incident Actions
+pane
+on the Summary page. For details, see
+The Incident Actions Pane (middle)
+.
+The purpose of this tab is to clearly identify if the policy holder is liable / at fault for the incident and whether their NCB will be affected.
+Use of the Liability tab is configurable and may be different for your organisation.
+To enable or disable use of the Liability tab, see the
+Note:
+.
+For details on Parameters, see
+The Parameters Page
+.
+For details on the Summary page,  see
+The Summary Page
+.
+For details on the
+LIABILITY
+tab - see
+The LIABILITY tab
+Note: To return to the Summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+The LIABILITY tab
+Using your internet browser, log in to
+Mobius Claims
+. The
+Dashboard
+page is displayed. For details on logging in, see
+Logging in to Mobius Claims
+.
+If you have already logged in, then use the direct link in the Top Navigation Bar by clicking the
+SEARCH
+item. For details on searching, see
+The Search Page
+.
+Click a given claim to obtain more information on that claim. This opens a details page.
+In the
+I
+ncident Actions
+pane, click the
+LIABILITY
+button to open the Liability pane.
+The Liability pane has the following fields:
+Is the policyholder at fault? - Select the radio button for
+Yes
+or
+No
+Will the claim affect the policyholders NCB? - Select the radio button for
+Yes
+or
+No
+Click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right to return to the Summary pane.
+Note:
+To enable or disable the
+Liability
+tab:
+Select
+CONFIGURATION
+,
+PARAMETERS
+In the
+Type
+column, select
+BOOLEAN
+(optional)
+Locate the
+Enable Liability Preview
+parameter
+Click
+Edit
+, and then tick the check box to enable the liability preview
+Click
+Save
+to save any changes, or click
+Cancel
+to discard any changes
+For details on Parameters, see
+The Parameters Page
+.
+Open GI

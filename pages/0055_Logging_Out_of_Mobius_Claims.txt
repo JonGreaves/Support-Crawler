@@ -1,0 +1,75 @@
+Subsystem: Mobius Claims
+TOC Title: Logging Out of Mobius Claims
+Page Title: Logging Out of Mobius Claims
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Loging_out.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Logging Out of
+Mobius Claims
+You can log out from
+Mobius Claims
+anywhere in the application.
+Click the
+Hi <Your_First_Name>
+drop-down list  in the top right of the page.
+Select
+Logout
+. This opens the 'Mobius Login Server - Logout' page.
+Click
+'here'
+to log back in. This takes you to the 'Dashboard' page.
+To log in from the 'Dashboard' page, see:
+Logging in to Mobius Claims
+.
+Inactivity Timeout
+After a period of inactivity you may be automatically logged out from your current session.
+If you have administrator rights, you can change the general
+inactivity timeout period.
+Note:
+To change the Screen Timeout (this applies to all users):
+Select
+Configuration
+,
+PARAMETERS
+.
+Select
+Miscellaneous
+G
+roup
+from the
+Group
+Filter drop-down list (optional).
+Select
+INT
+(eger) from the
+Type
+Filter drop-down list (optional).
+Locate the
+Screen
+Time Out
+setting.
+Click the
+EDIT
+button on the right, and then enter the time out in minutes. To disable screen time out, enter '-1'.
+Click
+SAVE
+to apply the new time out, or click
+CANCEL
+to discard any changes.
+Press
+F5
+to refresh your screen.
+For more details, see
+The Parameters Page
+.
+When a Session Timeout Warning is displayed, click
+Renew Session
+to return to the most recent page used.
+Open GI

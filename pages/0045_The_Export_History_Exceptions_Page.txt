@@ -1,0 +1,46 @@
+Subsystem: Mobius Claims
+TOC Title: The Export History Exceptions Page
+Page Title: The Export History Exceptions Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Export_History_Exceptions_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Export History Exceptions Page
+Note: At the time of publishing this user guide, this function is not part of standard version of
+Mobius Claims
+.
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+EXPORT HISTORY EXCEPTIONS
+to open the
+Export History Exceptions
+page.
+This function applies when a
+TCAS
+claim is changed, it would be exported into the claims cloud.
+This page has the following options:
+RETRY ALL
+- Click to retry all failed exports from
+TCAS
+RELOAD
+- Click to refresh the table, verifying if any export exceptions have occurred since last refresh
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Open GI

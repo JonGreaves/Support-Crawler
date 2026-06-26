@@ -1,0 +1,742 @@
+Subsystem: Mobius Claims
+TOC Title: The Workflow Page
+Page Title: The Workflow Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Workflow_Categories_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Workflow Page
+What's Covered in this topic?
+The Workflow Page
+Core Workflow Categories
+Editing the Incident category
+Immediate Tasks
+Editing the FNOL category
+Immediate Tasks
+Editing the Financials category
+Immediate Tasks
+Editing the Correspondence Category
+Immediate Tasks
+Editing a Custom Workflow Category
+Immediate Tasks
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+WORKFLOW
+to open the Workflow page.
+This page has the following options:
+Core Workflow Categories
+- see
+Core Workflow Categories
+Custom Workflow Categories
+- see
+Custom Workflow Categories
+Core Workflow Categories
+This pane enables you to amend core workflow categories by using the
+EDIT
+button:
+Incident
+- see
+Editing the Incident category
+FNOL
+- see
+Editing the FNOL category
+Financials
+- see
+Editing the Financials category
+Correspondence
+- see
+Editing the Correspondence Category
+The name of this tab is configurable and may be different for your organisation.
+To edit the name of the Correspondence tab see the
+Note:
+.
+You can
+edit
+the details of each of the listed core workflow categories, but you cannot
+add
+or
+remove
+core workflow categories.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Note:
+To edit the name of the
+Correspondence
+tab:
+Select
+CONFIGURATION
+,
+PARAMETER CONFIGURATION
+In the
+Type
+column, select
+STRING
+(optional)
+Locate the
+Correspondence Button Label
+parameter
+Click
+Edit
+, and then enter the name for the tab
+Click
+Save
+to change the tab name , or click
+Cancel
+to discard any changes
+For details on Parameters, see
+The Parameters Page
+.
+Editing the Incident category
+The Workflow Category: Incident page displays a table of events.
+Columns
+Event Name
+- states 'what happened'
+Description
+- short description of the event
+Action Type
+- indicates what type of event this is, for example: 'Core Incident'
+Notify
+- indicates if you want to be notified when a core workflow event is completed.               All slide buttons have a toggle function.
+Red - use the Expand arrows
+on the right to expand the details for a given event.
+The incident details for each event are divided into the following sections:
+Immediate Tasks
+- see
+Immediate Tasks
+Diary Entries
+- see
+Diary Entries
+Email
+- see
+Email
+Immediate Tasks
+The
+Custom Actions to Trigger
+drop-down list enables you to add an action for the given task. First click the Plus
+button to add an action .
+The
+Policy System Events
+drop-down list enables you to add an event for the given task. First click the Plus
+button to add an event.
+Select an action from the drop-down list, and then click the tick button
+to save the action or the event to the selected task, or click the delete
+icon to discard the new action or event.
+Saved actions and events can be edited and deleted.
+To edit saved actions and events, click the edit
+icon to make any changes, click the delete
+icon to remove the action or event.
+Diary Entries
+First click the Plus
+button to add a Diary entry line.
+Fields
+Type
+- select the kind of Diary entry from the drop-down list
+Reminder
+- enter a number, and select a duration from the drop-down list
+Due
+- enter a number, and select a duration from the drop-down list
+(note that the
+Due
+date must be after the
+Reminder
+date)
+Expiry Action
+- select the action on expiry from the drop-down list
+Completion Action
+- select the action on completion from the drop-down list
+Assign to
+- click one of the following:
+User
+-  click the add
+icon, and then select a User from the drop-down list
+Workgroup
+- click the add
+icon, and then select a Workgroup
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Email
+First click the add
+button to add an email item.
+Fields
+TEMPLATE
+- Select the Template	from the
+Select
+drop-down list
+To preview the selected document, click the view
+icon above the selected file.
+TO
+- The kind of recipient the email is intended for.
+Select the type of recipient from the TYPE drop-down list:
+If you select 'Workgroup', or 'Workgroup User', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then the NAME and the ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+FROM
+- The kind of sender the email is coming from.
+Select the type of sender from the TYPE drop-down list:
+If you select 'Workgroup', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then NAME and ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+Click the tick
+button to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Editing the FNOL category
+The Workflow Category: FNOL page displays a table of events.
+The Incident table has the following columns:
+Event Name
+- states 'what happened'
+Description
+- short description of the event
+Action Type
+- indicates what type of event this is, for example: 'Core Incident'
+Notify
+- indicates if you want to be notified when a core workflow event is completed.               All slide buttons have a toggle function.
+Red indicates no notification. The setting for all notifications is '
+Red
+' by default.
+Green indicates that you will be notified.
+Use the Expand arrows
+on the right to expand the details for a given event.
+The incident details for each event are divided into the following sections:
+Immediate Tasks
+- see
+Immediate Tasks
+Diary Entries
+- see
+Diary Entries
+Email
+- see
+Email
+Immediate Tasks
+The
+Custom Actions to Trigger
+drop-down list enables you to add an action for the given task. First click the Plus
+button to add an action.
+The
+Policy System Events
+drop-down list enables you to add an event for the given task. First click the Plus
+button to add an event.
+Select an action from the drop-down list, and then click the tick button
+to save the action or the event to the selected task, or click the delete
+icon to discard the new action or event.
+Saved actions and events can be edited and deleted.
+To edit saved actions and events, click the edit
+icon to make any changes, click the delete
+icon to remove the action or event.
+Diary Entries
+First click the
+Plus
+button to add a Diary entry line.
+Fields
+Type
+- select the kind of Diary entry from the drop-down list
+Reminder
+- enter a number, and select a duration from the drop-down list
+Due
+- enter a number, and select a duration from the drop-down list
+(note that the
+Due
+date must be after the
+Reminder
+date)
+Expiry Action
+- select the action on expiry from the drop-down list
+Completion Action
+- select the action on completion from the drop-down list
+Assign to
+- click one of the following:
+User
+-  click the add
+icon, and then select a User from the drop-down list
+Workgroup
+- click the add
+icon, and then select a Workgroup
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Email
+First click the add
+button to add an email item.
+Fields
+TEMPLATE
+- Select the Template	from the
+Select
+drop-down list
+To preview the selected document, click the view
+icon above the selected file.
+TO
+- The kind of recipient the email is intended for.
+Select the type of recipient from the TYPE drop-down list:
+If you select 'Workgroup', or 'Workgroup User', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then the NAME and the ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+FROM
+- The kind of sender the email is coming from.
+Select the type of sender from the TYPE drop-down list:
+If you select 'Workgroup', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then NAME and ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Editing the Financials category
+The Workflow Category: Financials page displays a table of events.
+The Incident table has the following columns:
+Event Name
+- states 'what happened'
+Description
+- short description of the event
+Action Type
+- indicates what type of event this is, for example: 'Core Incident'
+Notify
+- indicates if you want to be notified when a core workflow event is completed.               All slide buttons have a toggle function.
+Use the Expand arrows
+on the right to expand the details for a given event.
+The incident details for each event are divided into the following sections:
+Immediate Tasks
+- see
+Immediate Tasks
+Diary Entries
+- see
+Diary Entries
+Email
+- see
+Email
+Immediate Tasks
+The
+Custom Actions to Trigger
+drop-down list enables you to add an action for the given task. First click the Plus
+button to add an action .
+The
+Policy System Events
+drop-down list enables you to add an event for the given task. First click the Plus
+button to add an event.
+Select an action from the drop-down list, and then click the tick button
+to save the action or the event to the selected task, or click the delete
+icon to discard the new action or event.
+Saved actions and events can be edited and deleted.
+To edit saved actions and events, click the edit
+icon to make any changes, click the delete
+icon to remove the action or event.
+Diary Entries
+First click the Plus
+button to add a Diary entry line.
+Fields
+Type
+- select the kind of Diary entry from the drop-down list.
+Reminder
+- enter a number, and select a duration from the drop-down list
+Due
+- enter a number, and select a duration from the drop-down list
+(note that the
+Due
+date must be after the
+Reminder
+date)
+Expiry Action
+- select the action on expiry from the drop-down list
+Completion Action
+- select the action on completion from the drop-down list
+Assign to
+- click one of the following:
+User
+-  click the add
+icon, and then select a User from the drop-down list
+Workgroup
+- click the add
+icon, and then select a Workgroup
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Email
+First click the add
+button to add an email item.
+Fields
+TEMPLATE
+- Select the Template	from the
+Select
+drop-down list
+To preview the selected document, click the view
+icon above the selected file.
+TO
+- The kind of recipient the email is intended for.
+Select the type of recipient from the TYPE drop-down list:
+If you select 'Workgroup', or 'Workgroup User', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then the NAME and the ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+FROM
+- The kind of sender the email is coming from.
+Select the type of sender from the TYPE drop-down list:
+If you select 'Workgroup', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then NAME and ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Editing the Correspondence Category
+The Workflow Category: Financials page displays a table of events.
+The Incident table has the following columns:
+Event Name
+- states 'what happened'
+Description
+- short description of the event
+Action Type
+- indicates what type of event this is, for example: 'Core Incident'
+Notify
+- indicates if you want to be notified when a core workflow event is completed.               All slide buttons have a toggle function.
+Red indicates no notification. The setting for all notifications is '
+Red
+' by default.
+Green indicates that you will be notified.
+Use the Expand arrows
+on the right to expand the details for a given event.
+The incident details for each event are divided into the following sections:
+Immediate Tasks
+- see
+Immediate Tasks
+Diary Entries
+- see
+Diary Entries
+Email
+- see
+Email
+Immediate Tasks
+The
+Custom Actions to Trigger
+drop-down list enables you to add an action for the given task. First click the Plus
+button to add an action .
+The
+Policy System Events
+drop-down list enables you to add an event for the given task. First click the Plus
+button to add an event.
+Select an action from the drop-down list, and then click the tick button
+to save the action or the event to the selected task, or click the delete
+icon to discard the new action or event.
+Saved actions and events can be edited and deleted.
+To edit saved actions and events, click the edit
+icon to make any changes, click the delete
+icon to remove the action or event.
+Diary Entries
+First click the Plus
+button to add a Diary entry line.
+Fields
+Type
+- select the kind of Diary entry from the drop-down list
+Reminder
+- enter a number, and select a duration from the drop-down list
+Due
+- enter a number, and select a duration from the drop-down list
+(note that the
+Due
+date must be after the
+Reminder
+date)
+Expiry Action
+- select the action on expiry from the drop-down list
+Completion Action
+- select the action on completion from the drop-down list
+Assign to
+- click one of the following:
+User
+-  click the add
+icon, and then select a User from the drop-down list
+Workgroup
+- click the add
+icon, and then select a Workgroup
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Email
+First click the add
+button to add an email item.
+Fields
+TEMPLATE
+- Select the Template	from the
+Select
+drop-down list
+To preview the selected document, click the view
+icon above the selected file.
+TO
+- The kind of recipient the email is intended for.
+Select the type of recipient from the TYPE drop-down list:
+If you select 'Workgroup', or 'Workgroup User', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then the NAME and the ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+FROM
+- The kind of sender the email is coming from.
+Select the type of sender from the TYPE drop-down list:
+If you select 'Workgroup', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then NAME and ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Custom Workflow Categories
+Categories in the Custom Workflow Categories pane are all added and amended in the same way. You cannot delete any custom workflow categories.
+To add a new custom category, see
+Adding a New Custom Category
+To edit a custom category, see
+Editing a Custom Workflow Category
+Adding a New Custom Category
+Click the
+ADD NEW CATEGORY
+button to enter the details for a new Custom Workflow Category. This adds a blank line at the bottom of the table.
+Enter a meaningful category name. You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Item saved'.
+Click
+CANCEL
+to discard the new Diary Type. The 'new' line may not be cleared but it will not appear again after rebuilding the page.
+Editing a Custom Workflow Category
+Categories in the Custom Workflow Categories pane are all added and amended in the same way. In this topic the 'Large Loss Workflow' is used as an example for editing custom workflow categories.
+Click the
+EDIT
+button for the category you want to amend. In the example in this topic: 'Large Loss workflow'. This opens the related page.
+Columns
+The table shown has the following columns:
+Action Name
+- states 'what happened'
+Description
+- short description of the event
+Action Type
+- indicates what type of event this is, for example: 'FNOL'
+To add a custom action, see
+Adding Custom Actions
+.
+Use the Expand arrows
+on the right to expand the details for a given event.
+The incident details for each event are divided into the following sections:
+Rules
+- see
+The Workflow Page
+Immediate Tasks
+- see
+Immediate Tasks
+Diary Entries
+- see
+Diary Entries
+Email
+- see
+Email
+Plugins
+- see
+Plugins
+Adding Custom Actions
+Click the
+ADD CUSTOM ACTION
+button, in the lower left of the page, to add a custom action.
+Enter the
+Action Name
+and the
+Description
+and then select an custom
+Action Type
+from the drop-down list. You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Item saved'.
+Click
+CANCEL
+to discard the new Diary Type. The 'new' line may not be cleared but it will not appear again after rebuilding the page.
+To open the new custom action, use the Expand arrow
+on the right of the new entry.
+You can now configure the following sections:
+Rules
+- see
+The Workflow Page
+Immediate Tasks
+- see
+Immediate Tasks
+Diary Entries
+- see
+Diary Entries
+Email
+- see
+Email
+To close the new custom action, use the Collapse arrow
+on the right of the new entry.
+Rules
+Rules influence the workflow and should only be added and applied after due consideration.
+If the Rules checkbox is unticked, then the workflow will always continue.
+If unticked, tick the Rules checkbox to open the Rules pane.
+Click the
++ ADD RULE
+button to add a line for a Rule.
+Model Name
+- select the Model to be used
+Conditions
+select the condition from the drop-down list
+select the operator from the drop-down list
+= (equals)
+!= (does not equal)
+< (is smaller than)
+> (is bigger than)
+<= (is smaller than or equal)
+=> (is bigger than or equals)
+has changed (time span required)
+enter the condition, or select the condition from the drop-down list
+Click the tick button
+to save the Rule to the selected Workflow Category. Alternatively, click the X button
+to discard the new Rule.
+If required, click the
++ ADD CONDITION
+button to add a Condition line for this Rule.
+Adding a Condition line also adds a
+- REMOVE
+button for every condition.
+Adding a Condition line also adds an '
+and
+/
+or
+' drop-down field in the first Condition line. The '
+and
+/
+or
+' Condition applies to all conditions within a Rule.
+Click the tick button
+to save the Rule to the selected Workflow Category, or click the X button
+to discard the new Rule.
+Immediate Tasks
+Immediate Tasks in Custom Workflow Categories have the following options:
+Custom Actions to Trigger, see
+Custom Actions to Trigger
+Diaries to Close, see
+Diaries to Close
+Policy System Events, see
+Policy System Events
+Custom Actions to Trigger
+The
+Custom Actions to Trigger
+drop-down list enables you to add an action for the given event. Click the Plus
+button to add an action line.
+Select an action from the drop-down list, and then click the tick button
+to save the action to the selected event, or click the X button
+to discard the new action.
+Diaries to Close
+The
+Diaries to Close
+drop-down list enables you to add an action for the given event and to mark this action to
+Complete
+or
+Dismiss
+. Click the Plus
+button to add an action line.
+Click the tick button
+to save the action to the selected event, or click the X button
+to discard the new action.
+Policy System Events
+The
+Policy System Events
+drop-down list enables you to add a given Policy System event.
+Click the Plus
+button to add an action line.
+Click the tick button
+to save the action to the selected event. Alternatively, click the delete
+icon to discard the new action.
+Diary Entries
+First click the Plus
+button to add a Diary entry line.
+Fields
+Type
+- select the kind of Diary entry from the drop-down list
+Reminder
+- enter a number, and select a duration from the drop-down list
+Due
+- enter a number, and select a duration from the drop-down list
+(note that the
+Due
+date must be after the
+Reminder
+date)
+Expiry Action
+- select the action on expiry from the drop-down list
+Completion Action
+- select the action on completion from the drop-down list
+Assign to
+- click one of the following:
+User
+-  click the add
+icon, and then select a given User from the drop-down list
+Workgroup
+- click the add
+icon, and then select a given Workgroup
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Email
+First click the Plus
+button to add an Email item.
+Fields
+TEMPLATE
+- Select the Template	from the
+Select
+drop-down list
+To preview the selected document, click the view
+icon above the selected file.
+TO
+- The kind of recipient the email is intended for.
+Select the type of recipient from the TYPE drop-down list:
+If you select 'Workgroup', or 'Workgroup User', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then the NAME and the ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+FROM
+- The kind of sender the email is coming from.
+Select the type of sender from the TYPE drop-down list:
+If you select 'Workgroup', then the NAME is supplied by the system - only select the ADDRESS from the drop-down list.
+If you select 'User', then NAME and ADDRESS are supplied by the system.
+If you select anything else, then only enter the NAME and the ADDRESS.
+Click the tick button
+to save the action to the selected event, or click the X button
+to discard the new Email entry.
+Plugins
+First click the Plus
+button to add a Diary entry line.
+Fields
+Plugin
+- select the plugin wanted from the drop-down list.
+Success
+- select the action to take on plugin success from the drop-down list.
+Failure
+- select the action to take on plugin failure from the drop-down list.
+Error
+- select the action to take on plugin error from the drop-down list.
+Parameters
+- select the parameter wanted from the drop-down list.
+In this example the 'CloseReasonKey' parameter for the 'AutoClose' plugin.
+Click the tick button
+to save the diary entry. Alternatively, click the delete
+button to discard the new action or event. This is instant and cannot be undone.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Open GI

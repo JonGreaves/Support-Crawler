@@ -1,0 +1,224 @@
+Subsystem: Commercial Vehicle
+TOC Title: 3: Vehicle Information Screen
+Page Title: 3: Vehicle Information Screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Vehicle_Details.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+3: Vehicle Information Screen
+What's Covered in this topic?
+3: Vehicle Information Screen
+Vehicle Details Pane
+Risk Address Pane
+Security Pane
+This screen contains any relevant data for the vehicle to be covered.  The vehicle details are provided via the ABI vehicle lists where appropriate. This provides default values for much of the vehicle. The screen  also records details of the risk to be insured, such as any modifications and accessories.
+Note:
+One policy may have multiple vehicles attached to it. If a quote is to cover more than one vehicle, then use the initial data capture screens to enter the details of the first vehicle. Additional vehicle details can then be added from the Summary Screen. See
+4: 4: Summary Screen
+and
+Vehicle Summary screen
+for guidance on adding the details of additional vehicles.
+Vehicle Details Pane
+Registration Number
+This is typically the quickest way to enter vehicle details provided that a third party registration search service has been integrated with Transactor. Type vehicle registration (registration mark) and click the search icon
+next to the field to start a search. The full range of known vehicle details are displayed.
+Chassis / VIN Number
+Type the vehicle chassis number or VIN (Vehicle Identification Number).
+Make
+Type (part of) the vehicle make and click the search icon
+next to the field to search the ABI vehicle list for all matching vehicles. The search results can also be filtered by information entered in other fields in this screen.  Vehicle details which are used as filters are the fields from the
+Make
+and
+Model
+up to
+Gearbox
+, as laid out in the Vehicle Details screen.
+Matching vehicles are listed in the Vehicle Search Results screen. See
+Vehicle Search Results screen
+. Highlight the correct vehicle and click
+Select
+to return to the Vehicle Details screen which will now be populated with any available information for that vehicle.
+The quotation will use the details stored on the ABI vehicle code list following a search of it. If that search does not yield an ABI vehicle code, then the vehicle details as entered will be kept. If the ABI file is not searched, then some of the vehicle details such as
+Make
+,
+Model
+,
+CC
+and
+Fuel
+may be lost.
+Values: ABI Code List 44(C)
+Model
+Type (part of) the model name. Also see
+Make
+.
+Values: ABI Code List 44(C)
+Type
+Type (part of) the vehicle type. Also see
+Make
+.
+Values: ABI Code List 44(C)
+CC
+Type the number of CC for the vehicle. Also see
+Make
+.
+Values: ABI Code List 44(C)
+Seats
+Type the number of seats for the vehicle.
+Year
+Select the year for the vehicle from the drop-down list.
+Values: ABI Code List 44(C)
+Reg. letter
+The
+Reg. Letter
+field is populated using the
+Year
+entered for the vehicle and acts as a guide to the user when entering the registration number.
+Fuel
+Select the kind of fuel for the vehicle from the drop-down list.
+Values: ABI code List 109
+Group
+Type the insurance group for the vehicle.
+Gearbox
+Select the kind of gearbox for the vehicle.
+Values: ABI code List 110
+ABI Code
+Type the ABI code for the vehicle.
+Values: ABI Code List 44(C)
+Colour
+Select the colour for the vehicle from the drop-down list.
+Values: ABI code List 78
+LHD
+Tick the check box if this is a LHD (left hand drive) vehicle, untick if not.
+Body Type
+Select the body type for the vehicle from the drop-down list.
+Values: ABI code List 10
+Price Paid
+Type the price paid for the vehicle in GBP.
+Value
+Type the current value of the vehicle in GBP.
+Reason
+This field is enabled if there is a difference between the
+Price Paid
+and
+Value
+fields. Select a reason from the drop-down list.
+Date First Registered
+Type the date on which the vehicle was first registered.
+Format: DD/MM/YYYY
+Date Purchased
+Type the date on which the vehicle was purchased.
+Format: DD/MM/YYYY
+Annual Mileage
+Type the estimated annual mileage.
+Business Mileage
+Type the estimated business mileage.
+Current Mileage
+Type the reported current mileage.
+Gross Vehicle Weight
+Enter the gross vehicle weight (in kilogrammes).
+Trailer?
+Tick this check box if the gross vehicle weight includes a trailer.
+Carrying Capacity
+Enter the maximum weight of load that can be carried by the vehicle (in kilogrammes).
+Racking Fitted?
+Tick this check box if the vehicle is fitted with racking.
+Do you regularly tow a trailer in connection with your occupation?
+Tick this check box if you do regularly tow a trailer in connection with your occupation.
+Vehicle Carries Signage?
+Tick this check box if the vehicle is fitted with signage.
+Bad Driver Hotline?
+Tick this check box if the vehicle advertises a bad driver hotline.
+No tools kept in the vehicle overnight sticker?
+Tick this check box if the vehicle displays a sign advising that no tools are kept in it overnight.
+Q-Plated
+Tick the check box if the vehicle is Q-plated, untick if not.
+Reason
+Select the reason for the Q-plate from the drop-down list.
+Values: TGSL defined
+Example: Built from parts, Ex Military Vehicle, Imported, Kit Vehicle, Trike, Vehicle Stolen/Recovered
+Imported
+Tick the check box if the vehicle was imported, untick if not.
+When ticked, the
+Country Of First Registration
+field will be enabled.
+Country of First Registration
+Select the country from the drop-down list.
+This field is only enabled if the check box for the
+Imported
+field is ticked.
+Values: ABI code List 32
+Ownership
+Select the relevant owner from the drop-down list.
+Values: ABI code List 27
+Registered Keeper
+Select the registered keeper from the drop-down list.
+Values: ABI code List 27
+Parking Overnight
+Select the parking overnight location from the drop-down list.
+Values: ABI code List 15
+Type of Goods
+Select the type of goods transported in the vehicle. Options include "None" and "None mentioned here".
+Hazardous Goods Carried?
+This field will be automatically completed dependent on the answer provided for the
+Type of Goods
+field. This value is not editable.
+Business Radius
+Select one of the options from the drop-down field.
+Additional Vehicle Use
+Select all the additional vehicle uses which apply. The check boxes allow multiple selections to be made.
+Risk Address Pane
+The contents of the
+Risk Address
+fields default to the client address, but can be changed.
+Note:
+If you change the postcode for the risk address (which implies a change of location rather than an amendment to the address spelling or presentation), then you are prompted "Do you want to amend the client address".
+"No" continues processing the amendment
+"Yes" amends the client address, followed by a further message "Check the other policies for this client for possible change of address".
+Postcode
+Type the postcode and click the search icon. The click the correct address and click the
+Select
+button.
+House
+Type the house name or the house number, if not selected using the
+Postcode
+field.
+Street
+Type the street name, if not selected using the
+Postcode
+field.
+Locality
+Type the locality, if not selected using the
+Postcode
+field.
+City
+Type the city, if not selected using the
+Postcode
+field.
+County
+Type the county, if not selected using the
+Postcode
+field.
+Residential Property
+Tick the check box if this is a residential property, untick if not.
+Security Pane
+The
+Security
+pane enables you to add multiple security items using the Security Details screen.
+To add security devices, click
+. To remove an existing device, select the relevant device
+Description
+and click
+. To amend the details for an existing device, select the relevant device and click
+. The Security Details screen will display allowing you to change its details. See
+Security Details screen
+for guidance on working within this screen. After you save the policy or prospect record, you can also open the Security screen from the Summary Screen. See
+4: 4: Summary Screen
+for information about working in that screen.
+Open GI

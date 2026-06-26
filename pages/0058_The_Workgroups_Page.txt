@@ -1,0 +1,77 @@
+Subsystem: Mobius Claims
+TOC Title: The Workgroups Page
+Page Title: The Workgroups Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Manage_Workgroups_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Workgroups Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top menu by clicking the
+ADMINISTRATION
+item on the left. For details on the Top menu, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+WORKGROUPS
+to open the
+Manage Workgroups
+page.
+To
+Add
+a new workgroup, see
+Adding a new Workgroup
+To
+Edit
+or view a workgroup, see
+Editing a Workgroup
+Adding a new Workgroup
+Click the
+ADD NEW WORKGROUP
+button to open the (workgroup) Edit page.
+You can now add the necessary workgroup details.
+Fields
+Workgroup name
+- enter a meaningful name for the new user group
+Email Address
+- enter an email address for the new group
+Users filter
+- this field enables you to quickly filter the list of user names
+By entering one or more letters of the user name(s) wanted the full list is limited to those user names that match the letters entered. You can then tick the relevant checkboxes.
+This works particularly well if your user names contain locations, or job titles.
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes.
+Editing a Workgroup
+Click the
+EDIT
+button for the workgroup you want to amend. This opens the Edit page.
+You can now edit any details for the selected workgroup.
+Workgroup name - enter a meaningful name for the new user group
+Email Address - enter an email address for the new group
+Users filter - this field enables you to quickly filter the list of user names
+By entering one or more letters of the user name(s) wanted the full list is limited to those user names that match the letters entered. You can then tick the relevant checkboxes.
+This works particularly well if your user names contain locations, or job titles.
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes
+Note: Workgroups cannot be removed, but you can empty a workgroup of all its members.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top menu.
+Open GI

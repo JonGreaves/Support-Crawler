@@ -1,0 +1,95 @@
+Subsystem: Mobius Claims
+TOC Title: The Payments Page
+Page Title: The Payments Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Payments_page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Payments Page
+The Payments page enables you to access all payment related information.
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The
+Dashboard
+page is displayed.
+Select PAYMENTS from the Top Navigation Bar. This opens the Payments page.
+For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+Claim Status Selection
+To filter the payment status for the items listed in the table below:
+Select a given
+Pending level
+from the
+Select status
+drop-down list. You must click
+OK
+to apply the filter.
+To reset the filtered list, open the drop-down list and then click
+Select status
+.
+The Claim Status is shown in the
+Status
+column.
+Columns
+Tick box
+- Tick this box to select all payments, tick the box of any given payment to select that payment. Untick all or any boxes to deselect payments.
+Claim Number
+- Allocated Claim number
+Date Created
+- Claim creation date
+Status
+- Claim Pending level
+Level 1
+- Allocated member of staff for this level
+Level 2
+- Allocated member of staff for this level
+Level 3
+- Allocated member of staff for this level
+Payee
+- Claim Payee
+View
+- See
+Buttons
+Amount
+- Claim amount
+Claim Info
+- Claim details, use the Chevron buttons to open and close the drop-down lists containing the
+Driver
+,
+Passengers
+and Third-Party (
+TP
+)
+Drivers
+.
+Buttons
+DOCUMENTS
+- provides access to any claim related documents.
+Click this button to open and close the document drop-down list.
+To
+open
+a given document, click the document name. This opens  a new browser tab.
+To
+close
+a given document, click the Windows 'Close' button(
+X
+)
+on the tab label
+.
+Do not click
+the Windows 'Close' button
+on the top right
+.
+PAYMENT
+- provides payment details.
+Click this button to open the Payment Details page. See .
+Open GI

@@ -1,0 +1,119 @@
+Subsystem: Mobius Claims
+TOC Title: The Diary Page
+Page Title: The Diary Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Diary_Search_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Diary Page
+What's Covered in this topic?
+The Diary Page
+Diary Search
+Searching Diary Entries Again
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The
+Dashboard
+page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the DIARY item. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+Diary Search
+Click the
+DIARY SEARCH
+button to open the
+Diary Search
+page, which enables you to run a very detailed search of actions, events and notifications.
+Fields
+You can only edit the following fields if you first tick the relevant checkboxes on the left.
+Reminder Date
+(from) - select the appropriate date and time from the date picker. See
+Using the Date Picker
+.
+to
+- As above.
+Due Date
+(from) - select the appropriate date and time from the date picker. See
+Using the Date Picker
+.
+to
+- As above.
+Created Date
+(from) - select the appropriate date and time from the date picker. See
+Using the Date Picker
+.
+to
+-  As above.
+Created By
+- select the appropriate person or task from the drop-down list .
+Owner User
+- select the appropriate person or task from the drop-down list.
+Owner Workgroup
+- select the appropriate Workgroup from the drop-down list.
+Diary Type
+- select the appropriate Diary Type from the drop-down list.
+Completion Type
+- select the appropriate Completion Type from the drop-down list.
+Claim Number
+- enter the relevant Claim Number if available.
+Click the
+SEARCH
+button to start searching the Diary. Click
+Back
+to abandon the search.
+Note:
+If you tick a checkbox, but you do not complete the relevant field, the message 'Field required' is shown. Complete the field, or untick the checkbox in question.
+If a search is successful, the
+Diary Search
+page lists all matching claims.
+Columns
+User / Workgroup
+Claim Number
+Reminder Date
+Due Date
+Diary Type
+Notes
+Buttons
+Search Again
+- see
+Searching Diary Entries Again
+Re-allocate
+- see
+Re-allocating Diary Entries
+View
+- see
+Viewing Diary Entry Details
+Back
+- click
+Back
+to abandon your search.
+Searching Diary Entries Again
+Click the
+SEARCH AGAIN
+button to run another search. For instance to immediately verify if a diary entry has been reallocated.
+Re-allocating Diary Entries
+Select the one or more Diary entries.
+Select the
+Workgroup
+or
+User
+radio button to for the kind of re-allocation.
+Select the actual workgroup or user wanted from the relevant drop-down list.
+Click the
+RE-ALLOCATE
+button .
+Viewing Diary Entry Details
+Click the
+VIEW
+button for the appropriate claim(s) to inspect diary entry details. See
+View Diary Entry Page
+.
+Open GI

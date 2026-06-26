@@ -1,0 +1,71 @@
+Subsystem: Mobius Claims
+TOC Title: The MIAFTR Configuration Page
+Page Title: The MIAFTR Configuration Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_MIAFTR_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The MIAFTR Configuration Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to view software configuration settings.
+Click
+MIAFTR CONFIGURATION
+to open the
+MIAFTR Configuration
+page. This page enables you to configure the use of the Motor Insurance Anti Fraud & Theft Register against your models.
+To enable or disable MIAFTR against a model, click the slider on the right.
+Red: Disabled
+Green: Enabled
+Fields
+Claim Version
+Status
+Activity Date
+- Activity date and time.
+Actioned By
+Options
+- See
+Options
+Note: You cannot add or amend MIAFTR claims when a claim is locked or closed.
+Options
+Select one of the following from the drop-down list:
+Update claim details
+- see
+Update claim details
+Update claim status
+- see
+Update claim status
+View claim details
+- see
+View claim details
+View claim matches
+- see
+View claim matches
+View financial interest
+- see
+View financial interest
+Update claim details
+Update claim status
+View claim details
+View claim matches
+View financial interest
+Click
+SEARCH A CLAIM
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

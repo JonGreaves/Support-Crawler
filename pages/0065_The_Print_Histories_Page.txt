@@ -1,0 +1,53 @@
+Subsystem: Mobius Claims
+TOC Title: The Print Histories Page
+Page Title: The Print Histories Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Print_History_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Print Histories Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+PRINT HISTORIES
+to open the
+Print Histories
+page.
+Select the User who's Print History you want to review from the drop-down list.
+Click the preview icon
+for any given document to view its contents in a Preview pop-up screen.
+When hovering over the preview page, document related information is displayed, and several document related options become available.
+Page Contents
+Top left
+File name
+Top centre
+1/1
+Showing page 1 of 1 (in this example)
+Top right
+Rotate to Landscape / Portrait
+Download document
+Print document
+Lower right
+Focus
+Zoom In
+Zoom Out
+Full page
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Open GI

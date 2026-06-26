@@ -1,0 +1,106 @@
+Subsystem: Mobius Claims
+TOC Title: The FNOL Tab
+Page Title: The FNOL Tab
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_FNOL_Tab.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The FNOL Tab
+The
+FNOL
+tab is part of the
+The Incident Actions menu
+on the
+Summary
+page.
+For details on the Summary page,  see
+The Summary Page
+.
+For details on the
+FNOL
+tab, see
+The FNOL tab
+.
+Note: To return to the Summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+The FNOL tab
+This tab provides access to various different sections, depending on the LOB you are using. The following sections are an example of the sections for the Private Car LOB:
+Initial Details
+- see
+Initial Details Pane
+Insured
+Details
+Driver
+Details
+Vehicle
+Details
+Incident
+Details
+Passengers
+Third Party Vehicles
+Third Party Other
+Witnesses
+Repairer/Engineer
+Further Details
+You can navigate through the various different panes by using the
+NEXT
+and
+PREVIOUS
+buttons below, or by using the applicable
+Claims
+pane on the left (in the example used in this topic, this is the
+Motor Claims
+pane).
+Initial Details Pane
+The
+FNOL
+tab is part of the
+The Incident Actions menu
+on the Summary page. The
+Initial Details
+pane is shown by default.
+Fields
+All fields marked with an asterisk (*) must be completed.
+Who has the claim been notified by?
+* - Select the party from the drop-down list.
+How was the claim notified?
+* - Select the means of communication from the drop-down list.
+Date claim notified
+- Enter the date or use the date picker. See
+Using the Date Picker
+.
+Time claim notified
+- Enter the time or use the date picker. See
+Using the Date Picker
+.
+Date added to
+claims cloud
+- Enter the date or use the date picker. See
+Using the Date Picker
+.
+Vehicle involved
+* - Select the vehicle from the drop-down list.
+Driver involved
+* - Select the driver from the drop-down list.
+Type of claim
+* - Select the type of claim from the drop-down list.
+Insurer's reference
+- Enter a reference for this claim.
+You can navigate through the various different panes by using the
+NEXT
+and
+PREVIOUS
+buttons below, or by using the applicable
+Claims
+pane on the left (in the example used in this topic, this is the
+Motor Claims
+pane).
+Open GI

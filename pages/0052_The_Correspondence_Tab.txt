@@ -1,0 +1,427 @@
+Subsystem: Mobius Claims
+TOC Title: The Correspondence Tab
+Page Title: The Correspondence Tab
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Incident_Actions_Correspondence_Tab.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Correspondence Tab
+What's Covered in this topic?
+The Correspondence Tab
+The CORRESPONDENCE tab
+Connect your Outlook email account
+Inspecting Audit Trails
+Start your internet browser and navigate to https://<your_site>.theinsurercloud.com, where <your_site> will have been defined when the Claims Cloud was configured.
+Using your internet browser, log in to
+Mobius Claims
+. For details on logging in, see
+Logging in to Mobius Claims
+.
+Open the Summary page, and then open an existing claim. For details on accessing the Summary page, see
+The Summary Page
+The
+CORRESPONDENCE
+tab  is part of the
+Incident Actions
+section on the Summary page. The name of this tab is configurable and may be different for your organisation.
+For more information on Parameters, see
+The Parameters Page
+.
+The CORRESPONDENCE tab
+In the
+Incident Actions
+pane, click the
+CORRESPONDENCE
+button to open the Correspondence details pane.
+The Correspondence pane has the following parts:
+Upper section (above the title) - see
+Upper section
+Lower section (below the title) - see
+Lower Section
+Note:
+To edit the name of the
+Correspondence
+tab:
+Select
+CONFIGURATION
+,
+PARAMETER CONFIGURATION
+In the
+Type
+column, select
+STRING
+(optional)
+Locate the
+Correspondence Button Label
+parameter
+Click
+Edit
+, and then enter the name for the tab
+Click
+Save
+to change the tab name , or click
+Cancel
+to discard any changes
+Upper section
+The upper section of the page (above the title) enables you to:
+add files for upload
+- see
+Adding email and media items for upload
+.
+connect to Outlook
+- see
+Connect your Outlook email account
+.
+Adding email and media items for upload
+To upload one or more media files, you have the following options on the left:
+Locate and select
+Click inside the file-drop box on the left to open a Windows Explorer window.
+Locate and select one or more media files.
+Click
+Open
+to add the selected files, or select
+Cancel
+to abandon the upload
+Select and Drop
+Open Windows Explorer or a similar file management tool in a separate window.
+Locate and select and drag one or more files into the file-drop box.
+Files are shown with a progress bar during upload.
+On completion of the upload an 'Add file' pop up window is displayed with the file name(s) displayed in
+bold
+.
+Note the vertical scroll bar on the right when you add more than one file for upload.
+Note: If you are not using the
+My Outlook
+feature on the right (see
+Connect your Outlook email account
+), proceed as follows to select and drop email messages :
+Select the message(s) from the list in Outlook.
+Drop the message(s) into Windows Explorer (or on your desktop).
+Select the resulting .MSG file(s) and then drop them into the file-drop box.
+Fields
+Claimants
+- click inside  Claimants field to select one or more claimants
+File Type
+- select a file type from the drop-down list
+Note
+- enter a note to indicate what the file contains or refers to
+Click
+OK
+to save the information. This also updates the lower section of the page with an entry for the uploaded file.
+Note: Although completion of the above fields is not mandatory, omitting any details is likely to make file management more time consuming.
+Connect your Outlook email account
+The
+My Outlook
+option on the right enables you to integrates with Microsoft Outlook (Office 365). Alternatively, you can save email messages to .MSG files and upload these through the section on the left. See
+Adding email and media items for upload
+.
+Click inside the My Outlook box to connect to Outlook  and select one or more emails to attach to your Mobius correspondence. This opens the Microsoft online login page.
+Accessing Outlook at First Use
+The Microsoft online login page will initially request you to grant
+Mobius Claims
+access to your Outlook account. Note that the lower end of the Permissions requested screen is displayed first.
+Scroll back up to see all permissions requested. These are also listed
+here
+.
+Optionally, click the
+App info
+link to open the 'App info' window.
+Note the date format:
+MM
+/
+DD
+/YYYY
+Click the
+Close
+X
+button to exit the 'App info' window.
+Untick / tick the various different permissions as per your requirements.
+Click
+Accept
+to grant access. Alternatively, click
+Cancel
+to deny access to Outlook.
+Logging in to Outlook after Granting Access
+After you grant
+Mobius Claims
+access to Outlook, you can log in to your Microsoft Office 365 account through the
+My Outlook
+section and select one or more emails to attach to your
+Mobius Claims
+correspondence.
+Logging Out from Outlook
+Click the red
+Log Out
+button on the popup after you finish attaching emails. This logs you out of Office 365 and closes the session properly.
+Lower Section
+The lower section of the page (below the title) enables you to managed uploaded and received media and document files.
+Functions
+To add a DVD Reference - see
+Adding a DVD Reference to the list
+To add a Link - see
+Adding a Link to the list
+To send an Email - see
+Sending an Email
+To send a document to a Claimant -
+Sending a Document to a Claimant
+To Inspect an Audit Trail - see
+Inspecting Audit Trails
+Table
+Columns - see
+Columns
+Applying Selections - see
+Selecting Files
+Applying Filters -  see
+Filtering Files
+Managing Files - see
+Managing Individual Files
+Printing Files - see
+Printing
+Buttons
+PRINT SELECTED FILES
+- see
+Printing
+.
+MY PRINT HISTORY
+- see
+Printing
+.
+MARK AS UNREAD
+- see
+Marking as Unread
+.
+Adding a DVD Reference to the list
+To add a DVD reference, enter the DVD reference in the text box on the far left, and then click the
+ADD DVD REFERENCE
+button. This opens the
+Add File
+window.
+Fields
+Claimants
+- click inside  Claimants field to select one or more claimants.
+File Type
+- Select the file type from the drop-down list.
+Note
+- enter a note to indicate what the file contains or refers to.
+Click
+OK
+to save the information. This also updates the lower section of the page with an entry for the uploaded file.
+Adding a Link to the list
+To add a link, enter the Link name in the text box on the far left, and then click the
+ADD LINK
+button. This opens the 'Add Link' window.
+Fields
+Claimants
+- click inside  Claimants field to select one or more claimants.
+URL
+- select a file type from the drop-down list.
+File Type
+- Select the file type from the drop-down list.
+File Status
+- Select the file status from the drop-down list.
+Note
+- enter a note to indicate what the file contains or refers to.
+Click
+OK
+to save the information. This also updates the lower section of the page with an entry for the uploaded file.
+Sending an Email
+To send an email, click the email
+icon. This opens the Message page.
+Minimally enter the addressee, the subject, and the message.
+When you click into the
+To
+field, any previous addressees for the current user are shown in a drop-down list. Select an existing addressee, or enter a new addressee, and then select the 'Add New' kind of dropdown. This adds the newly entered email address to the drop-down list. Added email addresses are stored per user but across all claims.
+Click paper clip
+icon to attach any documents. This opens the
+Attach files
+page.
+Select one or more files for attachment, and then click
+OK
+.
+Click the paper plane
+icon to send the document and its attachments. Alternatively, click the back
+icon to discard the email, or to save it as draft.
+Click
+OK
+to discard the email, click
+CANCEL
+to finish the draft, or click
+SAVE AS DRAFT
+to save the email and return to the previous page where the message is listed as an '(unsent draft)'.
+Sending a Document to a Claimant
+The documents you select here use templates which often contain merge fields and
+free text
+.
+Merge Fields
+Merge fields are codes that enable
+Mobius Claims
+to automatically populate the selected document with the appropriate data, such as the
+claimants name
+,
+address
+,
+policy details
+, and so on. If you select a document which contains with certain types of merge fields, then some new drop-down lists will enable you to select which entity you want the respective fields to be populated with.
+Example:
+If you are sending a document to a third-party driver involved in a collision, and you want to address them as 'Dear <driver name>', then the document could have a merge field for the driver name which, when selected, will display a drop-down list of all the third-party drivers entered into
+Mobius Claims
+during FNOL. The same concept applies to:
+Multi-instance FNOL questions
+Authorised or cancelled payments
+Recoveries
+Free text
+Free text
+Free-form text codes, such as 'Correspondence.FreeText.Generic', enable you to enter 'your own', unpredefined text into the selected document on merging the selected document.
+If the selected document in the pop-up screen contains a free-form text code, then a rich text editor is displayed for each one, enabling you to enter your own text and insert graphics like you would in Microsoft Word.
+If the document has more than one free-form text code, then an editor is available for every free-text code found. These are shown individually however, with forward and backward arrows to navigate between them.
+Selecting a Document
+Click the document
+icon to send a document to one or more claimants. This opens the
+Send Document
+page.
+Fields
+Document
+- select the document from the drop-down list
+Claimant
+- click inside the Claimant box to select one or more claimants
+File Type
+- select the type from the drop-down list.
+Click
+SEND
+to dispatch the email. The email is also added to the correspondence list below. Alternatively, click
+CANCEL
+to discard any changes and return to the previous page.
+Inspecting Audit Trails
+Click the More
+icon at the top right of the 'Correspondence' pane to open the 'Correspondence Audit Trail' pane.
+Columns
+File Name
+- Name of the audited file.
+Action Type
+- Indicates what happened to the audited file (Inserted, Updated).
+User Name
+- Full name for the user who performed the action.
+Created
+- Action date and time.
+Audit Note
+- Free-form text.
+Old Value
+- Content before update.
+New Value
+- Content after update.
+Click the
+Back
+button on the bottom right to return to the previous pane.
+Columns
+Filename/Ref
+- the filename for the document, or the DVD reference
+Type
+- the file type or the communication used if this was sent
+Claimants
+- the claimant(s)
+Upload date
+- the date on which the file was uploaded or received
+Operator
+- the user who added the file
+Notes
+- any additional information regarding the file
+Status
+-
+Icons
+Download
+Preview
+Edit
+History
+Delete
+Selecting Files
+The check box at the very left of the filter bar enables you to (de)select
+all files
+.
+To (de)select
+individual files
+for printing, (un)tick the check boxes for those files.
+Selected files can be printed or marked as unread.
+Click the
+PRINT SELECTED FILES
+button to send these to the printer.
+See also
+Printing
+Click the
+MARK AS UNREAD
+button to mark any selected files as unread.
+Files which have not been read have their check box marked in blue in the first column. See also
+Marking as Unread
+Filtering Files
+You can filter on one or more of the following by clicking the filter
+icon on the left:
+Inbound mail
+Outbound mail
+Notes
+Sent
+Unsent
+Filtered columns are shown with a green filter heading. In the example below, only the
+Claimants
+column has not been filtered.
+Enter the
+Filename/Ref
+,
+Operator
+and
+Notes
+to apply more filters.
+Any filter entered in these columns is seen as a wildcard and not case-sensitive.
+Example: '
+ad
+' matches '
+administrator
+'.
+Use the drop-down lists in the
+Type
+,
+Claimants
+, and
+Status
+columns to select more filters.
+Select the
+Upload date
+from the date picker, or enter this manually, to apply another filter. See also
+Using the Date Picker
+.
+Managing Individual Files
+To continue editing a draft, click the Continue
+icon.
+To download a file, click the Download
+icon.
+To edit a file, click the Edit
+icon.
+To preview a file, click the Preview
+icon.
+To remove any received file, click the Remove
+icon.
+Files that have been attached to an email cannot be removed.
+To open the history for a file, click the History
+icon.
+Printing
+To (de)select one or more files for printing, tick the check boxes in the column on the far left. To (de)select all files for printing, click the tick box on the far left of the filter bar.
+Click
+PRINT SELECTED FILES
+when done.
+To view which files you have printed, click
+MY PRINT HISTORY
+. This opens the MY PRINT HISTORY window.
+Click the Windows Close
+icon to exit the page.
+Marking as Unread
+To (de)select one or more files for marking as read, tick the check boxes in the column on the far left. To (de)select all files for printing, click the tick box on the far left of the filter bar.
+Click
+MARK AS UNREAD
+when done.
+Note:
+Files are automatically marked as read when you open them. You cannot mark files as read without opening them.
+Open GI

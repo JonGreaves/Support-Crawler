@@ -1,0 +1,61 @@
+Subsystem: Mobius Claims
+TOC Title: The Payment Authorization Levels Page
+Page Title: The Payment Authorization Levels Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Payment_Authorization_Levels_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Payment Authorization Levels Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The
+Configuration
+page provides a central location to access software configuration settings.
+Click
+PAYMENT AUTHORIZATION LEVELS
+to open the
+Payment Authorization Levels
+page.
+This page enables you to name the payment authorization levels in your organization. The default levels are:
+Level 1
+Level 2
+Level 3
+Authorised
+Columns
+Level
+- The level that you are renaming.
+Action
+- Text for the action to be taken.
+This text is displayed, for example, in the History Claim Notes, or at the bottom of the History table inside a payment.
+Button Text
+- Button text for the action to be taken.
+This button text is only displayed when someone authorises a payment at that level.
+Status
+- Text for the status to be displayed for the selected level.
+This text is displayed in error messages, such as 'Unable to authorise the payment ...'.
+Enable
+- Check box to enable the new level name.
+Some organisations only need two of authorisation for payments and others want three. This field enables you to configure what your organisation needs.
+When unticked, a payment is considered fully authorised after approval of level 2.
+When ticked it is after approval of level 3.
+Update
+- Click the Update
+icon to apply any changes to the level.
+Click
+OK
+when finished. This returns you to the previous page.
+Open GI

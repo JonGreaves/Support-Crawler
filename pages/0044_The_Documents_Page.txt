@@ -1,0 +1,114 @@
+Subsystem: Mobius Claims
+TOC Title: The Documents Page
+Page Title: The Documents Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Document_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Documents Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to access software configuration settings.
+Click
+DOCUMENTS
+to open the
+Documents
+page.
+The Documents Page
+The
+upper section
+of the Documents page, immediately below the
+Documents
+header, lists any documents that have been set up in the policy system. To rebuild this list, click
+RELOAD DOCUMENTS
+.
+The
+middle section
+of the Documents page holds a table displaying the document templates configured in
+TCAS
+. The document templates stored in the client resources document templates folder.
+Columns
+Document Template
+- The standard document configured in
+TCAS
+.
+Default Correspondence Type
+- Select the type wanted from the drop-down list.
+The 'Default Correspondence Type' value determines the auto-populated value of the 'Document Type' drop-down list which is displayed in the 'Generate document (send a document to a client)' popup window.
+Note: Available documents in the 'Document' drop-down list of the popup window are automatically filtered:
+'Payment Information' is only used for workflow, therefore item of this type are not displayed in all 'document' drop-down lists. After this has been selected and saved, it cannot be changed.
+Only documents of type 'Cheque Template' will be displayed in the popup window when you click
+Print
+for an authorised cheque payment. After this has been selected and saved, it cannot be changed.
+Anything else will only be displayed in the popup window when you click the
+GENERATE DOCUMENT
+on the 'Correspondence' page. . These items can be changed whenever.
+Action
+- Click
+Save
+to apply any changes to the default correspondence type.
+The
+lower section
+of the Documents page holds any defined fields, in the example used in this topic: 'Correspondence.FreeText.Generic'.
+Columns
+Free Text Field Code
+- This is the code that merges the relevant information from
+TCAS
+into the selected document.
+Field Name
+- The name of the merge field or free text
+Field Prompt
+- The message to be displayed when inserting free text
+Action
+- The option to
+EDIT
+or
+DELETE
+certain items.
+Buttons
+Click
+ADD NEW FIELD
+to define a new merge field or free text on a new line.
+For more information on
+Merge Fields
+, see
+Merge Fields
+For more information on Free text, see
+Free text
+Enter the
+Field Name
+and the
+Field Prompt
+, and then click
+SAVE
+to add the field. Alternatively, click
+CANCEL
+to discard the new field.
+Click
+EDIT
+to change the
+Field Name
+and the
+Field Prompt
+for an existing field.
+Click
+DELETE
+to remove a field.  You will not be asked to acknowledge deletion.
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

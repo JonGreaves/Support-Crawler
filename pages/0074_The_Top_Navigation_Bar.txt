@@ -1,0 +1,65 @@
+Subsystem: Mobius Claims
+TOC Title: The Top Navigation Bar
+Page Title: The Top Navigation Bar
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Top_Navigation_Bar.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Top Navigation Bar
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed by default after logging in.
+The Top Navigation Bar is displayed throughout
+Mobius Claims
+, with the exception of the
+About
+option, and provides direct access to the following items:
+CLAIMS CLOUD - click this banner to open the Dashboard page.
+The banner name may be replaced with your company banner / logo.
+See also
+2: Using Mobius Claims
+.
+SEARCH
+- click to open the Policy Search drop-down list.
+See
+The Search Page
+.
+DIARY
+- click to open the Diary Search page.
+See
+The Diary Page
+.
+PAYMENTS
+- click to open the Payments page.
+See
+The Payments Page
+.
+ADMINISTRATION
+- click to open the Administration page
+See
+3: The Administration Page
+.
+CONFIGURATION
+- click to open the Configuration page
+See
+4: The Configuration Page
+.
+Note: With the exception of the 'THE CLAIMS CLOUD' banner and
+About
+, clicking any of the Top Navigation Bar options when you are
+not
+logged in, also take you to the login page.
+See also
+Logging in to Mobius Claims
+and
+About
+.
+Open GI

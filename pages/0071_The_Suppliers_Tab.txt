@@ -1,0 +1,120 @@
+Subsystem: Mobius Claims
+TOC Title: The Suppliers Tab
+Page Title: The Suppliers Tab
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Suppliers_Tab.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Suppliers Tab
+Note: The
+SUPPLIERS
+tab is part of the
+The Incident Actions menu
+on the Summary page. The Suppliers tab enables you to add one or more existing suppliers to the selected claim.
+To add or maintain supplier details, see
+The Supplier Maintenance Page
+Using your internet browser, log in to
+Mobius Claims
+. The Dashboard page is displayed. For details on logging in, see
+Logging in to Mobius Claims
+.
+If you have already logged in, then use the direct link in the Top Navigation Bar by clicking the
+SEARCH
+item. For details on searching, see
+The Search Page
+.
+Click
+LOAD CLAIM
+for a given claim to open the Claim details page.
+For details on the Summary page,  see
+The Summary Page
+.
+In the
+Incident Actions
+pane, click
+SUPPLIERS
+to open the details page.
+To return to the Summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+The Supplier Details Page
+The details page has the following panes:
+Add Suppliers
+- see
+The Add Suppliers Pane
+Suppliers Summary
+- see
+The Suppliers Summary Pane
+The Add Suppliers Pane
+This pane enables you to search and add an existing supplier to the selected claim based on your search criteria.
+Search Suppliers
+- enter (part of) one or more of the following search criteria:
+supplier name
+postcode
+reference number
+supplier type
+No wildcard characters or capitalisation are needed, 'mar' will return 'Martin', 'Mary', 'Tamar', 'Tamarind', and so on.
+To display
+all suppliers
+, leave the
+Search Suppliers
+field blank.
+Click
+SEARCH
+to find a matching supplier.
+-or-
+Select Postcode
+- Select the person who's postcode you want to use, or select
+Base location
+from the drop-down list.
+Note that the
+Select postcode
+is not displayed if your organization has not purchased Google Maps services.
+If you do not want to use the data gathered at FNOL, you can select
+Other
+to enter a given postcode and then click
+OK
+.
+After successfully searching suppliers, click
+ADD
+on the right for all suppliers that you want to add to the claim. This adds the selected supplier(s) to the
+Suppliers Summary
+pane.
+The Suppliers Summary Pane
+The
+Suppliers Summary
+pane contains all suppliers that have been added to the selected claim.
+Fields
+Name
+- Supplier name
+Address
+- Business address
+Postcode
+- Business postcode
+Email
+- Business email
+Supplier Type
+- Kind of business or trade
+Distance
+- distance from the postcode or person selected above.
+The Distance column is only displayed if your organisation has paid for Google Maps services and has a Google maps related question in FNOL.
+Removing Suppliers
+To remove a given supplier from the selected claim, click the
+REMOVE
+button on the right for that supplier. This does not remove the supplier details from the system.
+Note: To remove supplier details altogether, use the Supplier Maintenance page instead. You can also manage details for existing suppliers on this page. See
+The Supplier Maintenance Page
+.
+Adding New Suppliers
+This must not be confused with adding (existing) suppliers to a claim.
+Note: To add new suppliers you must use the 'Supplier Maintenance' page. You can also manage details for existing suppliers on this page. See
+The Supplier Maintenance Page
+.
+Open GI

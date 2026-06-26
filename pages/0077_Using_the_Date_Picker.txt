@@ -1,0 +1,63 @@
+Subsystem: Mobius Claims
+TOC Title: Using the Date Picker
+Page Title: Using the Date Picker
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Using_the_Date_Picker.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Using the Date Picker
+Fields with a date picker enable you to select the date and time from a calendar with extended functions. You may find this quicker than entering the date manually in the correct date/time format.
+If you prefer to enter or edit the date and time manually, click in the field and type the time and date.
+Mobius Claims
+often uses fields where a default date and time can be changed. The following example uses the 'Connection period' as an example.
+Selecting the Date
+Click the calendar
+icon to open the Date Picker on 'today's' date.
+To select the
+Month
+and
+Year
+wanted, click the left/right
+t
+/
+u
+arrows in the top corners of the date picker.
+Alternatively, click the current <
+Month Year
+> displayed between the arrows to select a different Year and Month from the sub-screen.
+1 - To select the
+Year
+wanted, click the left/right
+t
+/
+u
+arrows
+2 - To select the
+Month
+, click the month wanted below.
+To set the
+Day
+, select the day from the lower part of the calendar.
+When using the Date Picker,
+selecting the Day
+, after selecting the Year and Month,
+enters the chosen values into the Date field
+. You must select the Day even if it already has the correct value.
+Setting the Time
+To edit the
+Time
+, first click the clock
+icon. This opens the time section.
+Default times are listed in 15-minute increments. You can edit any given time manually.
+Depending on what event the time refers to, you may not be able to set a time in the past.
+Use the vertical scroll bar to locate the correct time.
+Select the
+Time
+wanted. This adds the selected time to the selected date.
+Open GI

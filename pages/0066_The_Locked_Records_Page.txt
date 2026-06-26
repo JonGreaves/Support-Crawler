@@ -1,0 +1,57 @@
+Subsystem: Mobius Claims
+TOC Title: The Locked Records Page
+Page Title: The Locked Records Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Records_Locked_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Locked Records Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+LOCKED RECORDS
+to open the
+Locked Records
+page.
+This page has the following columns.
+Username
+- short name of the user who has locked a given record
+Full Name
+- full user name
+Lock Type
+- the process under which the record has been locked
+Claim Number
+- the claim which has been locked in the process
+Locked Date
+- date and time the record was locked
+Agent Name
+- the Agent under which the record was locked (if applicable)
+Action
+- the action that can be performed on a given locked record
+Click the
+REMOVE LOCK
+button to unlock the record for use. Records should only be unlocked if they are not actively being used by an other user.
+Each of the columns can be used to sort the table contents. All columns in the table are unsorted by default, this is indicated by the Arrow-Up / Arrow-Down
+icon.
+Click anywhere on a given column name, such as
+Username
+, to sort the column, click again to sort the column in reverse order. You can only sort one column at a time.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Open GI

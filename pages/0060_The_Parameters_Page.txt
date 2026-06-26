@@ -1,0 +1,262 @@
+Subsystem: Mobius Claims
+TOC Title: The Parameters Page
+Page Title: The Parameters Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Parameter_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Parameters Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+. The Configuration page provides a central location to access software configuration settings.
+Click
+PARAMETERS
+to open the 'Parameters' page, subject to having access rights.
+Parameter names are listed by age (in a non-alphabetical order).
+Use
+CTRL
++
+F
+to search.
+Columns
+Name
+- Short descriptive name for the parameter
+Description
+- Explanatory details regarding the parameter function
+Value
+- Current value for this parameter
+Group
+- You can filter the table contents by group by selecting a given parameter group from the
+Group
+Filter drop-down list. For a list of the default parameter groups, see
+Parameter Groups
+.
+Type
+- You can filter the table contents by parameter type by selecting a given type from the
+Type
+Filter drop-down list. The types are:
+Boolean
+- true/false (yes/no)
+Integer
+- a numerical value
+String
+- one or more characters
+To remove a filter, select Filter from the drop-down list.
+Buttons
+EDIT
+- see
+Editing Parameters
+.
+RESTORE DEFAULT
+- see
+Restoring Default Parameters
+.
+Editing Parameters
+Some parameters are listed as 'Not Configurable'. This may be due to your access rights.
+To amend a parameter, first click the
+EDIT
+button. Then, amend any of the values in the different columns. See
+Columns
+. You may not have rights to edit all parameters listed.
+Click the
+SAVE
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes.
+Restoring Default Parameters
+Click the
+RESTORE DEFAULT
+button to  roll back to the default values. This is useful if you do not recall the default parameters or if you have made changes in error.
+Parameter Groups
+You can select the following parameter groups on the 'Parameters' page:
+Branding
+- see
+Branding inconsistent - should be Branding Group
+Create Claim
+- see
+Create Claim Group
+Filter
+- select this option from the drop-down list to deselect any group
+FNOL
+- see
+FNOL Group
+Miscellaneous
+- see
+Miscellaneous group
+New Claim Validation
+- see
+New Claim Validation Group
+Password
+- see
+Password
+The above groups are available by default. More or fewer groups may be available in your organization.
+Branding
+inconsistent - should be
+Branding
+Group
+Allow Override Banner Colour Scheme
+Allow users to override the default banner colour scheme at Agent level.
+Default: false
+Banner Title
+The text in the Top Navigation Bar (on the left) that takes you back to the dashboard.
+Default:
+Mobius Claims
+Create Claim Group
+DPA Answers
+The number of answers required for the Data Protection Act  (DPA) check.
+Default: 3
+DPA Questions
+The number of questions to be asked as part of the Data Protection Act (DPA) check.
+Default: 3
+DPA Opening Sentence
+The additional line of text displayed on the Data Protection Act  (DPA) box.
+If no text is entered, nothing will be shown.
+No default text applies.
+Number Of Existing Claims Per Page
+The number of existing claims per page on the Claim Select page.
+A setting of '-1' means that all claims will be shown.
+Default: 50
+Suppress outstanding policy balance check
+Option to suppress the check for outstanding balance on a policy.
+Default: false
+FNOL Group
+Display text
+of
+the end of FNOL button
+The FNOL pages normally have a
+Next
+and a
+Previous
+button at the bottom.
+On the last page (at the end of FNOL), instead of a
+Next
+button, there is a button which is labelled with the text defined here. This button takes you to the Claim Summary.
+This is not configurable.
+Default: FNOL Complete
+Miscellaneous
+g
+roup
+Additional user information on home page
+Option to show additional user information on home page.
+Default: false
+Attach Unsent Correspondence to Email
+Option to allow unsent correspondence to be attached to email.
+Default: true
+Correspondence Button Label
+The label of the correspondence button in the Incident Summary page.
+Default: Correspondence
+Enable GDPR Preview
+Option to enable or disable General Data Protection Regulation (GDPR) preview.
+Default: true
+Enable Liability Preview
+Option to enable or disable Liability preview.
+Default: true
+Enable Native Agent Authority
+Option to enable or disable Native Agent Authority.
+Default: false
+Enable Policy View Page
+Option to enable or disable the Policy View page during Create Claim.
+Default: false (disabled)
+Export claim on record unlock
+Option to export a claim to a third party policy system when a claim record is unlocked.
+Default: false
+Initial number of Recent Claims FNOL fields to show
+The number of Recent Claims FNOL fields to initially show.
+A setting of '-1' shows all fields, '0' shows none, any number over '0' shows the appropriate amount.
+Default: 6
+Screen
+Time Out
+The number of minutes until an inactive user is timed out.
+A setting of '-1' means that there is no timeout.
+Refresh  your page (
+F5
+) after changing this value.
+Default: -1
+Show Claim Handler
+Option to display the Claim Handler.
+Default: false
+Show time in notes
+Option to enable or disable the creation time being recorded in notes.
+Default: true
+User Notes Character Limit
+The maximum number of characters in a note.
+A setting of '-1' means that the that maximum number of characters is not restricted.
+Default: -1
+New Claim Validation Group
+Allow Override Maximum Number of Claims
+Option to allow users to override the maximum number of claims.
+Default: false
+Maximum Number of Claims
+The maximum number of claims on a policy.
+A setting of '-1' means that the maximum number of claims is not restricted.
+Default: -1
+Password
+Check Password Against Username
+Option to check if a user's new password is similar to their username.
+Default:	false
+Maximum Password Age (in days)
+The number of days the user can keep a password before being prompted to change it.
+Default: 90
+Minimum Password Age (in days)
+The number of days the user must keep a password before being allowed to change it.
+Default: 0
+Minimum Password Length
+The minimum number of characters that a new password have.
+Default: 6
+Password Can Contain Up To X Repeated Adjacent Characters
+The maximum number of repeated characters that a new password can have. (Fr!tttttttS)
+Default: 999
+Password Cannot Contain X or More Consecutive Numbers
+The number of consecutive ascending or descending numbers new passwords may have in a row. (7890, 8765432, ...)
+A setting of '-1' means that the number is not restricted.
+Default: -1
+Password Must Contain Lowercase
+Option to enforce that new passwords minimally contain one lower case letter (a-z).
+Default: false
+Password Must Contain Number
+Option to enforce that new passwords must minimally contain one number (0-9).
+Default: false
+Password Must Contain Special
+Option to enforce that new passwords must contain a special character (%, &, !, ?, Â£, ...)
+Default: false
+Password Must Contain Uppercase
+Option to enforce that new passwords minimally contain one upper case letter A-Z).
+Default: false
+Previous X Passwords
+The number of times a password must be changed before it can be re-used.
+Default: 1
+Note:
+It is
+good business practice
+to:
+change any password assigned to you to a password that only you know
+change any password at least every 90 days
+For security purposes passwords should minimally contain:
+six characters
+one upper case (capital) letter
+one lower case letter
+one digit (numeral)
+one special character (
+!
+,
+?
+,
+%
+, and so on)
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

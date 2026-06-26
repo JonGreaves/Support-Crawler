@@ -1,0 +1,169 @@
+Subsystem: Mobius Claims
+TOC Title: 2: Using Mobius Claims
+Page Title: 2: Using Mobius Claims
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Dashboard_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+2: Using Mobius Claims
+What's Covered in this topic?
+2: Using Mobius Claims
+The Dashboard Page
+The Personal Tab
+The Workgroups Tab
+Most Recent Claims pane
+The Dashboard Page
+Using your internet browser, log in to the Claims Cloud. For details, see
+Logging in to Mobius Claims
+. The
+Dashboard
+page is displayed.
+To return to the Dashboard page at any time after navigating away, click the banner title on the far left of the Top Navigation Bar. By default this banner is named 'THE CLAIMS CLOUD'. To edit the banner title, see
+2: Using Mobius Claims
+.
+For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+Note:
+To edit the default banner title:
+Select
+Configuration
+,
+Parameters
+.
+Optionally select
+Group
+from the Filter drop-down list.
+Locate the
+Banner Title
+setting.
+Click the
+Edit
+button on the right, and then enter the banner text in the text box.
+Click
+Save
+to change the banner text, or click
+Cancel
+to discard any changes.
+For more details, see
+The Parameters Page
+.
+The Dashboard page provides a snapshot of recent actions, events and notifications, a number of which can be accessed through direct links.
+The Dashboard page has the following panes:
+Outstanding Diaries
+- see
+Outstanding Diaries pane
+Most Recent Claims
+- see
+Most Recent Claims pane
+Outstanding Diaries pane
+This pane provides an instant overview of outstanding diaries on logging in.
+Click the
+ADD DIARY
+button to add a diary. See
+Add Diary Entry Page
+.
+Tabs
+This pane has two tabs, both of which enable you to access outstanding diary tasks:
+Personal
+-
+The Personal Tab
+Workgroups
+-
+The Workgroups Tab
+The number in the tab label indicate the number of outstanding tasks by urgency.
+Red
+Overdue
+Amber
+Due shortly
+Green
+Not yet due
+The Personal Tab
+All your outstanding diaries are listed by
+Due Date
+.
+Columns
+Colour
+- Red
+, Amber
+, or Green
+, according to urgency.
+'Follow'
+- see
+The Follow Function
+Click the 'unfollow'
+button to follow the selected diary.
+Click the 'follow'
+button to unfollow the selected diary.
+The Follow Function
+Claim Number
+- the unique claim number for this claim
+Diary Type
+- the type of action required
+Reminder Date
+- the date on which you are reminded of the action and due date
+Due Date
+- the date by which the action should be completed
+Click the
+VIEW
+button on the right to open the View Diary Entry page for the relevant claim. See
+View Diary Entry Page
+.
+The Workgroups Tab
+All outstanding workgroup diaries are listed by
+Due Date
+.
+Columns
+Colour
+- Red, Amber, or Green, according to urgency.
+'Follow'
+- See
+The Follow Function
+.
+Click the 'unfollow'
+button to follow the selected diary.
+Click the 'follow'
+button to unfollow the selected diary. See
+The Follow Function
+Workgroup
+- the workgroup responsible for this claim.
+Claim Number
+- the unique claim number for this claim.
+Diary Type
+- the type of action required.
+Reminder Date
+- the date on which you are reminded of the action and due date.
+Due Date
+- the date by which the action should be completed.
+Click the
+VIEW
+button on the right to open the
+View Diary Entry
+page for the relevant claim. See
+View Diary Entry Page
+.
+Most Recent Claims pane
+The pane lists the most recent claims and enables you to load these claims for processing.
+Note: Every claim has basic completion details listed. The details in this example are for the Private Car LOB.
+VRN
+- Vehicle Registration Number
+Driver
+- Driver name
+Passengers
+- Passenger names
+TP Drivers
+- Third-party drivers
+TP VRNs
+- Third-party Vehicle Registration Numbers
+Click the
+LOAD CLAIM
+button on the right to open the Summary page with full details for the relevant claim. See
+The Summary Page
+.
+Open GI

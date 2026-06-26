@@ -1,0 +1,86 @@
+Subsystem: Mobius Claims
+TOC Title: The Diary Types Page
+Page Title: The Diary Types Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Manage_Diary_Types_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Diary Types Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+DIARY TYPES
+to open the
+Manage Diary Types
+page.
+Columns
+The Manage Diary Types table has the following columns:
+Value
+- the actual Diary Type, for example: Renewal Reminder 1.
+Default Note
+- the initial text for notes in a diary that has this diary type.
+When a user selects this type from the
+Diary Type
+drop-down list in a diary, the notes text box is pre-populated with the contents of the
+Default Note
+field.
+Action
+- every Diary Type can be removed or amended
+To
+ADD DIARY TYPE
+a new Diary Type, see
+Adding a Diary Type
+To
+DELETE
+a Diary Type, see
+Removing a Diary Type
+To
+EDIT
+or view a Diary Type, see
+Editing a Diary Type
+Adding a Diary Type
+Click the
+ADD DIARY TYPE
+button to enter the details for a new Diary Type. This adds a blank line at the bottom of the table.
+Enter the appropriate Value and Default Note. You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Item saved'.
+Click
+CANCEL
+to discard the new Diary Type. The 'new' line may not be cleared but it will not appear again after rebuilding the page.
+Removing a Diary Type
+Note: No confirmation will be asked. The removal of a Diary Type cannot be undone.
+Click the
+DELETE
+button for the Diary Type you want to dispose of. The following message is briefly displayed on the bottom right of the page: 'Item removed'.
+Editing a Diary Type
+Click the
+EDIT
+button for the Diary Type you want to amend. This makes the selected line editable.
+Amend the Value and Default Note fields as required. You now have the following options:
+Click
+SAVE
+to secure your changes. The following message is briefly displayed on the bottom right of the page: 'Item saved'.
+Click
+CANCEL
+to discard any changes. The changes may not be cleared but the fields will display the previous values after rebuilding the page.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top menu.
+Open GI

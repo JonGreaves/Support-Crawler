@@ -1,0 +1,59 @@
+Subsystem: Mobius Claims
+TOC Title: 3: The Administration Page
+Page Title: 3: The Administration Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Administration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+3: The Administration Page
+The Administration Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the ADMINISTRATION item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+The Administration page has the following options:
+LOCKED RECORDS
+- see
+The Locked Records Page
+RESERVE SECTIONS
+- see
+The Reserve Sections Page
+WORKGROUPS
+- see
+The Workgroups Page
+DIARY TYPES
+- see
+The Diary Types Page
+PRINT HISTORIES
+- see
+The Print Histories Page
+SUPPLIER MAINTENANCE
+- see
+The Supplier Maintenance Page
+WORKFLOW
+- see
+The Workflow Page
+DECLARATIONS
+- see
+The Declarations Page
+IMPORT HISTORY EXCEPTIONS
+- see
+The Import History Exceptions Page
+EXPORT HISTORY EXCEPTIONS
+- see
+The Export History Exceptions Page
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Open GI

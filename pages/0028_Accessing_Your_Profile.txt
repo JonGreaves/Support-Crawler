@@ -1,0 +1,51 @@
+Subsystem: Mobius Claims
+TOC Title: Accessing Your Profile
+Page Title: Accessing Your Profile
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Accessing_Your_Profile.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Accessing Your Profile
+Log in to
+Mobius Claims
+. For guidance, see
+Logging in to Mobius Claims
+.
+Click the
+Hi <Your_First_Name>
+drop-down list  in the top right to select any of the enabled
+Profile
+options.
+The available options in the Profile drop-down list depend on whether you have User and/or Admin rights.
+User
+Admin
+Change Password, see
+Changing Your Password
+â
+â
+Dashboard, see
+2: Using Mobius Claims
+â
+â
+Admin Panel, see
+Admin Panel
+X
+â
+About, see
+About
+â
+â
+Logout, see
+Logging Out of Mobius Claims
+â
+â
+If you have been allocated an Administrator Role and the appropriate Permission Groups, you can access all listed options. For comprehensive details, see
+Admin Panel
+.
+Open GI

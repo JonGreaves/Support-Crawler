@@ -1,0 +1,30 @@
+Subsystem: Commercial Vehicle
+TOC Title: Vehicle Search Results
+Page Title: Vehicle Search Results screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Vehicle_Search_Results.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Vehicle Search Results screen
+This screen displays the search results returned after a search is performed on the make of vehicle in the Vehicle Details screen (by clicking the search icon
+next to the
+Make
+field).  See
+3: Vehicle Information Screen
+for more details on working in that screen.
+The results returned in this screen reflect the contents of the ABI vehicle file as filtered by the details you have already entered in the Vehicle Details screen. Vehicle details which are used as filters are the fields from the
+Make
+and
+Model
+up to
+Gearbox
+, as laid out in the Vehicle Details screen.  You can select the appropriate vehicle simply by highlighting it and clicking
+Select
+. This copies the details for the selected vehicle into the Vehicle Details screen and includes the ABI vehicle code. This code is used by the scheme to rate the vehicle for insurance.
+Open GI

@@ -1,0 +1,308 @@
+Subsystem: Mobius Claims
+TOC Title: The Summary Page
+Page Title: The Summary Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Summary_page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Summary Page
+After completing the Claims Details page  (see
+The Claims Details Page
+), you can access the Claim Summary page in the following ways:
+Click the
+LOAD CLAIM
+button on the Dashboard page.
+See
+2: Using Mobius Claims
+Click the
+LOAD CLAIM
+button on the Diary page.
+See
+The Diary Page
+Click the claim wanted from the
+Claim Search Results
+pane.
+See
+The Search Page
+If the
+Claims Details
+page has not been completed, the
+Claims Details
+page is loaded instead. See
+The Claims Details Page
+.
+The
+Summary
+page has the following panes:
+On the
+left
+:
+the
+Navigation
+pane, see
+The Navigation Pane (upper left)
+the
+Notes
+pane, see
+The Summary Page
+In the
+middle
+, all claims related details:
+Incident Actions
+- see
+The Incident Actions Pane (middle)
+Financial Summary
+- see
+Financial Summary Pane (middle)
+Excesses
+- see
+Excesses Pane (middle)
+Claim Ownership
+- see
+Claim Ownership Pane (middle)
+Outstanding Diaries
+- see
+Outstanding Diaries Pane (middle)
+Incident Summary
+- see
+Incident Summary Pane (middle)
+On the
+right
+:
+Claim Info
+- see
+The Claim Info Pane (upper right)
+.
+The Navigation Pane
+(upper left)
+The
+POLICY VIEW
+button enables you to access the policy related to the selected claim. For details, see
+The Policy View Page
+.
+To enable the
+Policy View
+button  see
+The Parameters Page
+.
+The Notes Pane
+(lower left)
+This pane lists the latest added notes.
+The
+ADD
+button enables you to add a note to the claim.
+Click
+ADD
+to open the Add Note popup window. You must select the
+Type
+of note from the 'Select type' drop-down list before submitting the new note. Enter the contents of the note in the text box below. Click
+OK
+to save any changes. Alternatively click the
+Close
+button in the top right of the window to discard the new note.
+The
+VIEW ALL
+button shows the number of notes for the selected Claim in brackets .
+Click
+VIEW ALL
+to open the
+View Notes
+popup window. Use the scroll bar on the right to view all notes if necessary. To close the popup window, click the
+Clos
+e
+button in the top right of the window.
+The Incident Actions Pane
+(middle)
+This section provides access to the following tabs:
+FINANCIALS
+- Provides access to detailed financial information. See
+The Financials Tab
+. For a high-level overview, see
+The Summary Page
+.
+FNOL
+- see
+The FNOL Tab
+CORRESPONDENCE
+- see
+The Correspondence Tab
+SUPPLIERS
+- see
+The Suppliers Tab
+GDPR
+- see
+The GDPR Tab
+CLOSE
+- see
+The Close / Reopen Tab
+For the 'follow'
+/
+function at the top right, see
+Following Claims
+.
+For functions under the 'more'
+icon, see
+The More Option
+.
+Financial Summary Pane
+(middle)
+The following columns are displayed:
+Claim Head
+- Default setting is 'Overall'
+Click the expand button
+on the right to display detail headings such as 'Accidental Damage'. The rows listed represent the selected sections when adding a reserve. See also
+The Financials Tab
+. Click the expand
+button on the right of a heading to view the affected parties. Click the collapse
+button to close the various detail lines.
+Outstanding
+- amount that remains to be paid out
+Paid
+- amount paid out to date
+Authorised
+- amount authorised to date
+Gross Incurred
+- amount of claims incurred before deducting recoveries
+Recovery Reserve
+- amount held in reserve for recovery
+Recovered Amount
+- amount recovered
+Net Incurred
+- amount of claims incurred after deducting recoveries
+Arrow-Down
+button - Click this button on the right to expand summary data.
+Arrow-Up
+button - Click this  button on the right to collapse summary data.
+A tick mark
+on the left of the Claim Head column indicates that the item has been settled.
+Excesses Pane
+(middle)
+The following columns are displayed:
+Excess Head
+- Default setting is 'Overall'
+Click the expand button
+on the right to display detail headings such as 'Accidental Damage'. Click the expand
+button on the right of a heading to view the
+voluntary
+and
+compulsory
+excess amount per policy. Click the collapse
+button to close the various detail lines.
+Amount
+- the excess amount stated in the relevant policy
+Deducted
+- the excess amount deducted on the basis of this claim
+Claim Ownership Pane
+(middle)
+The Claim Handler pane displays the Insurer / Reinsurer name and has a drop-down list, enabling you to see the current claim handler.
+To select a different
+Claim Handler
+, open the drop-down list, select the appropriate handler, and then click the
+TRANSFER
+button. The following message is briefly displayed in the lower right of the page:
+To assign the claim to yourself, click the
+ASSIGN TO ME
+button.
+The following message is briefly displayed in the lower right of the page
+The
+TRANSFER OWNERSHIP
+and
+TAKE OWNERSHIP
+buttons change the Agent ownership for the selected claim.
+To transfer ownership
+to
+another agent, click TRANSFER OWNERSHIP, select the 'new' agent from the
+Select agent
+drop-down list, and then click TRANSFER
+To transfer ownership
+from
+another agent, click TAKE OWNERSHIP, select the 'new' agent from the
+Select agent
+drop-down list, and then click TRANSFER
+Outstanding Diaries Pane
+(middle)
+To add a new entry, click the
+ADD DIARY
+button on the top left. This opens the Add Diary Entry page. See
+Add Diary Entry Page
+.
+Existing Diary entries are shown in the tabs below:
+The Outstanding Diaries pane has the following tabs. The number in the tab label represents the number of outstanding tasks under that tab.
+Outstanding
+Completed
+The columns are the same for both tabs:
+Claim Number
+Diary Type
+Reminder Date
+(includes date and time)
+Due Date
+(includes date and time)
+Click the
+VIEW
+button for a given claim to inspect diary entry details. See
+View Diary Entry Page
+.
+You now have the following options:
+Click
+DIARY ON
+to select a time-period by which to move the Diary entry and save it.
+Click
+SAVE
+to secure any changes.
+Click
+ACTION
+to complete the Diary task.
+Click
+CANCEL
+to discard any changes.
+You are returned to the previous page after any of the above actions
+Incident Summary Pane
+(middle)
+The Incident Summary pane in this topic uses the DEFAULT INCIDENT SUMMARY TEMPLATE. The fields in the example below are an example of what you could select.
+You can configure which fields are displayed for different clients in the schema CSV files.
+The information in the
+Incident Summary
+section is read-only.
+The Claim Info Pane
+(upper right)
+This pane lists the following:
+Claim Number
+- Unique claim reference
+Claim Status
+- 'Open' for example
+Claim Substatus
+- Select the Substatus for the selected claim from the drop-down list
+Assigned to
+- Member of staff responsible
+Policy Reference
+- Policy number
+Name of Policyholder
+Date of loss
+- Date of the incident
+Product Name
+- Applicable insurance product
+Type of Claim
+- 'Theft' for example
+VRN
+- Vehicle Registration Number
+Driver
+- Driver name
+TP Drivers
+- Third-Party driver names
+Buttons
+Ã§
+TO SUMMARY
+- Click the
+button to return to the initial Summary view of the middle pane from any location or level in that pane
+VIEW EXCLUSIONS
+- Click the
+button to open the Exclusions popup window and display any applicable exclusions. Click
+OK
+when finished viewing the exclusions.
+Open GI

@@ -1,0 +1,183 @@
+Subsystem: Mobius Claims
+TOC Title: The Declarations Page
+Page Title: The Declarations Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Declarations_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Declarations Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+DECLARATIONS
+to open the 'Declarations' page.
+The Declarations page enables you to maintain:
+Headers
+These are the group names for each group of statements.
+Statements
+These are the items the claim handler checks in exclusions.
+Buttons
+ADD HEADER
+- see
+Adding a Header
+ADD STATEMENT
+- see
+Adding a Statement
+If a header and a statement have already been added, you can also:
+EDIT a header
+- see
+Editing a Header
+EDIT a statement
+- see
+Editing a Statement
+REMOVE a header
+- see
+Removing a Header
+REMOVE a statement
+- see
+Removing a Statement
+Note: Before proceeding with a claim the claim handler should check  Added Declarations  (elsewhere known as
+Exclusions
+):
+when creating a new claim
+Declarations are displayed in a pop up window after clicking
+Create Claim.
+by using the
+View Exclusions
+button inside a claim
+This button is located above 'To Summary' on the side bar on the right
+Adding a Header
+On the Declarations page, click the
+ADD HEADER
+button to open the Add Header page.
+Select the
+Parent Header
+from the drop-down list. If you are creating the first header, you cannot select a parent header and may leave this field blank.
+Enter the
+Header Text
+for the header you are adding. You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Header added'.
+Click
+CANCEL
+to discard the new Header.  You are returned to the Declarations page.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Adding a Statement
+Statements are the items the claim handler checks in exclusions. Headers are the group names for each group of statements.
+On the Declarations page, click the
+ADD STATEMENT
+button to open the Add Statement page.
+Select the appropriate
+Header
+from the drop-down list.
+Enter the
+Statement Text
+for the selected header. You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Item saved'.
+Click
+CANCEL
+to discard the new Statement.  You are returned to the
+Declarations
+page.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Editing a Header
+Locate the appropriate Declaration  in the list, and then click
+EDIT
+button on the right to open the
+Edit Header
+page.
+Selecting a different Parent header for the Header Text will
+delete
+:
+the selected header
+any headers contained under this header
+any statements contained under this header
+Edit the text in the Header Text field. You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Header saved'.
+Click
+CANCEL
+to discard any changes. You are returned to the
+Declarations
+page
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Editing a Statement
+Locate the appropriate Declaration  in the list, and then click the name
+link
+on the left to expand a list of all its statements. Click the  name
+link
+on the left again to collapse the list.
+Note: Tick the
+Select All
+check box on the 'Declarations' page to select all statements under a declaration. To deselect individual statements, tick the relevant
+Opt Out
+check box(es) in the expanded statements list.
+Locate the appropriate statement in the list, and then click
+EDIT
+button on the right to open the Edit Statement page.
+If required, select the header from the
+Header
+drop-down list to move the
+Statement Text
+to a different Header.
+Edit the text in the Statement Text field. You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Statement saved'.
+Click
+CANCEL
+to any changes. You are returned to the Declarations page.
+Removing a Header
+Locate the appropriate Declaration  in the list, and then click the corresponding
+X REMOVE
+button on the right. This opens the
+Remove Header
+pop up window.
+You now have the following options:
+Click
+YES
+to remove the header, its sub-headers and their statements. The following message is briefly displayed on the bottom right of the page: 'Header removed'.
+Click
+CANCEL
+to keep the Header. You are returned to the
+Declarations
+page.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Removing a Statement
+Locate the appropriate declaration  in the list, and then click the name
+link
+on the left to open a pane listing all its statements.
+Locate the appropriate statement in the list, and then click
+X REMOVE
+button on the right. Removal is instant and cannot be reversed.  You are returned to the previous page.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Open GI

@@ -1,0 +1,189 @@
+Subsystem: Mobius Claims
+TOC Title: The Authority Payment Groups Page
+Page Title: The Authority Payment Groups Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Authority_Payment_Groups_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Authority Payment Groups Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to access software configuration settings.
+Click
+AUTHORITY PAYMENT GROUPS
+to open the
+Authority Payment Groups
+page.
+The Authority Reserve Groups page enables you to create maintain various different reserve groups. Grouping users in this way is the quickest and most transparent way to administer user rights.
+To
+ADD
+an Authority Payment Group, see
+Adding Authority Payment Groups
+To
+EDIT
+an Authority Payment Group, see
+Editing Authority Payment Groups
+To
+REMOVE
+an Authority Payment Group, see
+Removing Authority Payment Groups
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Adding Authority Payment Groups
+Click the
+ADD NEW GROUP
+button to open the
+Add Group
+page.
+Tabs
+This page has the following tabs:
+Group Name and Limit
+, see
+The Authority Payment Groups Page
+Users in Group
+, see
+The Authority Payment Groups Page
+The Group Name and Limit Tab
+Fields
+Group Name
+- enter a meaningful name
+Payment Limit
+- Use the Up-Arrow
+and Down-Arrow
+buttons to increase or decrease the value in steps of 5,000. Alternatively, enter the exact value wanted
+Pre-Authorisation Limit
+- Use the Up-Arrow
+and Down-Arrow
+buttons to increase or decrease the value in steps of 5,000. Alternatively, enter the exact value wanted
+Authorisation Limit
+- Use the Up-Arrow
+and Down-Arrow
+buttons to increase or decrease the value in steps of 5,000. Alternatively, enter the exact value wanted
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes.
+Clicking either of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Note: To return from one of the option pages to the Administration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Users in Group
+The
+User Name
+column lists the user names of all users alphabetically. Click the relevant check boxes on the left to add users to the new group.
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes.
+Clicking either of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Note: To return from one of the option pages to the Administration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Editing Authority Payment Groups
+On the Authority Reserve Groups page, locate the reserve group you want to edit, and then select the relevant
+EDIT
+button on the right. This opens the 'Edit <GROUP_NAME> Group', where <GROUP_NAME> is the group selected.
+Tabs
+This page has the following tabs:
+Group Name and Limit
+, see
+The Group Name and Limit Tab
+Users in Group
+, see
+The Users in Group Tab
+The Group Name and Limit Tab
+Fields
+Group Name
+- enter a meaningful name
+Payment Limit
+- Use the Up-Arrow
+and Down-Arrow
+buttons to increase or decrease the value in steps of 5,000. Alternatively, enter the exact value wanted
+Pre-Authorisation Limit
+- Use the Up-Arrow
+and Down-Arrow
+buttons to increase or decrease the value in steps of 5,000. Alternatively, enter the exact value wanted
+Authorisation Limit
+- Use the Up-Arrow
+and Down-Arrow
+buttons to increase or decrease the value in steps of 5,000. Alternatively, enter the exact value wanted
+Buttons
+Click
+SAVE CHANGES
+to secure all changes. Alternatively, click
+CANCEL
+to discard any changes, or click
+REMOVE GROUP
+to delete the selected group.
+Clicking any of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Note: To return from one of the option pages to the Administration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+The Users in Group Tab
+The
+User Name
+column lists the user names of all users alphabetically. Click the relevant check boxes on the left to add users to the new group.
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes.
+Clicking either of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Note: To return from one of the option pages to the Administration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Removing Authority Payment Groups
+On the Authority Reserve Groups page, locate the reserve group you want to delete, and then select the relevant
+EDIT
+button on the right. This opens the 'Edit <GROUP_NAME> Group', where <GROUP_NAME> is the group selected.
+Click the
+REMOVE GROUP
+button to delete the selected group. The following message is displayed:
+'The authority payment group will be removed. Are you sure?'.
+Click
+YES
+to delete the selected group. This returns you to the 'Edit Group' page. Alternatively, click
+NO
+to keep the group. This returns you to the
+Authority Payment Groups
+page.
+Note: To return from one of the option pages to the Administration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

@@ -1,0 +1,66 @@
+Subsystem: Mobius Claims
+TOC Title: Creating a Claim
+Page Title: Creating a Claim
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Creating_a_Claim.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Creating a Claim
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+SEARCH
+item. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Policy Search enables you to enter search terms by which you expect to find the policy. It also searches for Claims created in
+Mobius Claims
+.
+You  can for example search on
+Claim Number
+,
+Third Party Driver Surname
+, or on
+Drivers Surname
+. You can also search on all of these by entering all information you want to find.
+The Claims Cloud searches as you type; you do not have to press Enter or click
+SEARCH
+. Partial matches are not returned; entering 'smythe' does
+not
+return matches for 'Smyth' or 'Smythers'. Searches are
+not
+case sensitive
+If your search for policies with claims is successful, then one or more of these may be listed.
+If the search criteria do not return any matches, the following messages are displayed:
+"No policy results match your search term <SEARCH_TERM>"
+"No claim results match your search term <SEARCH_TERM>"
+The Action Pane
+You may find policies without claims, in which case the Action pane is opened.
+Select the
+Date
+and
+Time
+of the accident by using the date picker on the left and the time picker on the right. The time can be selected in 15-minute increments or entered manually.
+Click the
+CREATE CLAIM
+button to open the first of the claims panes, the majority of which is Line of Business dependent. See
+The Claims Details Page
+.
+The Navigation Pane
+This pane enables you to access:
+POLICY VIEW
+- click to access Policy information, see
+The Policy View Page
+< EXISTING CLAIMS
+- click to access any other existing claims, see
+Policy Search Results
+Open GI

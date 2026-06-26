@@ -1,0 +1,124 @@
+Subsystem: Mobius Claims
+TOC Title: Logging in to Mobius Claims
+Page Title: Logging in to Mobius Claims
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Logging_in_to_TCC.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Logging in to
+Mobius Claims
+Open you internet browser and navigate to https://<your_site>.theinsurercloud.com, where <your_site> will have been defined when
+Mobius Claims
+was configured. This opens the 'Welcome' page.
+With the exception of the  banner and
+About
+(see
+About
+),  clicking any of the menu options when you are
+not
+logged in, opens the Login pane on the 'Mobius Login Server' page.
+Log in Options
+On the left you have to option to log in
+locally
+, see
+Local login
+On the right you have the option to log in through
+Active Directory
+(AD), see
+Active Directory login
+.
+Note:
+To edit the default banner title:
+Select
+Configuration
+,
+Parameters
+.
+Optionally select
+Group
+from the Filter drop-down list.
+Locate the
+Banner Title
+setting.
+Click the
+Edit
+button on the right, and then enter the banner text in the text box.
+Click
+Save
+to change the banner text, or click
+Cancel
+to discard any changes.
+For more details, see
+The Parameters Page
+.
+Local login
+In the Local Login pane, complete the following fields.
+Username
+- Enter your Claims Cloud user name.
+Password
+- Enter your Claims Cloud password
+Optionally,  tick the
+Remember My Login
+check box.
+Click
+Login
+when done. This opens the Dashboard. See
+2: Using Mobius Claims
+.
+Alternatively, click
+Cancel
+to abandon logging in.
+Active Directory login
+In the Active Directory pane, select the appropriate Active Directory (AD) account.
+Mobius
+, see
+Mobius AD Sign In
+Corporate
+, see
+Corporate
+Optionally,  tick the
+Keep me signed in
+check box. Only tick the
+Keep me signed in
+check box if you are working on your own device; doing so on a 'public' device will allow others to log in using your account.
+Click
+Log in
+when done. This opens the Dashboard. See
+2: Using Mobius Claims
+. Alternatively, click
+Cancel
+to abandon logging in.
+Mobius AD Sign In
+Enter your Organizational Account login name.
+Enter your Organizational Account password.
+Click
+Sign in
+when done. This opens the Claims Cloud Dashboard page. See
+2: Using Mobius Claims
+. Alternatively, click
+Cancel
+to abandon logging in.
+Corporate
+Select one of the following login methods:
+Your Microsoft Login Account
+, see
+Your Microsoft Login Account
+Use Another Account
+, see
+Use another account
+Your Microsoft Login Account
+Use another account
+Click
+Log in
+when done. This opens the Dashboard. See
+2: Using Mobius Claims
+. Alternatively, click
+Cancel
+to abandon logging in.
+Open GI

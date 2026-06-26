@@ -1,0 +1,41 @@
+Subsystem: Commercial Vehicle
+TOC Title: Qualifications
+Page Title: Qualifications screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Qualifications.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Qualifications screen
+The Qualifications summary screen follows the Health Conditions summary screen in the initial data capture for a new prospect and enables you to add details of any motoring qualifications that the driver may have gained. see
+Health Conditions screen
+for more information on working in that screen.
+Use the
+button to add qualifications.
+Use the
+and
+buttons to maintain existing qualifications. This takes you to the
+Motoring Qualification Details screen
+.
+Existing records of motoring qualifications are edited in the Motoring Qualifications Details screen. See
+Motoring Qualification Details screen
+for guidance on working within this screen.
+After you save the policy or prospect record, you can open the Qualifications screen from the Summary Screen. See
+4: 4: Summary Screen
+for more information on working within this screen.
+Note:
+The screen which displays when you click the
+button will depend on the option you selected in the Driver Options screen (see
+2: Driver Options Screen
+).
+When an option with a definite number of drivers is selected, then you will be presented with a series of data capture screens for one driver, which will then be repeated for the next driver until the number of drivers specified in this screen have been described. When an open ended number of drivers is specified (such as 'Insured and Named Drivers') then an additional screen will display at the end of each series of driver data capture screens in which you may choose to define another driver, or skip to the next stage of data capture (vehicle details).
+Guidance on these screens is given in the following links:
+2: Driver Options Screen
+3: Vehicle Information Screen
+When an option with a definite number of drivers is selected, then you will be presented with a series of data capture screens for one driver, which will then be repeated for the next driver until the number of drivers specified in this screen have been described. When an open ended number of drivers is specified (such as 'Insured and Named Drivers') then an additional screen will display at the end of each series of driver data capture screens in which you may choose to define another driver, or skip to the next stage of data capture (vehicle details).
+Open GI

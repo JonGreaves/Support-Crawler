@@ -1,0 +1,25 @@
+Subsystem: Commercial Vehicle
+TOC Title: Vehicles
+Page Title: Vehicle Summary screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Vehicle_Summary_screen.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Vehicle Summary screen
+Because there may be more than one vehicle on a policy, you will first need to specify a vehicle when you edit details such as modifications. The Vehicle Summary screen is used to select which vehicle details are to be edited.
+The Vehicle Summary screen also allows additional vehicles to be added or the details of existing vehicles to be removed.
+Use the
+button to add vehicles. A new Vehicle Details screen will open allowing you to add details of an additional vehicle for the quote or policy.
+Use the
+and
+buttons to maintain existing vehicles.
+Existing vehicles are edited in the Vehicle Details screen. See
+3: Vehicle Information Screen
+for more information on working in this screen.
+Open GI

@@ -1,0 +1,154 @@
+Subsystem: Mobius Claims
+TOC Title: Admin Panel
+Page Title: Admin Panel
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Admin_Panel.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Admin Panel
+What's Covered in this topic?
+Admin Panel
+Introduction
+Hiding or Showing Disabled Accounts
+Maintaining User Accounts
+Creating New User Accounts
+Editing User Accounts
+Introduction
+Log in to
+Mobius Claims
+. For guidance, see
+Logging in to Mobius Claims
+.
+Click the
+Hi <Your_First_Name>
+drop-down list  in the top right to select
+Admin Panel
+from the Profile drop-down list. This opens the Registered Users page.
+Note:
+The available options in the Profile drop-down list depend on your access rights. Users with an Administrator role or higher can amend create and maintain user details.
+The Registered User Page
+Users grouped by Agent. Any users not belonging to a specific Agent are at the beginning of the list under
+No Agent Affiliation
+.
+Disabled user accounts are displayed with the suffix '(Disabled)' after the user name and with a faded icon.
+Hiding or Showing Disabled Accounts
+Click
+SHOW DISABLED
+to display both enabled and disabled user accounts.
+Click
+HIDE DISABLED
+to suppress disabled user accounts.
+Maintaining User Accounts
+To
+create
+a new user account,  - see
+Creating New User Accounts
+To
+edit
+a user account, see
+Editing User Accounts
+To
+disable
+a user account, see
+Editing User Accounts
+Creating New User Accounts
+To create a new user account, click the
+CREATE NEW USER
+button on the Registered Users page. This opens the Create page.
+Fields
+User name
+- enter the Login name for the new user
+Full name
+- enter the first name(s) and last name for the user
+Email address
+- enter the corporate email address for the user
+New password
+- enter the password for the new user
+Confirm new password
+- re-enter the password for the new user
+If the passwords entered are not identical the error 'Values must be equal' is displayed.
+Confirm Role(s)
+- Tick the relevant checkbox
+Administrator
+- This role allows selected user to administer the rights of others
+User
+- This role allows the selected user to carry out their claims duties
+Confirm Permission Group(s)
+- Tick the relevant checkbox.
+The following are default groups. More groups may be available in your organization.
+To add or edit a group, see
+The Permission Groups Page
+.
+Super Administrator - All Admin Tasks
+Being a member of this Permission Group allows selected users to carry out any administration and claims related activity.
+This field is only displayed if the
+Administrator
+role has been selected.
+Default User - All User Tasks
+Being a member of this Permission Group allows selected users to carry out any claims related tasks with the exception of administration tasks.
+This field is only displayed if the
+User
+role has been selected.
+FNOL
+Clerk
+Being a member of this Permission Group allows selected users to carry out any task related to FNOL only.
+This field is only displayed if the
+User
+role has been selected.
+Authority Reserve Group(s)
+- Tick the relevant checkboxes
+The following are default groups. More groups may be available in your organization. To add or edit a group, see
+The Authority Reserve Groups Page
+.
+Basic
+Claims Handler
+Manager
+Authority Payment Group(s)
+- Tick the relevant checkboxes
+The following are default groups. More groups may be available in your organization.
+To add or edit a group, see
+The Authority Payment Groups Page
+Claim Handler
+Manager
+Note:
+Roles
+define the user as an 'Administrator' or an 'ordinary' User.
+Permission Groups
+define which rights apply for the selected Administrator and/or User.
+Click the
+CREATE
+button to add the new user to list on the Registered Users page.
+To discard all details entered for the new user account, click any option in the Top Navigation Bar to move away from the Create page without saving any changes.
+Editing User Accounts
+To edit a user account, click a given user icon on the right the
+Registered Users
+page. This opens the 'Amend <User_Account_Name>' page, where '<User_Account_Name>' refers to the selected user account.
+If the new password does not meet the requirements set under Parameters (see
+The Parameters Page
+), the error 'The new password does not meet the password requirements' is displayed.
+Click the
+UPDATE
+button to apply any changes to an existing user
+Click the
+DISABLE
+button to suspend access for the selected user, this opens an 'Are you sure?' pop up window.
+Click
+YES
+to disable the selected user. Alternatively, click
+NO
+to leave the user account enabled.
+To discard any changes made to the user account, click any option in the Top Navigation Bar to move away from the Create page without saving any changes.
+Note: If you click the
+SHOW DISABLED
+button on the Registered Users page (see
+The Registered User Page
+), then any disabled users and you would be able to click them and re-enable them. If the Registered Users page displays the
+HIDE DISABLED
+button , then any disabled user accounts are already displayed.
+Open GI

@@ -1,0 +1,45 @@
+Subsystem: Mobius Claims
+TOC Title: About
+Page Title: About
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_About.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+About
+To obtain version information for
+Mobius Claims
+, you have the following options:
+If you have
+not
+logged in yet:
+Select
+About
+in the top right of the navigation bar. This opens the 'Change Log' page.
+If you have already logged in:
+Click the
+Hi <Your_First_Name>
+drop-down list  in the top right of the page.
+Select
+About
+. This opens the
+'Change Log' page.
+The Change Log Page
+This page contains an entry for every version update (sprint).
+Every entry has a
+sprint number
+,
+sprint period
+, and a (program)
+version number
+.
+Click the entry bar to open the
+Tasks
+pane for the selected sprint. This pane lists features added or fixed in the selected version.
+Click entry bar again to close the Tasks pane.
+Open GI

@@ -1,0 +1,175 @@
+Subsystem: Mobius Claims
+TOC Title: The Permission Groups Page
+Page Title: The Permission Groups Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Permission_Group_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Permission Groups Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to access software configuration settings.
+Click
+PERMISSION GROUPS
+to open the
+Permission Groups
+page.
+This page enables you to link tasks with users.
+To
+add
+a new Permission Group, see
+Adding Permission Groups
+To
+edit
+an existing group, see
+Editing Permission Groups
+The contents of this page depends on your
+Editing Permission Groups
+Adding Permission Groups
+Click the
+ADD NEW GROUP
+button to open the
+Create 'New Group' Permissions
+page.
+This page has the following tabs:
+Settings
+- see
+The Settings Tab
+Tasks
+- see
+The Tasks Tab
+Users
+- see
+The Users Tab
+The Settings Tab
+Click the
+Settings
+tab to enter basic details.
+Fields
+Role Level for group
+- select the role level ('Administrator', 'Agent Administrator', or 'User') from the drop-down list, the Role level determines which kind of tasks will be available in the Task tab.
+Permission group name
+- enter the new group name
+Note: If you want to also complete any other tabs, it is quicker to do this first and save your changes after; saving your changes now will return you to the previous page.
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes. Clicking either of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+The Tasks Tab
+Select all tasks for which users in this group are to be granted access.
+Note: If you want to also complete any other tabs, it is quicker to do this first and save your changes after; saving your changes now will return you to the previous page.
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCE
+L
+to discard any changes.
+Clicking either of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+The Users Tab
+Note: If you want to also complete any other tabs, it is quicker to do this first and save your changes after; saving your changes now will return you to the previous page.
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes.
+Clicking either of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Editing Permission Groups
+To
+edit
+an existing group, locate and click the relevant group in the Permission Group column.
+This page has the following tabs:
+Settings
+- see
+Editing the Settings Tab
+Tasks
+- see
+Editing the Tasks Tab
+Users
+- see
+Editing the Users Tab
+Editing the Settings Tab
+Click the
+Settings
+tab to enter basic details.
+Fields
+Role Level for group
+- select the role level ('Administrator', 'Agent Administrator', or 'User') from the drop-down list
+Permission group name
+- enter the new group name
+Note: If you want to also complete any other tabs, it is quicker to do this first and save your changes after; saving your changes now will return you to the previous page.
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes.
+Clicking either of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Editing the Tasks Tab
+Select all tasks for which users in this group are to be granted access.
+Note: If you want to also complete any other tabs, it is quicker to do this first and save your changes after; saving your changes now will return you to the previous page.
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes, or
+REMOVE PERMISSION GROUP
+to delete this group altogether.
+Clicking any of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Editing the Users Tab
+Select which users in this group are to be granted access to the selected tasks.
+Note: If you want to also complete any other tabs, it is quicker to do this first and save your changes after; saving your changes now will return you to the previous page.
+Buttons
+Click the
+SAVE CHANGES
+button to secure all changes. Alternatively, click
+CANCEL
+to discard any changes, or
+REMOVE PERMISSION GROUP
+to delete this group altogether.
+Clicking any of these buttons produces a pop up window with a choice of
+YES
+to confirm your selection or
+NO
+to cancel.
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

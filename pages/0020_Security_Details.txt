@@ -1,0 +1,36 @@
+Subsystem: Commercial Vehicle
+TOC Title: Security Details
+Page Title: Security Details screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Security_Details.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Security Details screen
+This screen is displayed when you click
+or
+in the
+Security
+pane of the Vehicle Details screen. See
+3: Vehicle Information Screen
+for guidance on working in that screen.
+You can enter details relating to security devices fitted to the vehicle. After you have saved the record, further devices can be added using this screen.
+Description
+Select the description for the security device from the drop-down list.
+Values: ABI code list 76
+Fitted By
+Select the party that has fitted the security device from the drop-down list.
+Values: ABI code list 77
+Date Fitted
+Type the date on which the security device was fitted.
+Format: DD/MM/YYYY
+Certificate Seen
+Tick the check box if the security device certificate was seen, untick if not.
+Serial No.
+Type the security device's serial number.
+Open GI

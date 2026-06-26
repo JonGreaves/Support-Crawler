@@ -1,0 +1,61 @@
+Subsystem: Mobius Claims
+TOC Title: Using Mobius Claims Login
+Page Title: Using Mobius Claims Login
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Using_TCC_login.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Using
+Mobius Claims
+Login
+Start your internet browser and navigate to the
+Mobius Claims
+page for your organisation to open the Welcome page. The page URL been is specific to your company and is likely to have been be made available to you by your manager or systems administrator. who defined when
+Mobius Claims
+was configured.
+Note: If your login page differs from the above, you are using or have been moved to an Active Directory (AD) login. See
+Using Active Directory Login
+.
+Click the
+Login
+button in the top right of the Welcome page to open the Login page.
+Note:
+With the exception of the 'THE CLAIMS CLOUD' banner and
+About
+, clicking any of the Top Navigation Bar options when you are
+not
+logged in, also take you to the login page.
+See also
+Logging in to Mobius Claims
+and
+About
+.
+Enter your
+Email
+address and
+Password
+.
+Optionally,  tick the
+Remember me?
+check box. Only do so if you are working on your own device; doing so on a 'public' device will allow others to log in using your account.
+Click
+SIGN IN
+when done. This opens the Dashboard on the Welcome page. See
+2: Using Mobius Claims
+. Alternatively, click
+RESET
+to remove any input from the Username and the Password field.
+Note:
+After logging in successfully, the
+Login
+button in the top right of the page is replaced by a Profile drop-down list
+with your login name. See
+Accessing Your Profile
+.
+Open GI

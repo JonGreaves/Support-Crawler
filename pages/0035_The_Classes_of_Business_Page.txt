@@ -1,0 +1,70 @@
+Subsystem: Mobius Claims
+TOC Title: The Classes of Business Page
+Page Title: The Classes of Business Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Available_Data_Captures_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Classes of Business Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to access software configuration settings.
+Click
+CLASSES OF BUSINESS
+to open the
+Classes of Business
+page.
+This page updates the data captures. These are the schema files which the client configures for the claim FNOLs. The updates are based on the contents of the LOB csv custom model files which are located in the client resources folder. If you edit the 'script.csv' file to change the location of a question, you must click
+UPDATE
+for the LOB here to apply the changes to any new claims in
+Mobius Claims
+.
+Columns
+Model Name
+- Read-only field. This is the name of the LOB folder in client resources custom models).
+Imported
+- Read-only field. Displays a cross
+for 'No' and a tick
+mark for 'Yes'.
+Version
+- Imported Model version
+Mapping
+- Enter a mapping number. If you have already imported a model, the mapping number cannot be changed here. This number remains as 'X' until you click
+IMPORT
+, and is incremented every time you click
+UPDATE
+.
+Claim Number Prefix
+- Enter a Claim Number prefix. The prefix should indicate the Product Type for the PAS (Policy Administration System) LOB. If you have already imported a model, the claim number prefix cannot be changed here.
+Buttons
+IMPORT
+Normally Development and R&C use this to import a model as part of an initial release.
+When you click
+IMPORT
+the button disappears and a spinner shows in its place. After a short while, the imported column is ticked and the version set to '1.0'. You must complete the
+Mapping
+and the
+Claim Number Prefix
+fields to be able to import.
+UPDATE
+Click this button to refresh the list of available of available data captures.
+If these schema files been have changed, the version column will change to reflect this.
+If they have not been changed, the message 'Model schema does not need updating' is displayed.
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Open GI

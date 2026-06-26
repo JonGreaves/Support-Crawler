@@ -1,0 +1,143 @@
+Subsystem: Mobius Claims
+TOC Title: The Supplier Maintenance Page
+Page Title: The Supplier Maintenance Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Supplier_Maintenance_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Supplier Maintenance Page
+What's Covered in this topic?
+The Supplier Maintenance Page
+Adding a Supplier
+Removing a Supplier
+Editing a supplier
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item on the left. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+SUPPLIER MAINTENANCE
+to open the
+Supplier Maintenance
+page.
+All suppliers used can be maintained from this page.
+The
+Supplier Type
+drop-down list enables you to filter the type of supplier you want to list in the table below. The
+SHOW ALL
+button returns you from the filtered list to the full list of suppliers. To maintain supplier types, select and edit the
+Supplier Types
+item from the drop-down list on the Configurable Lists page. See
+The Configurable Lists Page
+Columns
+The Supplier Maintenance table has the following columns:
+Name
+- the supplier's business name
+Address
+- the supplier's business address
+Postcode
+- the supplier's business postcode
+Email
+- the supplier's business email address
+Supplier Type
+- the kind of business the supplier is in
+To
+ADD
+a new Diary Type, see
+Adding a Supplier
+To
+REMOVE
+a Diary Type, see
+Removing a Supplier
+To
+EDIT
+or view a Diary Type, see
+Editing a supplier
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Adding a Supplier
+Click the
+ADD
+button to open the Add supplier page.
+Fields
+The Add supplier page has the following fields:
+Supplier Type
+- select the appropriate type from the drop-down list (mandatory)
+Section
+- tick one or more check boxes:
+Accidental Damage
+Personal Injury
+Third Party Damage
+Name
+- business name of the supplier (required)
+Address Line 1
+- business address of the supplier (required)
+Address Line 2
+- business address of the supplier
+Address Line 3
+- business address of the supplier
+Address Line 4
+- business address of the supplier
+Address Line 5
+- business address of the supplier
+Postcode
+- postcode for the business address (required)
+Email
+- supplier's email address
+Payment Details
+(bank details for the supplier)
+Account Holder Name
+- as stated on their bank account
+Account Number
+- move cursor to the left before entering, validation takes place on the number of digits entered.
+Sort Code
+- move cursor to the left before entering, validation takes place on the number of digits entered.
+Preferred Payment Method
+- select the preferred payment method from the drop-down list (Bacs Payment, Cheque, Direct from Insurer)
+VAT Registered?
+- tick the checkbox if the supplies is VAT Registered
+Nominal Code
+- enter the applicable financial account code
+You now have the following options:
+Click
+SAVE
+to secure your input. The following message is briefly displayed on the bottom right of the page: 'Item saved'.
+Click
+CANCEL
+to discard the new Supplier details.
+Removing a Supplier
+Click the
+REMOVE
+button for the Supplier you want to delete. The following message is briefly displayed on the bottom right of the page: 'Supplier removed'.
+No confirmation will be asked
+The removal of a Supplier cannot be undone
+You will no longer be able to edit Supplier details for claims that are still using the removed supplier
+Editing a supplier
+Click the
+EDIT
+button for the Supplier you want to amend.
+Amend the supplier details fields as required.
+Note:
+Any changes made will affect all claims to which the selected Supplier has been added.
+You now have the following options:
+Click
+SAVE
+to secure your changes. The following message is briefly displayed on the bottom right of the page: 'Data saved'.
+Click
+CANCEL
+to discard the amended Supplier details.
+Open GI

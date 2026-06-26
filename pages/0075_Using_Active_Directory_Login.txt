@@ -1,0 +1,60 @@
+Subsystem: Mobius Claims
+TOC Title: Using Active Directory Login
+Page Title: Using Active Directory Login
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Using_AD_login.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Using Active Directory Login
+What's Covered in this topic?
+Using Active Directory Login
+Active Directory login
+Mobius AD Sign In
+Corporate
+Start your internet browser and navigate to https://<your_site>.theinsurercloud.com, where <your_site> will have been defined when the Claims Cloud was configured.
+Active Directory login
+In the Active Directory pane, select the appropriate Active Directory (AD) account.
+Mobius
+, see
+Mobius AD Sign In
+Corporate
+, see
+Corporate
+Optionally,  tick the
+Keep me signed in
+check box.
+Only tick the
+Keep me signed in
+check box if you are working on your own device; doing so on a 'public' device will allow others to log in using your account.
+Click
+Log in
+when done. This opens the Dashboard. See
+2: Using Mobius Claims
+Mobius AD Sign In
+Enter your Organizational Account login name.
+Enter your Organizational Account password.
+Click
+Sign in
+when done. This opens the Claims Cloud Dashboard page. See
+2: Using Mobius Claims
+Corporate
+Select one of the following login methods:
+Your Microsoft Login Account
+, see
+Your Microsoft login account
+Use Another Account
+, see
+Use another account
+Your Microsoft login account
+Use another account
+Click
+Log in
+when done. This opens the Dashboard. See
+2: Using Mobius Claims
+Open GI

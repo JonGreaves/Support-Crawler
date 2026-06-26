@@ -1,0 +1,57 @@
+Subsystem: Mobius Claims
+TOC Title: Add Diary Entry Page
+Page Title: Add Diary Entry Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Add_Diary_Entry_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Add Diary Entry Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking THE CLAIMS CLOUD item. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+Outstanding Diaries Pane
+This pane is the first pane on the Dashboard page .
+Click the
+ADD DIARY
+button to open the
+Add Diary Entry
+page.
+The Add Diary Entry Page
+This page enables you to manually add a diary entry.
+Fields
+Complete the following fields:
+Workgroup / User
+- Select the radio button for
+Workgroup
+or for
+User
+.
+Diary Owner
+- Select the Workgroup or User wanted from the drop-down list.
+Diary Type
+- Select the appropriate Diary Type from the drop-down list.
+Reminder Date
+- Select the appropriate date and time from the date picker. See
+Using the Date Picker
+.
+Due Date
+- As above.
+Notes
+- Enter additional information about the task in this mandatory field.
+Click
+SAVE
+to add the manual entry to the Diary. Alternatively, click
+CANCEL
+to discard the new manual entry and return to the previous page.
+Open GI

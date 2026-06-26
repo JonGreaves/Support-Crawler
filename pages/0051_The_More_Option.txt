@@ -1,0 +1,347 @@
+Subsystem: Mobius Claims
+TOC Title: The More Option
+Page Title: The More Option
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Incident_Actions_-_The_More_option.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The More Option
+The 'More'
+drop-down list is part of the
+the
+Incident Actions
+pane
+on the
+Summary
+page. For details, see
+The Incident Actions Pane (middle)
+.
+The purpose of the
+drop-down list is to provide the following additional options:
+Reallocate Claim - see
+Reallocate Claim
+MIAFTR - see
+MIAFTR
+Reallocate Claim
+To reallocate a claim, select
+Reallocate claim
+from the 'More'
+drop-down list on the
+the I
+ncident Actions
+pane
+on the Summary page. This opens the
+Search for a policy
+window.
+Enter the exact policy number to which you want to reallocate the claim and then click
+SEARCH
+.
+Click the policy listed in the 'Search for a policy' window
+to proceed.
+Note: You can only reallocate claims that have not yet been allocated a reserve.
+MIAFTR
+When you select MIAFTR from the 'More'
+drop-down list on the
+the
+Incident Actions
+pane
+on the
+Summary
+page, the next pane opens. This may or may not contain a linked MIAFTR claim number.
+Incident Already Added
+If an incident has been linked with an MIAFTR number, the pane may look like the one below.
+No Incident Added
+If no incident has been linked with an MIAFTR number, then the following pane is displayed.
+To log a claim, click
+LOG A CLAIM
+. This opens the
+Claim Details
+pane.
+Panes
+Claims Details
+- see
+Claim Details Pane
+Vehicle Details
+-see
+Vehicle Details Pane
+Damage
+- see
+Damage Pane
+Claimant Details
+- see
+Claimant Details Pane
+To search a claim, see
+Searching Claims
+.
+Claim Details Pane
+Claim number
+-
+Amend as required.
+Claim version
+- This field is automatically updated
+Claim status
+- This field is automatically updated and defaults to 'INSERT'.
+Vehicle Details Pane
+VRM
+- Enter the Vehicle Registration Mark.
+Make
+- Enter the vehicle make.
+VIN
+- Enter the Vehicle Identification Number.
+Model
+- Enter the vehicle model.
+Mileage
+- Enter the vehicle mileage.
+Colour
+- Enter the vehicle colour.
+Registration indicator
+- Select one of the following from the drop-down list:
+N = UK, Z = Unregistered, F = Foreign, U = Unknown
+V5 validation character
+- Enter the validation character found on the vehicle log book /  UK registration certificate / V5C.
+Vehicle type
+- Select the type of vehicle from the drop-down list
+Loss date
+- Enter the date or use the date picker. See
+Using the Date Picker
+.
+Loss notification date
+- Enter the date or use the date picker. See
+Using the Date Picker
+.
+Loss type
+- Select the type of loss from the drop-down list.
+Cause of damage
+- Select the cause of the damage from the drop-down list.
+Salvage category
+- Select one of the following from the drop-down list:
+A = Scrap, B = break, S = Structural, Repairable, N = Non-Structural, Repairable
+Salvage retained
+- Select the party that retained the salvage drop-down list.
+Salvage notes
+- Enter any additional information that cannot be captured elsewhere.
+Previous VRM
+- Enter any previous Vehicle Registration Mark for this vehicle.
+VRM change date
+- Enter the date or use the date picker. See
+Using the Date Picker
+.
+Photograph available?
+- Select
+YES
+or
+NO
+from the drop-down list.
+AQP
+Id
+- Enter the Appropriately Qualified Person ID.
+Note:
+You must minimally complete the following fields:
+Vehicle Type
+Model description
+Registration indicator
+Policy Cover Type
+Loss type
+Damage Pane
+All
+- Select
+YES
+or
+NO
+from the drop-down list.
+Engine
+- Select
+YES
+or
+NO
+from the drop-down list.
+Interior
+- Select
+YES
+or
+NO
+from the drop-down list.
+Underside
+- Select
+YES
+or
+NO
+from the drop-down list.
+Front
+- Select
+YES
+or
+NO
+from the drop-down list.
+Rear
+- Select
+YES
+or
+NO
+from the drop-down list.
+Offside
+- Select
+YES
+or
+NO
+from the drop-down list.
+Nearside
+- Select
+YES
+or
+NO
+from the drop-down list.
+Front offside
+- Select
+YES
+or
+NO
+from the drop-down list.
+Rear offside
+- Select
+YES
+or
+NO
+from the drop-down list.
+Front nearside
+- Select
+YES
+or
+NO
+from the drop-down list.
+Rear nearside
+- Select
+YES
+or
+NO
+from the drop-down list.
+Roof
+- Select
+YES
+or
+NO
+from the drop-down list.
+Claimant Details Pane
+Claimant status
+- Select the claimant's status from the drop-down list.
+Policy type
+- Select the type of policy from the drop-down list.
+Registered keeper
+- Select the one of the following from the drop-down list:
+Y = Claimant Registered Keeper, N = Claimant Not Registered Keeper, U = Unknown)
+Claimant type
+- Select the type of claimant from the drop-down list.
+Forename
+- Enter the claimant's first name.
+Other initials
+- Enter the claimant's middle initials.
+Surname
+- Enter the claimant's last name.
+Company name
+- Enter the claimant company name.
+Date of birth
+- Enter the date or use the date picker. See
+Using the Date Picker
+.
+House name/no.
+- Enter the policyholder house name or house number.
+Address line 1
+- Enter the first line of the policyholder's address (street).
+Address line 2
+- Enter the second line of the policyholder's address.
+Address line 3
+- Enter the third line of the policyholder's address.
+Town
+- Enter the post town of the policyholder's address.
+County
+- Enter the county of the policyholder's address.
+Postcode
+- Enter the policyholder postcode
+without spaces
+.
+Buttons
+REMOVE VEHICLE & CLAIMANT
+- Removes the current vehicle and claimant.
+ADD ANOTHER VEHICLE AND CLAIMANT
+- Adds another vehicle and claimant.
+SAVE CLAIM
+- Saves all changes to the current claim.
+CLOSE
+- Discards any changes to the current claim.
+Searching Claims
+To search for claims, click
+SEARCH A CLAIM
+. This opens the
+Search Options
+pane.
+Fields
+You must minimally enter a value for one field.
+Search level
+- Select
+ALL
+,
+COMPANY
+or
+BRANCH
+from the drop-down list.
+Claim number
+- Enter the claim number
+Loss date from
+- Enter the date or use the date picker. See
+Using the Date Picker
+. Must be used in conjunction with the next field.
+Maximum date range:
+Loss date to
+- Enter the date or use the date picker. See
+Using the Date Picker
+. Must be used in conjunction with at least another field other than the previous.
+VRM
+- Enter the Vehicle Registration Mark.
+VIN
+- Enter the Vehicle Identification Number.
+Date of birth from
+- Enter the date or use the date picker. See
+Using the Date Picker
+. Must be used in conjunction with the next field.
+Maximum date range:
+Date of birth to
+- Enter the date or use the date picker. See
+Using the Date Picker
+. Must be used in conjunction with at least another field other than the previous.
+Postcode
+- Enter the postcode
+without spaces
+for the policyholder.
+House name/no.
+- Enter the house name or number for the policyholder.
+Surname
+- Enter the policyholder's last name.
+Company name
+- Enter the company name for the policy.
+Search previous VRM
+- Select
+YES
+or
+NO
+from the drop-down list for searching the Vehicle Registration Mark.
+AQP ID
+- Enter the Appropriately Qualified Person ID.
+Buttons
+CLOSE
+- Abandons the search
+SEARCH CLAIMS
+- Starts the search
+Search Results
+The result of a search could be similar to the following.
+You cannot edit the search results.
+Note: To return to the Summary page at any time, click the
+Ã§
+TO SUMMARY
+button below the Claims Number pane on the right.
+Open GI

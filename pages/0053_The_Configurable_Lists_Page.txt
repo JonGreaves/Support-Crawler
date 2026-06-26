@@ -1,0 +1,98 @@
+Subsystem: Mobius Claims
+TOC Title: The Configurable Lists Page
+Page Title: The Configurable Lists Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_List_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Configurable Lists Page
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, use the direct link in the Top Navigation Bar by clicking the
+CONFIGURATION
+item on the right. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Configuration page provides a central location to access software configuration settings.
+Click
+CONFIGURABLE LISTS
+to open the
+Configurable Lists
+page.
+Locate and select the list you want to manage from the
+Select list
+drop-down list.
+Cancel Payment Reasons
+Close Claim Reason
+Closed Status Substatuses
+Correspondence types (Correspondence)
+Correspondence types (Payment)
+Correspondence types (Workflow)
+Note Types
+Notes and Correspondence Statuses
+Open Status Substatuses
+Payment Methods (Admin)
+Payment Methods (Agent)
+Payment Reasons
+Recovery Reasons
+Reject Payment Reasons
+Remove Payment Reasons
+Reopened Reason
+Supplier Types
+In this topic the
+Recovery Reasons
+list is used as an example. All lists work in the same manner, although some lists may offer more options than others.
+The reasons are listed in alphabetical order. Keep this in mind when naming new reasons.
+to
+Add
+a reason - see
+Adding Reasons
+to
+Edit
+a reason - see
+Editing Reasons
+to
+Remove
+a reason - see
+Removing Reasons
+If you have selected a given reason list in error, simply locate and select the correct list from the
+Select list
+drop-down list above.
+Note: To return from one of the option pages to the Configuration page, select the
+CONFIGURATION
+option from the Top Navigation Bar.
+Adding Reasons
+To add a reason, enter the 'value' for the new reason text in the text box immediately below the title of the reason list; in this example this is 'Recovery Reasons'.
+Click the
+ADD
+button on the left to add the new reason to the list below.
+If successful, the message: 'Item has been added' message will briefly be displayed in the lower right of your page.
+If this item is added in duplicate, the message: 'Item with provided value already exists' message will briefly be displayed in the lower right of your page.
+Editing Reasons
+To
+edit
+a given reason, amend the text in the relevant
+Value
+column.
+Click the
+SAVE
+button on the right to secure any changes. Alternatively, click any other option in the Top Navigation Bar to discard any changes.
+Note: It is good practice to save valid text changes immediately to prevent losing these. You will
+not
+be notified if you leave this pages without saving any changes.
+Removing Reasons
+Click the
+REMOVE
+button on the right to delete a given reason.
+Deletions are immediate and cannot be undone
+Standard reasons such as "Other" are not editable and cannot be removed
+Open GI

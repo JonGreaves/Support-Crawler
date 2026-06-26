@@ -1,0 +1,395 @@
+Subsystem: Mobius Claims
+TOC Title: The Reserve Sections Page
+Page Title: The Reserve Sections Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Section_Configuration_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+The Reserve Sections Page
+What's Covered in this topic?
+The Reserve Sections Page
+Adding a Reserve Section
+The Section Details tab
+The Initial Reserve tab
+The Limits of Liability tab
+Editing, Removing or Viewing Conditions for Exclusion Periods- Authority Level tab
+Excess Tab
+Using your internet browser, log in to
+Mobius Claims
+. For details, see
+Logging in to Mobius Claims
+. The Dashboard page is displayed.
+If you have already logged in, but are no longer on the Administration page, use the direct link in the Top Navigation Bar by clicking the
+ADMINISTRATION
+item. For details on the Top Navigation Bar, see
+The Top Navigation Bar
+.
+The Administration page provides a central location to access software related settings.
+Click
+RESERVE SECTIONS
+to open the
+Section Configuration
+page. This page lists any currently defined reserve sections and their associated models.
+To
+ADD
+a new Reserve Section, click the
+ADD NEW SECTION
+button.
+See
+Adding a Reserve Section
+To
+EDIT
+a Reserve Section, locate the Reserve Section wanted, and then click
+EDIT
+.
+Adding a Reserve Section
+To
+VIEW
+a Reserve Section, locate the Reserve Section wanted, and then click
+EDIT
+.
+Adding a Reserve Section
+To
+REMOVE
+a Reserve Section, locate the section wanted, and then click
+REMOVE
+.
+Note that you will
+not
+be asked to confirm removal. However, you cannot remove any Reserve Section if reserves have been created for this section.
+Adding a Reserve Section
+Click the
+ADD NEW SECTION
+button on the
+Section Configuration
+page. This opens the
+Edit Section
+page.
+Tabs
+The
+Section Configuration
+page has the following tabs:
+Section Details
+- see
+The Section Details tab
+Initial Reserve
+- see
+The Initial Reserve tab
+Limits of Liability
+- see
+The Limits of Liability tab
+Authority Level
+- see
+Editing, Removing or Viewing Conditions for Exclusion Periods- Authority Level tab
+Excess
+- see
+Excess Tab
+The Section Details tab
+This tab is displayed by default. Note that the 'Edit Section' is both displayed when
+adding
+a new section and when
+amending
+an existing section.
+Fields
+Complete the following fields:
+Section Name
+- Enter a meaningful section name, such as 'Accidental Damage'.
+Associated Models
+- Select one associated model (in this example 'Motor_PC'). This expands the
+Available Parties
+selection. This is LOB dependent.
+Available Parties
+- Tick the checkboxes for the Associated Models selected above.
+This is dependent on the LOB used.
+Example for a Private Car LOB:
+Driver
+Passenger
+Third Party Owner
+Third Party Driver
+Third Party Passenger
+Property Owner
+Injured Party
+Available for ad hoc payments
+- tick the checkbox if you want to be able to select ad hoc payees in a payment if the selected reserve has been linked to it.
+If you do not tick this checkbox, then you can only select non ad hoc payees from the top of a payment where the rows are. Selecting one expands a new column.
+Limitation Period
+- enter the time span after which claims can no longer be made.
+Alternatively, click the Arrow-Up
+p
+and Arrow-Down
+q
+icons to set the years and months. If left blank, the reserve section is ignored when calculating the limitation period of the claim.
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes.
+The Initial Reserve tab
+Click the Initial Reserve tab to open and complete the Initial Reserve pane (<Section_Name>. Where <Section_Name> is the name entered in the 'Section Details' tab.
+This tab enables you to:
+ADD
+Reserves to a Reserve Section, see
+Adding Reserves to a Reserve Section
+.
+EDIT
+,
+REMOVE
+or
+VIEW
+Reserves, see
+Editing, Removing, or Viewing Reserves from a Reserve Section
+.
+ADD
+Conditions, see
+Adding Conditions to Reserves
+EDIT
+,
+REMOVE
+or
+VIEW
+Rules, see
+Editing, Removing or Viewing Conditions for Reserves
+Adding Reserves to a Reserve Section
+Click the
+ADD NEW INITIAL RESERVE
+button to add a new line.
+Enter or select the appropriate
+Amount
+. Use the Up-Arrow
+and Down-Arrow
+buttons to respectively increase or decrease the amount in steps of Â£ 5,000.
+Select the Class of Business from the 'Select model' drop-down list.
+In this example: 'Motor_PC'.
+Select the 'Select claimant type' drop-down list.
+In this example: 'Driver'.
+The Conditions pane now enables you to add rules by Model Name. Any initial reserve can have multiple rules, and each rule can have multiple conditions.
+To add conditions to reserves, see
+Adding Conditions to Reserves
+.
+If you do
+not
+want to add conditions to reserves, click
+SAVE
+to secure any changes, or click
+CANCEL
+to discard any changes.
+Editing, Removing, or Viewing Reserves from a Reserve Section
+Click the Initial Reserve tab to open and complete the Initial Reserve pane (<Section_Name>. Where <Section_Name> is the name entered in the 'Section Details' tab.
+Click the Edit
+icon on the right to view or amend a reserve, or to access its rules and conditions.
+Click the Delete
+icon to remove the Initial Reserve.
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes.
+Adding Conditions to Reserves
+In the Conditions pane, click the
++ ADD RULE
+button  to add a configurable condition for the user.
+For the initial reserve to be triggered (added to the claim) all rules must be evaluated as 'true'. Therefore, every condition is checked by
+Mobius Claims
+.
+Complete the following fields for every condition:
+Claim Condition
+- select a given claim condition from the drop-down list.
+Some rules will add fields to enable you to add an 'and/or' condition.
+Operator
+- select one of the following:
+=
+equals
+!=
+does not equal
+<
+is smaller than
+>
+is bigger than
+<=
+is smaller than or equals
+>=
+is bigger than or equals
+has changed
+-
+Enter or select the appropriate claim condition.
+Click the Tick
+button to add the condition to the search, or click the Remove
+button to remove the condition from the search.
+You must click the Save
+icon to add and save the new reserve. Click the
+Cancel
+icon to discard the reserve.
+Alternatively, click the
++ ADD CONDITION
+button to add another condition.
+Optionally, click the
++ ADD ANOTHER RULE
+button to add another rule.
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes.
+Editing, Removing or Viewing Conditions for Reserves
+Click the
+Initial Reserve
+tab to open and complete the Initial Reserve pane (<Section_Name>. Where <Section_Name> is the name entered in the
+Section Details
+tab.
+Click the
+Edit
+icon on the top right to Edit a reserve and access conditions for editing, removing and viewing.
+Click the
+Edit
+icon on the right for a given condition to view or amend the condition.
+Click the
+Delete
+icon on the right for a given condition to remove the condition.
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes.
+The Limits of Liability tab
+Click the
+Limits of Liability
+tab. This opens the
+Limits of Liability
+page.
+This tab enables you to:
+ADD
+an Exclusion Period, see
+Adding Exclusion Periods
+.
+EDIT
+,
+REMOVE
+or
+VIEW
+Exclusion Periods, see
+Editing, Viewing or Removing an Exclusion Period
+.
+ADD
+Conditions, see
+The Reserve Sections Page
+EDIT
+,
+REMOVE
+or
+VIEW
+Rules, see
+Editing, Removing or Viewing Conditions for Reserves
+Adding Exclusion Periods
+Select the appropriate model from the drop-down list. In this example: 'OmrMotor'
+Click the
+ADD NEW RULE
+button to add the:
+Amount
+- Enter or select the appropriate Amount
+Use the Up and Down-Arrow keys to increase or decrease the amount in steps of Â£ 5,000.
+Start Date
+- Enter the date in the format DD/MM/YYYY
+This field defaults to 'today' when using the date picker.
+End Date
+- Enter the date in the format DD/MM/YYYY
+This field defaults to 'today' when using the date picker.
+You must click the
+ADD EXCLUSION PERIOD
+button when finished
+This may prompt the query:
+'
+Are you sure?
+Provided exclusion period starts in the past'
+Click
+YES
+or
+NO
+.
+On clicking
+YES
+, the period is added in a new Exclusion Periods pane on the left.
+The Rules pane enables you to add Conditions by Model Name.
+Adding Conditions for Exclusion Periods
+Click the
++ ADD RULE
+button add a configurable condition for the user which
+Mobius Claims
+will check. All rules need to be returned as 'true' for the initial reserve to be triggered (added to the claim). The
++ Add Rule
+button adds another condition to that rule. This section can have
+multiple rules
+and each rule can have
+multiple conditions
+.
+Optionally, click the
+ADD NEW RULE
+button to add further rules as required.
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes.
+Editing, Viewing or Removing an Exclusion Period
+Click the
+REMOVE
+button for a given exclusion period to remove it.
+The pop-up message 'Section Removed' is displayed in the bottom right of the page.
+Note: No confirmation will be asked. The removal of a section cannot be undone.
+You can edit these fields in the same way as you do when first completing these fields. See also:
+The Section Details tab
+Click
+SAVE
+to secure any changes. Alternatively, click
+CANCEL
+to discard any changes.
+Editing, Removing or Viewing Conditions for Exclusion Periods
+-
+Authority Level tab
+Click the Authority Level tab. This opens the Authority Reserve Group page.
+This tab enables you to assign one or more authority levels for this claim.
+Any Authority Reserve Group selected on this tab is grouped to the reserve section which is configured on the Authority Reserve Groups page. See
+The Authority Reserve Groups Page
+. When adding a reserve, the entered will be verified against the amount which is configured for the selected Authority Reserve Group.
+Example:
+If a user, who is a member of a given reserve group, adds a reserve of Â£20,000, but their reserve group limit has been set to Â£10,000, then the reserve needs to be confirmed by someone with a higher limit.
+If multiple groups are assigned to the reserve section, and a user belongs to more than one group, then the system will use the highest reserve.
+Select one or more of the following radio buttons:
+Basic
+Claims Handler
+Manager
+The levels used in your organisation may not match the levels in this example. The levels can be configured on the Authority Reserve Groups page. See
+The Authority Reserve Groups Page
+.
+Excess Tab
+Click the
+Excess
+tab. This opens the
+Excess
+page.
+The Excess tab has a table with the following columns:
+Excess Section
+- Select a given Section Name from the drop-down list.
+Excess Type
+- Select a given Excess Type from the drop-down list.
+Deduct By Default
+- All slide buttons have a toggle function.
+Red indicates do not Deduct by Default.
+Green indicates Deduct by Default. This is the initial setting for all Excess Sections.
+Click
+Save
+to secure all changes. Alternatively, click
+Cancel
+to discard any changes. You are returned to the previous page.
+Buttons
+REMOVE
+- Click this button for the Excess Section for which you want to remove the Excess Type settings.
+Note: To return from one of the option pages to the Administration page, select the
+ADMINISTRATION
+option from the Top Navigation Bar.
+Open GI

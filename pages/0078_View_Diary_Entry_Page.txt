@@ -1,0 +1,75 @@
+Subsystem: Mobius Claims
+TOC Title: View Diary Entry Page
+Page Title: View Diary Entry Page
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_View_Diary_Entry_Page.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+View Diary Entry Page
+The 'View Diary Entry' page enables you
+view
+,
+edit
+and
+save
+selected details.
+You can access the
+View Diary Entry
+page from:
+The
+Diary Search
+page - see
+The Diary Page
+The
+Dashboard
+page - see
+2: Using Mobius Claims
+Fields
+Edit the following fields as appropriate. Some of these fields are not editable if the Diary entry was created automatically.
+Workgroup / User
+- Select the
+Workgroup
+or the
+User
+radio button.
+Diary Owner
+- Select another
+Diary Owner
+from the relevant drop-down list.
+Diary Type
+- Edit as appropriate.
+Reminder Date
+- Edit as appropriate. See
+Using the Date Picker
+.
+Due Date
+- Edit as appropriate. See
+Using the Date Picker
+.
+Notes
+- Edit as appropriate.
+Buttons
+DIARY ON
+- Click to select a time-period by which to move the Diary entry and save it.
+SAVE
+- Click to secure any changes.
+LOAD CLAIM
+- Click to open one of the following pages, depending on where the relevant claim is in the claims process:
+Summary page - see
+The Summary Page
+Claims Details page - see
+The Claims Details Page
+Incident Actions pane - see
+The Incident Actions Pane (middle)
+ACTION
+- Click to complete the Diary task.
+CANCEL
+- Click to discard any changes.
+You are returned to the previous page after any of the above actions.
+Open GI

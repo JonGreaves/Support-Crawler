@@ -1,0 +1,70 @@
+Subsystem: Mobius Claims
+TOC Title: Changing to an Active Directory login
+Page Title: Changing to an Active Directory login
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/MC/TCC_-_Moving_to_AD_login.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Mobius_Claims/Data/Tocs/Mobius_Claims_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Changing to an Active Directory login
+Start your internet browser and navigate to https://<your_site>.theinsurercloud.com, where <your_site> will have been defined when
+Mobius Claims
+was configured.
+Click the
+Sign in via Microsoft
+button to log in to
+Mobius Claims
+(TIC).
+This login page indicates that
+Mobius Claims
+has been configured to use Microsoft Active DirectoryÂ® to secure the TIC Portal and any other TIC applications.
+If this is the first time you are using Active Directory (AD) to log into
+Mobius Claims
+,  click the
+Why is this different?
+button, and then click the
+Sign up via Microsoft
+button.
+In the Email address field, enter the email you would previously have logged in with, and then click the
+Send verification code
+button. This will add a Verification code field to be completed.
+Check your email for a message with the subject line 'The Insurer Cloud account email verification code'. This can sometimes take a few minutes to arrive.
+The email contents will be similar to the following:
+Thanks for verifying your bill.holland@transactorgsl.com account!
+Your code is: 136092
+Sincerely,
+The Insurer Cloud
+Enter the unique one-time code in the Verification code field, and then click
+Verify code
+. Should this fail, click the
+Send new code
+button and try again.
+Enter and confirm your new password and Full Name and then click
+Create
+. To exit without creating a new login ID, click
+Cancel
+.
+After clicking
+Sign in via Microsoft
+, click the appropriate Active Directory (AD) account.
+Optionally,  tick the
+Keep me signed in
+check box, and then click the
+Sign in
+button. Only tick the check box if you are working on your own device; doing so on a 'public' device will allow others to log in using your account.
+Click
+Log in
+when done. This opens the Dashboard. See
+2: Using Mobius Claims
+Note:
+Mobius Claims
+is compatible with the latest release of Microsoft Internet Explorer, Google Chrome and Mozilla Firefox.
+Compatibility with
+Microsoft Edge for
+Windows 10 has not been tested to date.
+Open GI

@@ -1,0 +1,74 @@
+Subsystem: Commercial Vehicle
+TOC Title: Vehicle Cover
+Page Title: Commercial Vehicle Cover screen
+URL: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Commercial_Vehicles/Vehicle_Cover.htm
+Source TOC: https://supportcentre.opengi.co.uk/mobiusguides/Subsystems/Commercial/Data/Tocs/HTML_Commercial_Vehicle_TOC_Chunk0.js
+
+Online Guides Selector
+Core Guides
+Mobius/V Guides
+Ratings/IHP Plus Guides
+Insurer Guides
+Digital Product Guides
+You are here:
+Commercial Vehicle Cover screen
+This screen is used to select the required level of use, cover, voluntary excess and NCD if applicable. It is displayed after the Modifications screen; see
+Modifications screen
+for more information on that screen.
+Commercial Vehicle Cover
+What cover is required?
+Select the type of cover needed from the drop-down list.
+Values: ABI code list 2
+Voluntary Excess
+Select the voluntary excess from the drop-down list.
+Values: TGSL defined
+Example: 0, 50, 75, 100, 150, 200, 250, 300, 350, 400, 450, 500, 600, 700, 800, 900, 1000
+No Claims Pane
+NCD
+Type the number of years NCD (No Claims Discount).
+If NCD is zero, the
+Reason
+field is activated.
+Reason
+Select the reason for zero years NCD from the drop-down list.
+Values: TGSL defined
+NCD Entitlement Reason
+Select the reason from the drop-down list.
+Values: ABI Code List 83
+Type
+Select the type from the drop-down list	.
+Values: TGSL defined
+Country Earned
+Select the country earned from the drop-down list.
+If you select any country other than UK, your are prompted to reply to the message "Check Continuous Residency?".
+Values: ABI code list 32
+Protected NCD?
+Tick the check box if the client has protected their NCD, untick if not.
+NCD In Use On Other Vehicle
+Tick the check box if the NCD is in use on an other vehicle, untick if not.
+Previous Insurance pane
+Insurer Name
+Select the name of the previous insurer from the drop-down list.
+Values: ABI code list 81
+Policy Number
+Type the previous policy number.
+Expiry Date
+Type the date the previous insurance expired.
+Format: DD/MM/YYYY
+Other Motor NCD / Details pane
+Other Motor NCD
+Type the number of NCD years.
+Type of NCD
+Select the type of NCD from the drop-down list.
+Values: ABI code list 7 (sub list 001)
+Years Claim Free
+Type the number of claim free years.
+Insurer
+Select the name of the previous insurer from the drop-down list.
+Values: ABI code list 81
+Is Policy Still Current
+Tick the check box if the policy is still current, untick if not.
+Driving Restriction Of Other Vehicle
+Select the driving restriction of the other vehicle from the drop-down list.
+Values: ABI code list 96
+Open GI
